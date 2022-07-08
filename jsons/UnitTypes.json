@@ -1,0 +1,216 @@
+[
+    {
+        "name": "Civilian",
+        "movementType": "Land",
+    },
+    {
+        "name": "Sword",
+        "movementType": "Land", 
+    },
+    {
+        "name": "Gunpowder",
+        "movementType": "Land",
+    },
+    {
+        "name": "Archery",
+        "movementType": "Land",
+    },
+    {
+        "name": "Ranged Gunpowder",
+        "movementType": "Land",
+    },
+    {
+        "name": "Scout",
+        "movementType": "Land",
+    },
+    {
+        "name": "Mounted",
+        "movementType": "Land",
+    },
+    {
+        "name": "Armored",
+        "movementType": "Land",
+    },
+    {
+        "name": "Siege",
+        "movementType": "Land",
+    },
+    {
+        "name": "Civilian Water",
+        "movementType": "Water",
+    },
+    {
+        "name": "Melee Water",
+        "movementType": "Water",
+    },
+    {
+        "name": "Ranged Water",
+        "movementType": "Water",
+    },
+    {
+        "name": "Submarine",
+        "movementType": "Water",
+        "uniques": ["Can enter ice tiles", "Invisible to non-adjacent units", "Can see invisible [Submarine] units"]
+    },
+    {
+        "name": "Aircraft Carrier",
+        "movementType": "Water",
+    },
+    {
+        "name": "Fighter",
+        "movementType": "Air",
+        "uniques": ["Aircraft", "[+4] Sight", "Can see over obstacles"]
+    },
+    {
+        "name": "Bomber",
+        "movementType": "Air",
+        "uniques": ["Aircraft"]
+    },
+    {
+        "name": "Atomic Bomber",
+        "movementType": "Air",
+        "uniques": ["Aircraft"]
+    },
+    {
+        "name": "Missile",
+        "movementType": "Air",
+        "uniques": ["Self-destructs when attacking", "Cannot be intercepted"]
+    },
+    {
+        "name": "Helicopter",
+        "movementType": "Land",
+        "uniques": ["Can pass through impassable tiles"]
+    },
+    
+    // Deprecated unit types required for mods without a UnitTypes.json file to work
+    
+    {
+        "name": "Melee",
+        "movementType": "Land",
+    },
+    {
+        "name": "Ranged",
+        "movementType": "Land",
+    },
+    {
+        "name": "Armor",
+        "movementType": "Land",
+    },
+    {
+        "name": "WaterCivilian",
+        "movementType": "Water",
+    },
+    {
+        "name": "WaterMelee",
+        "movementType": "Water",
+    },
+    {
+        "name": "WaterRanged",
+        "movementType": "Water",
+    },
+    {
+        "name": "WaterSubmarine",
+        "movementType": "Water",
+    },
+    {
+        "name": "WaterAircraftCarrier",
+        "movementType": "Water",
+    },
+    {
+        "name": "AtomicBomber",
+        "movementType": "Air",
+    },
+    // Anime Type
+    {
+        "name": "Miko",
+        "movementType": "Land",
+    },
+    {
+        "name": "Loid",
+        "movementType": "Land",
+    },
+    {
+        "name": "Hinowa",
+        "movementType": "Land",
+    },
+    {
+        "name": "Eris",
+        "movementType": "Land",
+    },
+    {
+        "name": "Akame",
+        "movementType": "Land",
+    },
+    {
+        "name": "Mikasa",
+        "movementType": "Land",
+    },
+    {
+        "name": "Kazuma",
+        "movementType": "Land",
+    },
+    {
+        "name": "Kurumi",
+        "movementType": "Land",
+    },
+    {
+        "name": "Shinon",
+        "movementType": "Land",
+    },
+    {
+        "name": "Mine",
+        "movementType": "Land",
+    },
+    {
+        "name": "Rudeus",
+        "movementType": "Land",
+    },
+    {
+        "name": "Aqua",
+        "movementType": "Land",
+    },
+    {
+        "name": "Lelouch",
+        "movementType": "Land",
+    },
+    {
+        "name": "Shin",
+        "movementType": "Land",
+    },
+    {
+        "name": "Fubuki",
+        "movementType": "Water",
+    },
+    {
+        "name": "Shigure",
+        "movementType": "Water",
+    },
+    {
+        "name": "Yuubari",
+        "movementType": "Water",
+    },
+    {
+        "name": "Abukuma",
+        "movementType": "Water",
+    },
+    {
+        "name": "Nagato",
+        "movementType": "Water",
+    },
+    {
+        "name": "Yamato",
+        "movementType": "Water",
+    },
+    {
+        "name": "Zuikaku",
+        "movementType": "Water",
+    },
+    {
+        "name": "Shoukaku",
+        "movementType": "Water",
+    },
+    {
+        "name": "Lena",
+        "movementType": "Air",
+    },
+]
