@@ -659,7 +659,7 @@
 	},
 	{
 		"name": "Blessing!",
-		"uniques": ["All adjacent units heal [+10] HP when healing <in [Friendly Land] tiles>"],
+		"uniques": ["Unit will heal every turn, even if it performs an action"],
 		"unitTypes": ["Aqua"]
 	},
 	{

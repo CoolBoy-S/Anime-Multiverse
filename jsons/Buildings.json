@@ -1182,14 +1182,14 @@
 		"name": "District 86",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"uniques": ["Free [Lena] appears", "Destroyed when the city is captured", "All newly-trained [Shin] units [in this city] receive the [Undertaker] promotion"],
+		"uniques": ["Free [Lena] appears", "Destroyed when the city is captured", "All newly-trained [Shin] units [in this city] receive the [Undertaker] promotion", "Creates a [District 86] improvement on a specific tile"],
 		"requiredTech": "Artillery"
 	},
 	{
 		"name": "Night Raid Hideout",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"uniques": ["Free [Mine] appears", "Destroyed when the city is captured", "All newly-trained [Akame] units [in this city] receive the [One-Cut Killer] promotion"],
+		"uniques": ["Free [Mine] appears", "Destroyed when the city is captured", "All newly-trained [Akame] units [in this city] receive the [One-Cut Killer] promotion", "Creates a [Night Raid Hideout] improvement on a specific tile"],
 		"requiredTech": "Sniper"
 	},
 	{
@@ -1197,7 +1197,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"percentStatBonus": {"science": 20},
-		"uniques": ["Free [Eris] appears", "Destroyed when the city is captured", "[+2 Science] from [Snow] tiles [in this city]", "All newly-trained [Rudeus] units [in this city] receive the [Quagmire] promotion"],
+		"uniques": ["Free [Eris] appears", "Destroyed when the city is captured", "[+2 Science] from [Snow] tiles [in this city]", "All newly-trained [Rudeus] units [in this city] receive the [Quagmire] promotion", "Creates a [Ranoa Academy] improvement on a specific tile"],
 		"requiredTech": "Tanker"
 	},
 	{
@@ -1205,15 +1205,15 @@
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"happiness": 4,
-		"uniques": ["Destroyed when the city is captured"],
+		"uniques": ["Destroyed when the city is captured", "Creates a [Amagi Brilliant Park] improvement on a specific tile"],
 		"requiredTech": "Sniper Ⅱ"
 	},
 	{
-		"name": "CIRCLE",
+		"name": "CIRCLE Live House",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"happiness": 2,
-		"uniques": ["Destroyed when the city is captured"],
+		"uniques": ["Destroyed when the city is captured", "Creates a [CIRCLE Live House] improvement on a specific tile"],
 		"requiredTech": "Informer"
 	},
 	/*
