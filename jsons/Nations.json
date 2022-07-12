@@ -1396,6 +1396,60 @@
 		"outerColor": [0,0,0],
 		"innerColor": [182,0,0],
 		"uniques": ["Can only heal by pillaging"]
-	}
+	},
+	
+	// Anime Nations
+	{
+		"name": "Engage Kiss",
+		"leaderName": "Shuu",
+		"adjective": ["Engage Kiss"],
+		"startBias": ["Grassland]"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Baylon City -A mega-float city in the Pacific Ocean that does not belong to any country.  In this city, which has been mining the new energy resource Orgonium and is attracting the most attention in the world, there have been many special incidents caused by devils called D disasters.",
+		"startIntroPart2": "D disaster whose existence is known only to some humans. It is the PMC private military company that deals with this. Shu, a young man living in Beiron City, runs one of them, The size of the company is very small. As a bonus, I also choose a job, so it is always difficult to raise funds.",
+
+		"declaringWar": "The demon wants the blood of soldiers!",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "It is over. Perhaps now I shall have peace, at last.",
+		"introduction": "Are you real or a phantom?",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+
+		"outerColor": [253,221,245],
+		"innerColor": [59,49,73],
+		"favoredReligion": "Shinto",
+		"uniqueName": "Engage Kill!",
+		"cities": ["Baylon City"]
+	},
+	{
+		"name": "Lycoris Recoil",
+		"leaderName": "Lycoris",
+		"adjective": ["Lycoris Recoil"],
+		"startBias": ["Plains]"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Inoue Takina, a secret agent who protects the security of Japan, is ordered to transfer to the cafe Lycoris in the wake of a certain incident. She teams up with Chisato, the super-excellent No.1 Lycoris, And is enthusiastic about her return to DA, but her work at Lycoris has a habit and a habit!?",
+		"startIntroPart2": "A request came to Lycoris from top hacker Walnut!  He wants hackers in the same industry to help him escape from the country.  The members of Lycoris try to escape Walnut together, but a strict armed group attacks Chisato and others...!?",
+
+		"declaringWar": "The demon wants the blood of soldiers!",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "It is over. Perhaps now I shall have peace, at last.",
+		"introduction": "Are you real or a phantom?",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+
+		"outerColor": [255,240,207],
+		"innerColor": [56,50,52],
+		"favoredReligion": "Shinto",
+		"uniqueName": "Lycoris Girl",
+		"cities": ["Lycoris City"]
+	},
 
 ]

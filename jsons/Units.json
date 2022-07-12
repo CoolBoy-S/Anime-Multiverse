@@ -1729,7 +1729,6 @@
 		"requiredResource": "Talisman",
 		"uniques" : ["Can see invisible [Military] units", "Never appears as a Barbarian unit"],
 		"hurryCostModifier": 20,
-		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "No one can escape from my Sight"}
 		]
@@ -1849,10 +1848,12 @@
 		"unitType": "Eris",
 		"movement": 2,
 		"strength": 14,
+		"cost": 75,
 		"requiredTech": "Tanker",
+		"requiredResource": "Sword King",
 		"upgradesTo": "Eris Ⅱ",
 		"obsoleteTech": "Tanker Ⅱ",
-		"uniques" : ["[+20]% Strength <when defending>", "Only available <with [Sword King]>", "Never appears as a Barbarian unit"],
+		"uniques" : ["[+20]% Strength <when defending>", "Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "As expected of Rudeus."}
@@ -1863,10 +1864,12 @@
 		"unitType": "Eris",
 		"movement": 2,
 		"strength": 24,
+		"cost":150,
 		"requiredTech": "Tanker Ⅱ",
+		"requiredResource": "Sword King",
 		"upgradesTo": "Eris Ⅲ",
 		"obsoleteTech": "Tanker Ⅲ",
-		"uniques" : ["[+20]% Strength <when defending>", "Only available <with [Sword King]>", "Never appears as a Barbarian unit"],
+		"uniques" : ["[+20]% Strength <when defending>", "Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "As expected of Rudeus."}
@@ -1877,10 +1880,12 @@
 		"unitType": "Eris",
 		"movement": 2,
 		"strength": 34,
+		"cost": 320,
 		"requiredTech": "Tanker Ⅲ",
+		"requiredResource": "Sword King",
 		"upgradesTo": "Eris Ⅳ",
 		"obsoleteTech": "Tanker Ⅳ",
-		"uniques" : ["[+20]% Strength <when defending>", "Only available <with [Sword King]>", "Never appears as a Barbarian unit"],
+		"uniques" : ["[+20]% Strength <when defending>", "Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "As expected of Rudeus."}
@@ -1891,10 +1896,12 @@
 		"unitType": "Eris",
 		"movement": 2,
 		"strength": 50,
+		"cost": 320,
 		"requiredTech": "Tanker Ⅳ",
+		"requiredResource": "Sword King",
 		"upgradesTo": "Eris Ⅴ",
 		"obsoleteTech": "Tanker Ⅴ",
-		"uniques" : ["[+20]% Strength <when defending>", "Only available <with [Sword King]>", "Never appears as a Barbarian unit"],
+		"uniques" : ["[+20]% Strength <when defending>", "Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "As expected of Rudeus."}
@@ -1905,10 +1912,12 @@
 		"unitType": "Eris",
 		"movement": 2,
 		"strength": 70,
+		"cost": 375,
 		"requiredTech": "Tanker Ⅴ",
+		"requiredResource": "Sword King",
 		"upgradesTo": "Eris Final Form",
 		"obsoleteTech": "Final Form",
-		"uniques" : ["[+20]% Strength <when defending>", "Only available <with [Sword King]>", "Never appears as a Barbarian unit"],
+		"uniques" : ["[+20]% Strength <when defending>", "Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "As expected of Rudeus."}
@@ -1919,8 +1928,10 @@
 		"unitType": "Eris",
 		"movement": 2,
 		"strength": 100,
+		"cost": 425,
 		"requiredTech": "Final Form",
-		"uniques" : ["[+20]% Strength <when defending>", "Only available <with [Sword King]>", "Never appears as a Barbarian unit"],
+		"requiredResource": "Sword King",
+		"uniques" : ["[+20]% Strength <when defending>", "Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "As expected of Rudeus."}
@@ -2018,6 +2029,112 @@
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Eliminate!"}
+		]
+	},
+	{
+		"name": "Kisara",
+		"unitType": "Kisara",
+		"movement": 2,
+		"strength": 11,
+		"cost": 56,
+		"requiredTech": "Attacker",
+		"requiredResource": "Demon Sword",
+		"upgradesTo": "Kisara Ⅱ",
+		"obsoleteTech": "Attacker Ⅱ",
+		"replaces": "Akame",
+		"uniqueTo": "Engage Kiss",
+		"uniques" : ["[+2] Movement <when adjacent to a [Military] unit>","Never appears as a Barbarian unit"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "It means powering up with the power of our love right?"}
+		]
+	},
+	{
+		"name": "Kisara Ⅱ",
+		"unitType": "Kisara",
+		"movement": 2,
+		"strength": 20,
+		"cost": 120,
+		"requiredTech": "Attacker Ⅱ",
+		"requiredResource": "Demon Sword",
+		"upgradesTo": "Kisara Ⅲ",
+		"obsoleteTech": "Attacker Ⅲ",
+		"replaces": "Akame Ⅱ",
+		"uniqueTo": "Engage Kiss",
+		"uniques" : ["[+2] Movement <when adjacent to a [Military] unit>","Never appears as a Barbarian unit"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "It means powering up with the power of our love right?"}
+		]
+	},
+	{
+		"name": "Kisara Ⅲ",
+		"unitType": "Kisara",
+		"movement": 2,
+		"strength": 34,
+		"cost": 225,
+		"requiredTech": "Attacker Ⅲ",
+		"requiredResource": "Demon Sword",
+		"upgradesTo": "Kisara Ⅳ",
+		"obsoleteTech": "Attacker Ⅳ",
+		"replaces": "Akame Ⅲ",
+		"uniqueTo": "Engage Kiss",
+		"uniques" : ["[+2] Movement <when adjacent to a [Military] unit>","Never appears as a Barbarian unit"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "It means powering up with the power of our love right?"}
+		]
+	},
+	{
+		"name": "Kisara Ⅳ",
+		"unitType": "Kisara",
+		"movement": 2,
+		"strength": 60,
+		"cost": 350,
+		"requiredTech": "Attacker Ⅳ",
+		"requiredResource": "Demon Sword",
+		"upgradesTo": "Kisara Ⅴ",
+		"obsoleteTech": "Attacker Ⅴ",
+		"replaces": "Akame Ⅳ",
+		"uniqueTo": "Engage Kiss",
+		"uniques" : ["[+2] Movement <when adjacent to a [Military] unit>","Never appears as a Barbarian unit"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "It means powering up with the power of our love right?"}
+		]
+	},
+	{
+		"name": "Kisara Ⅴ",
+		"unitType": "Kisara",
+		"movement": 2,
+		"strength": 70,
+		"cost": 425,
+		"requiredTech": "Attacker Ⅴ",
+		"requiredResource": "Demon Sword",
+		"upgradesTo": "Kisara Final Form",
+		"obsoleteTech": "Final Form",
+		"replaces": "Akame Ⅴ",
+		"uniqueTo": "Engage Kiss",
+		"uniques" : ["[+2] Movement <when adjacent to a [Military] unit>","Never appears as a Barbarian unit"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "It means powering up with the power of our love right?"}
+		]
+	},
+	{
+		"name": "Kisara Final Form",
+		"unitType": "Kisara",
+		"movement": 2,
+		"strength": 100,
+		"cost": 425,
+		"requiredTech": "Final Form",
+		"requiredResource": "Demon Sword",
+		"replaces": "Akame Final Form",
+		"uniqueTo": "Engage Kiss",
+		"uniques" : ["[+2] Movement <when adjacent to a [Military] unit>", "Never appears as a Barbarian unit"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "It means powering up with the power of our love right?"}
 		]
 	},
 	{
@@ -2220,7 +2337,7 @@
 		"upgradesTo": "Kurumi Ⅱ",
 		"obsoleteTech": "Sniper Ⅱ",
 		"uniques" : ["[+2] Movement <in [Foreign Land] tiles>", "Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "shot",
         "civilopediaText": [
 			{"text": "Can you kill me with your useless power?"}
 		]
@@ -2237,7 +2354,7 @@
 		"upgradesTo": "Kurumi Ⅲ",
 		"obsoleteTech": "Sniper Ⅲ",
 		"uniques" : ["[+2] Movement <in [Foreign Land] tiles>", "Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "shot",
         "civilopediaText": [
 			{"text": "Can you kill me with your useless power?"}
 		]
@@ -2254,7 +2371,7 @@
 		"upgradesTo": "Kurumi Ⅳ",
 		"obsoleteTech": "Sniper Ⅳ",
 		"uniques" : ["[+2] Movement <in [Foreign Land] tiles>", "Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "shot",
         "civilopediaText": [
 			{"text": "Can you kill me with your useless power?"}
 		]
@@ -2271,7 +2388,7 @@
 		"upgradesTo": "Kurumi Ⅴ",
 		"obsoleteTech": "Sniper Ⅴ",
 		"uniques" : ["[+2] Movement <in [Foreign Land] tiles>", "Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "shot",
         "civilopediaText": [
 			{"text": "Can you kill me with your useless power?"}
 		]
@@ -2288,7 +2405,7 @@
 		"upgradesTo": "Kurumi Final Form",
 		"obsoleteTech": "Final Form",
 		"uniques" : ["[+2] Movement <in [Foreign Land] tiles>", "Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "shot",
         "civilopediaText": [
 			{"text": "Can you kill me with your useless power?"}
 		]
@@ -2303,7 +2420,7 @@
 		"requiredTech": "Final Form",
 		"requiredResource": "Zafkiel",
 		"uniques" : ["[+2] Movement <in [Foreign Land] tiles>", "Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "shot",
         "civilopediaText": [
 			{"text": "Can you kill me with your useless power?"}
 		]
@@ -2320,7 +2437,7 @@
 		"upgradesTo": "Shinon Ⅱ",
 		"obsoleteTech": "Sniper Ⅱ",
 		"uniques" : ["Can pass through impassable tiles", "Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "shot",
         "civilopediaText": [
 			{"text": "Target still far away but no problem..."}
 		]
@@ -2337,7 +2454,7 @@
 		"upgradesTo": "Shinon Ⅲ",
 		"obsoleteTech": "Sniper Ⅲ",
 		"uniques" : ["Can pass through impassable tiles", "Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "shot",
         "civilopediaText": [
 			{"text": "Target still far away but no problem..."}
 		]
@@ -2354,7 +2471,7 @@
 		"upgradesTo": "Shinon Ⅳ",
 		"obsoleteTech": "Sniper Ⅳ",
 		"uniques" : ["Can pass through impassable tiles", "Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "shot",
         "civilopediaText": [
 			{"text": "Target still far away but no problem..."}
 		]
@@ -2371,7 +2488,7 @@
 		"upgradesTo": "Shinon Ⅴ",
 		"obsoleteTech": "Sniper Ⅴ",
 		"uniques" : ["Can pass through impassable tiles", "Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "shot",
         "civilopediaText": [
 			{"text": "Target still far away but no problem..."}
 		]
@@ -2388,7 +2505,7 @@
 		"upgradesTo": "Shinon Final Form",
 		"obsoleteTech": "Final Form",
 		"uniques" : ["Can pass through impassable tiles", "Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "shot",
         "civilopediaText": [
 			{"text": "Target still far away but no problem..."}
 		]
@@ -2403,7 +2520,7 @@
 		"requiredTech": "Final Form",
 		"requiredResource": "Hecate Ⅱ",
 		"uniques" : ["Can pass through impassable tiles", "Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "shot",
         "civilopediaText": [
 			{"text": "Target still far away but no problem..."}
 		]
@@ -2414,11 +2531,13 @@
 		"movement": 2,
 		"strength": 7,
 		"rangedStrength": 11,
+		"cost": 75,
 		"requiredTech": "Sniper",
+		"requiredResource": "Pumpkin",
 		"upgradesTo": "Mine Ⅱ",
 		"obsoleteTech": "Sniper Ⅱ",
-		"uniques" : ["[+2] Sight <in [Foreign Land] tiles>", "Only available <with [Pumpkin]>", "Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"uniques" : ["[+2] Sight <in [Foreign Land] tiles>", "Never appears as a Barbarian unit"],
+		"attackSound": "shot",
         "civilopediaText": [
 			{"text": "Wrong or not, I'll follow my own path!"}
 		]
@@ -2429,11 +2548,13 @@
 		"movement": 2,
 		"strength": 16,
 		"rangedStrength": 22,
+		"cost": 185,
 		"requiredTech": "Sniper Ⅱ",
+		"requiredResource": "Pumpkin",
 		"upgradesTo": "Mine Ⅲ",
 		"obsoleteTech": "Sniper Ⅲ",
-		"uniques" : ["[+2] Sight <in [Foreign Land] tiles>", "Only available <with [Pumpkin]>", "Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"uniques" : ["[+2] Sight <in [Foreign Land] tiles>", "Never appears as a Barbarian unit"],
+		"attackSound": "shot",
         "civilopediaText": [
 			{"text": "Wrong or not, I'll follow my own path!"}
 		]
@@ -2444,11 +2565,13 @@
 		"movement": 2,
 		"strength": 30,
 		"rangedStrength": 30,
+		"cost": 320,
 		"requiredTech": "Sniper Ⅲ",
+		"requiredResource": "Pumpkin",
 		"upgradesTo": "Mine Ⅳ",
 		"obsoleteTech": "Sniper Ⅳ",
-		"uniques" : ["[+2] Sight <in [Foreign Land] tiles>", "Only available <with [Pumpkin]>", "Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"uniques" : ["[+2] Sight <in [Foreign Land] tiles>", "Never appears as a Barbarian unit"],
+		"attackSound": "shot",
         "civilopediaText": [
 			{"text": "Wrong or not, I'll follow my own path!"}
 		]
@@ -2459,11 +2582,13 @@
 		"movement": 2,
 		"strength": 60,
 		"rangedStrength": 60,
+		"cost": 350,
 		"requiredTech": "Sniper Ⅳ",
+		"requiredResource": "Pumpkin",
 		"upgradesTo": "Mine Ⅴ",
 		"obsoleteTech": "Sniper Ⅴ",
-		"uniques" : ["[+2] Sight <in [Foreign Land] tiles>", "Only available <with [Pumpkin]>", "Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"uniques" : ["[+2] Sight <in [Foreign Land] tiles>", "Never appears as a Barbarian unit"],
+		"attackSound": "shot",
         "civilopediaText": [
 			{"text": "Wrong or not, I'll follow my own path!"}
 		]
@@ -2474,11 +2599,13 @@
 		"movement": 2,
 		"strength": 60,
 		"rangedStrength": 70,
+		"cost": 425,
 		"requiredTech": "Sniper Ⅴ",
+		"requiredResource": "Pumpkin",
 		"upgradesTo": "Mine Final Form",
 		"obsoleteTech": "Final Form",
 		"uniques" : ["[+2] Sight <in [Foreign Land] tiles>", "Only available <with [Pumpkin]>", "Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "shot",
         "civilopediaText": [
 			{"text": "Wrong or not, I'll follow my own path!"}
 		]
@@ -2489,11 +2616,231 @@
 		"movement": 2,
 		"strength": 80,
 		"rangedStrength": 100,
+		"cost": 425,
 		"requiredTech": "Final Form",
-		"uniques" : ["[+2] Sight <in [Foreign Land] tiles>", "Only available <with [Pumpkin]>", "Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"requiredResource": "Pumpkin",
+		"uniques" : ["[+2] Sight <in [Foreign Land] tiles>", "Never appears as a Barbarian unit"],
+		"attackSound": "shot",
         "civilopediaText": [
 			{"text": "Wrong or not, I'll follow my own path!"}
+		]
+	},
+	{
+		"name": "Chisato", //counter
+		"unitType": "Chisato",
+		"movement": 2,
+		"strength": 7,
+		"rangedStrength": 11,
+		"cost": 75,
+		"replaces": "Mine",
+		"uniqueTo": "Lycoris Recoil",
+		"requiredTech": "Sniper",
+		"requiredResource": "Lycoris Gun",
+		"upgradesTo": "Chisato Ⅱ",
+		"obsoleteTech": "Sniper Ⅱ",
+		"uniques" : ["[+2] Movement <when adjacent to a [Takina] unit>", "Never appears as a Barbarian unit"],
+		"attackSound": "shot",
+        "civilopediaText": [
+			{"text": "Work well today!"}
+		]
+	},
+	{
+		"name": "Chisato Ⅱ", //counter
+		"unitType": "Chisato",
+		"movement": 2,
+		"strength": 16,
+		"rangedStrength": 22,
+		"cost": 185,
+		"replaces": "Mine Ⅱ",
+		"uniqueTo": "Lycoris Recoil",
+		"requiredTech": "Sniper Ⅱ",
+		"requiredResource": "Lycoris Gun",
+		"upgradesTo": "Chisato Ⅲ",
+		"obsoleteTech": "Sniper Ⅲ",
+		"uniques" : ["[+2] Movement <when adjacent to a [Takina] unit>", "Never appears as a Barbarian unit"],
+		"attackSound": "shot",
+        "civilopediaText": [
+			{"text": "Work well today!"}
+		]
+	},
+	{
+		"name": "Chisato Ⅲ", //counter
+		"unitType": "Chisato",
+		"movement": 2,
+		"strength": 30,
+		"rangedStrength": 30,
+		"cost": 320,
+		"replaces": "Mine Ⅲ",
+		"uniqueTo": "Lycoris Recoil",
+		"requiredTech": "Sniper Ⅲ",
+		"requiredResource": "Lycoris Gun",
+		"upgradesTo": "Chisato Ⅳ",
+		"obsoleteTech": "Sniper Ⅳ",
+		"uniques" : ["[+2] Movement <when adjacent to a [Takina] unit>", "Never appears as a Barbarian unit"],
+		"attackSound": "shot",
+        "civilopediaText": [
+			{"text": "Work well today!"}
+		]
+	},
+	{
+		"name": "Chisato Ⅳ", //counter
+		"unitType": "Chisato",
+		"movement": 2,
+		"strength": 60,
+		"rangedStrength": 60,
+		"cost": 350,
+		"replaces": "Mine Ⅳ",
+		"uniqueTo": "Lycoris Recoil",
+		"requiredTech": "Sniper Ⅳ",
+		"requiredResource": "Lycoris Gun",
+		"upgradesTo": "Chisato Ⅴ",
+		"obsoleteTech": "Sniper Ⅴ",
+		"uniques" : ["[+2] Movement <when adjacent to a [Takina] unit>", "Never appears as a Barbarian unit"],
+		"attackSound": "shot",
+        "civilopediaText": [
+			{"text": "Work well today!"}
+		]
+	},
+	{
+		"name": "Chisato Ⅴ", //counter
+		"unitType": "Chisato",
+		"movement": 2,
+		"strength": 60,
+		"rangedStrength": 70,
+		"cost": 425,
+		"replaces": "Mine Ⅴ",
+		"uniqueTo": "Lycoris Recoil",
+		"requiredTech": "Sniper Ⅴ",
+		"requiredResource": "Lycoris Gun",
+		"upgradesTo": "Chisato Final Form",
+		"obsoleteTech": "Final Form",
+		"uniques" : ["[+2] Movement <when adjacent to a [Takina] unit>", "Never appears as a Barbarian unit"],
+		"attackSound": "shot",
+        "civilopediaText": [
+			{"text": "Work well today!"}
+		]
+	},
+	{
+		"name": "Chisato Final Form", //counter
+		"unitType": "Chisato",
+		"movement": 2,
+		"strength": 80,
+		"rangedStrength": 100,
+		"cost": 425,
+		"replaces": "Mine Final Form",
+		"uniqueTo": "Lycoris Recoil",
+		"requiredTech": "Final Form",
+		"requiredResource": "Lycoris Gun",
+		"uniques" : ["[+2] Movement <when adjacent to a [Takina] unit>", "Never appears as a Barbarian unit"],
+		"attackSound": "shot",
+        "civilopediaText": [
+			{"text": "Work well today!"}
+		]
+	},
+	{
+		"name": "Takina", //counter
+		"unitType": "Takina",
+		"movement": 2,
+		"strength": 7,
+		"rangedStrength": 11,
+		"cost": 75,
+		"uniqueTo": "Lycoris Recoil",
+		"requiredTech": "Sniper",
+		"requiredResource": "Lycoris Gun",
+		"upgradesTo": "Takina Ⅱ",
+		"obsoleteTech": "Sniper Ⅱ",
+		"uniques" : ["[-50]% Strength bonus for [Chisato] units within [1] tiles", "Never appears as a Barbarian unit"],
+		"attackSound": "shot",
+        "civilopediaText": [
+			{"text": "What does this mission mean?"}
+		]
+	},
+	{
+		"name": "Takina Ⅱ", //counter
+		"unitType": "Takina",
+		"movement": 2,
+		"strength": 16,
+		"rangedStrength": 22,
+		"cost": 185,
+		"uniqueTo": "Lycoris Recoil",
+		"requiredTech": "Sniper Ⅱ",
+		"requiredResource": "Lycoris Gun",
+		"upgradesTo": "Takina Ⅲ",
+		"obsoleteTech": "Sniper Ⅲ",
+		"uniques" : ["[-50]% Strength bonus for [Chisato] units within [1] tiles", "Never appears as a Barbarian unit"],
+		"attackSound": "shot",
+        "civilopediaText": [
+			{"text": "What does this mission mean?"}
+		]
+	},
+	{
+		"name": "Takina Ⅲ", //counter
+		"unitType": "Takina",
+		"movement": 2,
+		"strength": 30,
+		"rangedStrength": 30,
+		"cost": 320,
+		"uniqueTo": "Lycoris Recoil",
+		"requiredTech": "Sniper Ⅲ",
+		"requiredResource": "Lycoris Gun",
+		"upgradesTo": "Takina Ⅳ",
+		"obsoleteTech": "Sniper Ⅳ",
+		"uniques" : ["[-50]% Strength bonus for [Chisato] units within [1] tiles", "Never appears as a Barbarian unit"],
+		"attackSound": "shot",
+        "civilopediaText": [
+			{"text": "What does this mission mean?"}
+		]
+	},
+	{
+		"name": "Takina Ⅳ", //counter
+		"unitType": "Takina",
+		"movement": 2,
+		"strength": 60,
+		"rangedStrength": 60,
+		"cost": 350,
+		"uniqueTo": "Lycoris Recoil",
+		"requiredTech": "Sniper Ⅳ",
+		"requiredResource": "Lycoris Gun",
+		"upgradesTo": "Takina Ⅴ",
+		"obsoleteTech": "Sniper Ⅴ",
+		"uniques" : ["[-50]% Strength bonus for [Chisato] units within [1] tiles", "Never appears as a Barbarian unit"],
+		"attackSound": "shot",
+        "civilopediaText": [
+			{"text": "What does this mission mean?"}
+		]
+	},
+	{
+		"name": "Takina Ⅴ", //counter
+		"unitType": "Takina",
+		"movement": 2,
+		"strength": 60,
+		"rangedStrength": 70,
+		"cost": 425,
+		"uniqueTo": "Lycoris Recoil",
+		"requiredTech": "Sniper Ⅴ",
+		"requiredResource": "Lycoris Gun",
+		"upgradesTo": "Takina Final Form",
+		"obsoleteTech": "Final Form",
+		"uniques" : ["[-50]% Strength bonus for [Chisato] units within [1] tiles", "Never appears as a Barbarian unit"],
+		"attackSound": "shot",
+        "civilopediaText": [
+			{"text": "What does this mission mean?"}
+		]
+	},
+	{
+		"name": "Takina Final Form", //counter
+		"unitType": "Takina",
+		"movement": 2,
+		"strength": 80,
+		"rangedStrength": 100,
+		"cost": 425,
+		"uniqueTo": "Lycoris Recoil",
+		"requiredTech": "Final Form",
+		"requiredResource": "Lycoris Gun",
+		"uniques" : ["[-50]% Strength bonus for [Chisato] units within [1] tiles", "Never appears as a Barbarian unit"],
+		"attackSound": "shot",
+        "civilopediaText": [
+			{"text": "What does this mission mean?"}
 		]
 	},
 	{
@@ -2808,9 +3155,9 @@
 		"upgradesTo": "Shin Ⅱ",
 		"obsoleteTech": "Artillery Ⅱ",
 		"uniques" : ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
-			"Must set up to ranged attack", "[+50]% Strength <when attacking> within [2] tiles of a [Mountain]"],
+			"Must set up to ranged attack", "[+50]% Strength <when attacking> <within [2] tiles of a [Mountain]>"],
 		"hurryCostModifier": 20,
-		"attackSound": "nonmetalhit",
+		"attackSound": "artillery",
         "civilopediaText": [
 			{"text": "I can hear their voices..."}
 		]
@@ -2827,9 +3174,9 @@
 		"upgradesTo": "Shin Ⅲ",
 		"obsoleteTech": "Artillery Ⅲ",
 		"uniques" : ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
-			"Must set up to ranged attack", "[+50]% Strength <when attacking> within [2] tiles of a [Mountain]"],
+			"Must set up to ranged attack", "[+50]% Strength <when attacking> <within [2] tiles of a [Mountain]>"],
 		"hurryCostModifier": 20,
-		"attackSound": "nonmetalhit",
+		"attackSound": "artillery",
         "civilopediaText": [
 			{"text": "I can hear their voices..."}
 		]
@@ -2846,9 +3193,9 @@
 		"upgradesTo": "Shin Ⅳ",
 		"obsoleteTech": "Artillery Ⅳ",
 		"uniques" : ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
-			"Must set up to ranged attack", "[+50]% Strength <when attacking> within [2] tiles of a [Mountain]"],
+			"Must set up to ranged attack", "[+50]% Strength <when attacking> <within [2] tiles of a [Mountain]>"],
 		"hurryCostModifier": 20,
-		"attackSound": "nonmetalhit",
+		"attackSound": "artillery",
         "civilopediaText": [
 			{"text": "I can hear their voices..."}
 		]
@@ -2865,9 +3212,9 @@
 		"upgradesTo": "Shin Ⅴ",
 		"obsoleteTech": "Artillery Ⅴ",
 		"uniques" : ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
-			"Must set up to ranged attack", "[+50]% Strength <when attacking> within [2] tiles of a [Mountain]"],
+			"Must set up to ranged attack", "[+50]% Strength <when attacking> <within [2] tiles of a [Mountain]>"],
 		"hurryCostModifier": 20,
-		"attackSound": "nonmetalhit",
+		"attackSound": "artillery",
         "civilopediaText": [
 			{"text": "I can hear their voices..."}
 		]
@@ -2884,9 +3231,9 @@
 		"upgradesTo": "Shin Final Form",
 		"obsoleteTech": "Final Form",
 		"uniques" : ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
-			"Must set up to ranged attack", "[+50]% Strength <when attacking> within [2] tiles of a [Mountain]"],
+			"Must set up to ranged attack", "[+50]% Strength <when attacking> <within [2] tiles of a [Mountain]>"],
 		"hurryCostModifier": 20,
-		"attackSound": "nonmetalhit",
+		"attackSound": "artillery",
         "civilopediaText": [
 			{"text": "I can hear their voices..."}
 		]
@@ -2903,7 +3250,7 @@
 		"uniques" : ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
 			"Must set up to ranged attack", "[+50]% Strength <when attacking> <within [2] tiles of a [Mountain]>"],
 		"hurryCostModifier": 20,
-		"attackSound": "nonmetalhit",
+		"attackSound": "artillery",
         "civilopediaText": [
 			{"text": "I can hear their voices..."}
 		]
@@ -2914,12 +3261,14 @@
 		"movement": 1,
 		"strength": 12,
 		"rangedStrength": 14,
+		"cost": 90,
 		"range": 10,
 		"requiredTech": "Artillery",
+		"requiredResource": "Para Raid",
 		"upgradesTo": "Lena Ⅱ",
 		"obsoleteTech": "Artillery Ⅱ",
-		"uniques" : ["[+20]% Strength <when attacking> <when adjacent to a [Military] unit>", "Only available <with [Para Raid]>"],
-		"attackSound": "nonmetalhit",
+		"uniques" : ["[+20]% Strength <when attacking> <when adjacent to a [Military] unit>", "Never appears as a Barbarian unit"],
+		"attackSound": "bombing",
         "civilopediaText": [
 			{"text": "Don't leave me behind..."}
 		]
@@ -2930,12 +3279,14 @@
 		"movement": 1,
 		"strength": 14,
 		"rangedStrength": 20,
+		"cost": 150,
 		"range": 10,
 		"requiredTech": "Artillery Ⅱ",
+		"requiredResource": "Para Raid",
 		"upgradesTo": "Lena Ⅲ",
 		"obsoleteTech": "Artillery Ⅲ",
-		"uniques" : ["[+20]% Strength <when attacking> <when adjacent to a [Military] unit>", "Only available <with [Para Raid]>"],
-		"attackSound": "nonmetalhit",
+		"uniques" : ["[+20]% Strength <when attacking> <when adjacent to a [Military] unit>", "Never appears as a Barbarian unit"],
+		"attackSound": "bombing",
         "civilopediaText": [
 			{"text": "Don't leave me behind..."}
 		]
@@ -2946,12 +3297,14 @@
 		"movement": 1,
 		"strength": 21,
 		"rangedStrength": 28,
+		"cost": 320,
 		"range": 10,
 		"requiredTech": "Artillery Ⅲ",
+		"requiredResource": "Para Raid",
 		"upgradesTo": "Lena Ⅳ",
 		"obsoleteTech": "Artillery Ⅳ",
-		"uniques" : ["[+20]% Strength <when attacking> <when adjacent to a [Military] unit>", "Only available <with [Para Raid]>"],
-		"attackSound": "nonmetalhit",
+		"uniques" : ["[+20]% Strength <when attacking> <when adjacent to a [Military] unit>", "Never appears as a Barbarian unit"],
+		"attackSound": "bombing",
         "civilopediaText": [
 			{"text": "Don't leave me behind..."}
 		]
@@ -2962,12 +3315,14 @@
 		"movement": 1,
 		"strength": 35,
 		"rangedStrength": 35,
+		"cost": 325,
 		"range": 10,
 		"requiredTech": "Artillery Ⅳ",
+		"requiredResource": "Para Raid",
 		"upgradesTo": "Lena Ⅴ",
 		"obsoleteTech": "Artillery Ⅴ",
-		"uniques" : ["[+20]% Strength <when attacking> <when adjacent to a [Military] unit>", "Only available <with [Para Raid]>"],
-		"attackSound": "nonmetalhit",
+		"uniques" : ["[+20]% Strength <when attacking> <when adjacent to a [Military] unit>", "Never appears as a Barbarian unit"],
+		"attackSound": "bombing",
         "civilopediaText": [
 			{"text": "Don't leave me behind..."}
 		]
@@ -2978,12 +3333,14 @@
 		"movement": 1,
 		"strength": 45,
 		"rangedStrength": 60,
+		"cost": 425,
 		"range": 10,
 		"requiredTech": "Artillery Ⅴ",
+		"requiredResource": "Para Raid",
 		"upgradesTo": "Lena Final Form",
 		"obsoleteTech": "Final Form",
-		"uniques" : ["[+20]% Strength <when attacking> <when adjacent to a [Military] unit>", "Only available <with [Para Raid]>"],
-		"attackSound": "nonmetalhit",
+		"uniques" : ["[+20]% Strength <when attacking> <when adjacent to a [Military] unit>", "Never appears as a Barbarian unit"],
+		"attackSound": "bombing",
         "civilopediaText": [
 			{"text": "Don't leave me behind..."}
 		]
@@ -2994,10 +3351,12 @@
 		"movement": 1,
 		"strength": 60,
 		"rangedStrength": 70,
+		"cost": 425,
 		"range": 10,
 		"requiredTech": "Final Form",
-		"uniques" : ["[+20]% Strength <when attacking> <when adjacent to a [Military] unit>", "Only available <with [Para Raid]>"],
-		"attackSound": "nonmetalhit",
+		"requiredResource": "Para Raid",
+		"uniques" : ["[+20]% Strength <when attacking> <when adjacent to a [Military] unit>", "Never appears as a Barbarian unit"],
+		"attackSound": "bombing",
         "civilopediaText": [
 			{"text": "Don't leave me behind..."}
 		]
@@ -3015,7 +3374,7 @@
 		"obsoleteTech": "Destroyer Ⅱ",
 		"uniques" : ["[+50]% Strength <vs [Zuikaku] units>", "[+50]% Strength <vs [Shoukaku] units>", "[-50]% Strength <vs [Nagato] units>", "[-50]% Strength <vs [Yamato] units>", "Never appears as a Barbarian unit"],
 		"replacementTextForUniques": "[+50]% Strength vs [CV] units\n[-50]% Strength vs [BB] units", 
-		"attackSound": "nonmetalhit",
+		"attackSound": "shipguns",
         "civilopediaText": [
 			{"text": "Fubuki, ready to war!"}
 		]
@@ -3033,7 +3392,7 @@
 		"obsoleteTech": "Destroyer Ⅲ",
 		"uniques" : ["[+50]% Strength <vs [Zuikaku] units>", "[+50]% Strength <vs [Shoukaku] units>", "[-50]% Strength <vs [Nagato] units>", "[-50]% Strength <vs [Yamato] units>", "Never appears as a Barbarian unit"],
 		"replacementTextForUniques": "[+50]% Strength vs [CV] units\n[-50]% Strength vs [BB] units", 
-		"attackSound": "nonmetalhit",
+		"attackSound": "shipguns",
         "civilopediaText": [
 			{"text": "Fubuki, ready to war!"}
 		]
@@ -3051,7 +3410,7 @@
 		"obsoleteTech": "Destroyer Ⅳ",
 		"uniques" : ["[+50]% Strength <vs [Zuikaku] units>", "[+50]% Strength <vs [Shoukaku] units>", "[-50]% Strength <vs [Nagato] units>", "[-50]% Strength <vs [Yamato] units>", "Never appears as a Barbarian unit"],
 		"replacementTextForUniques": "[+50]% Strength vs [CV] units\n[-50]% Strength vs [BB] units", 
-		"attackSound": "nonmetalhit",
+		"attackSound": "shipguns",
         "civilopediaText": [
 			{"text": "Fubuki, ready to war!"}
 		]
@@ -3069,7 +3428,7 @@
 		"obsoleteTech": "Destroyer Ⅴ",
 		"uniques" : ["[+50]% Strength <vs [Zuikaku] units>", "[+50]% Strength <vs [Shoukaku] units>", "[-50]% Strength <vs [Nagato] units>", "[-50]% Strength <vs [Yamato] units>", "Never appears as a Barbarian unit"],
 		"replacementTextForUniques": "[+50]% Strength vs [CV] units\n[-50]% Strength vs [BB] units", 
-		"attackSound": "nonmetalhit",
+		"attackSound": "shipguns",
         "civilopediaText": [
 			{"text": "Fubuki, ready to war!"}
 		]
@@ -3087,7 +3446,7 @@
 		"obsoleteTech": "Final Form",
 		"uniques" : ["[+50]% Strength <vs [Zuikaku] units>", "[+50]% Strength <vs [Shoukaku] units>", "[-50]% Strength <vs [Nagato] units>", "[-50]% Strength <vs [Yamato] units>", "Never appears as a Barbarian unit"],
 		"replacementTextForUniques": "[+50]% Strength vs [CV] units\n[-50]% Strength vs [BB] units", 
-		"attackSound": "nonmetalhit",
+		"attackSound": "shipguns",
         "civilopediaText": [
 			{"text": "Fubuki, ready to war!"}
 		]
@@ -3103,7 +3462,7 @@
 		"requiredResource": "61cm Triple Torpedo",
 		"uniques" : ["[+50]% Strength <vs [Zuikaku] units>", "[+50]% Strength <vs [Shoukaku] units>", "[-50]% Strength <vs [Nagato] units>", "[-50]% Strength <vs [Yamato] units>", "Never appears as a Barbarian unit"],
 		"replacementTextForUniques": "[+50]% Strength vs [CV] units\n[-50]% Strength vs [BB] units", 
-		"attackSound": "nonmetalhit",
+		"attackSound": "shipguns",
         "civilopediaText": [
 			{"text": "Fubuki, ready to war!"}
 		]
@@ -3121,7 +3480,7 @@
 		"obsoleteTech": "Destroyer Ⅱ",
 		"uniques" : ["[+50]% Strength <vs [Zuikaku] units>", "[+50]% Strength <vs [Shoukaku] units>", "[-50]% Strength <vs [Nagato] units>", "[-50]% Strength <vs [Yamato] units>", "Never appears as a Barbarian unit"],
 		"replacementTextForUniques": "[+50]% Strength vs [CV] units\n[-50]% Strength vs [BB] units", 
-		"attackSound": "nonmetalhit",
+		"attackSound": "shipguns",
         "civilopediaText": [
 			{"text": "I only contributed a little towards this victory."}
 		]
@@ -3139,7 +3498,7 @@
 		"obsoleteTech": "Destroyer Ⅲ",
 		"uniques" : ["[+50]% Strength <vs [Zuikaku] units>", "[+50]% Strength <vs [Shoukaku] units>", "[-50]% Strength <vs [Nagato] units>", "[-50]% Strength <vs [Yamato] units>", "Never appears as a Barbarian unit"],
 		"replacementTextForUniques": "[+50]% Strength vs [CV] units\n[-50]% Strength vs [BB] units", 
-		"attackSound": "nonmetalhit",
+		"attackSound": "shipguns",
         "civilopediaText": [
 			{"text": "I only contributed a little towards this victory."}
 		]
@@ -3157,7 +3516,7 @@
 		"obsoleteTech": "Destroyer Ⅳ",
 		"uniques" : ["[+50]% Strength <vs [Zuikaku] units>", "[+50]% Strength <vs [Shoukaku] units>", "[-50]% Strength <vs [Nagato] units>", "[-50]% Strength <vs [Yamato] units>", "Never appears as a Barbarian unit"],
 		"replacementTextForUniques": "[+50]% Strength vs [CV] units\n[-50]% Strength vs [BB] units", 
-		"attackSound": "nonmetalhit",
+		"attackSound": "shipguns",
         "civilopediaText": [
 			{"text": "I only contributed a little towards this victory."}
 		]
@@ -3175,7 +3534,7 @@
 		"obsoleteTech": "Destroyer Ⅴ",
 		"uniques" : ["[+50]% Strength <vs [Zuikaku] units>", "[+50]% Strength <vs [Shoukaku] units>", "[-50]% Strength <vs [Nagato] units>", "[-50]% Strength <vs [Yamato] units>", "Never appears as a Barbarian unit"],
 		"replacementTextForUniques": "[+50]% Strength vs [CV] units\n[-50]% Strength vs [BB] units", 
-		"attackSound": "nonmetalhit",
+		"attackSound": "shipguns",
         "civilopediaText": [
 			{"text": "I only contributed a little towards this victory."}
 		]
@@ -3193,7 +3552,7 @@
 		"obsoleteTech": "Final Form",
 		"uniques" : ["[+50]% Strength <vs [Zuikaku] units>", "[+50]% Strength <vs [Shoukaku] units>", "[-50]% Strength <vs [Nagato] units>", "[-50]% Strength <vs [Yamato] units>", "Never appears as a Barbarian unit"],
 		"replacementTextForUniques": "[+50]% Strength vs [CV] units\n[-50]% Strength vs [BB] units", 
-		"attackSound": "nonmetalhit",
+		"attackSound": "shipguns",
         "civilopediaText": [
 			{"text": "I only contributed a little towards this victory."}
 		]
@@ -3209,7 +3568,7 @@
 		"requiredResource": "12.7cm Twin Gun",
 		"uniques" : ["[+50]% Strength <vs [Zuikaku] units>", "[+50]% Strength <vs [Shoukaku] units>", "[-50]% Strength <vs [Nagato] units>", "[-50]% Strength <vs [Yamato] units>", "Never appears as a Barbarian unit"],
 		"replacementTextForUniques": "[+50]% Strength vs [CV] units\n[-50]% Strength vs [BB] units", 
-		"attackSound": "nonmetalhit",
+		"attackSound": "shipguns",
         "civilopediaText": [
 			{"text": "I only contributed a little towards this victory."}
 		]
@@ -3228,7 +3587,7 @@
 		"obsoleteTech": "Cruiser Ⅱ",
 		"uniques" : ["[+15]% Strength <vs [Nagato] units>", "[+15]% Strength <vs [Yamato] units>", "[+15]% Strength <vs [Zuikaku] units>", "[+15]% Strength <vs [Shoukaku] units>", "[+15]% Strength <vs [Fubuki] units>", "[+15]% Strength <vs [Shigure] units>", "Never appears as a Barbarian unit"],
 		"replacementTextForUniques": "[+15]% Strength vs [BB] units\n[+15]% Strength vs [CV] units\n[+15]% Strength vs [DD] units",
-		"attackSound": "nonmetalhit",
+		"attackSound": "shipguns",
         "civilopediaText": [
 			{"text": "The balance of equipment is important too. Don't you think so?"}
 		]
@@ -3247,7 +3606,7 @@
 		"obsoleteTech": "Cruiser Ⅲ",
 		"uniques" : ["[+15]% Strength <vs [Nagato] units>", "[+15]% Strength <vs [Yamato] units>", "[+15]% Strength <vs [Zuikaku] units>", "[+15]% Strength <vs [Shoukaku] units>", "[+15]% Strength <vs [Fubuki] units>", "[+15]% Strength <vs [Shigure] units>", "Never appears as a Barbarian unit"],
 		"replacementTextForUniques": "[+15]% Strength vs [BB] units\n[+15]% Strength vs [CV] units\n[+15]% Strength vs [DD] units",
-		"attackSound": "nonmetalhit",
+		"attackSound": "shipguns",
         "civilopediaText": [
 			{"text": "The balance of equipment is important too. Don't you think so?"}
 		]
@@ -3266,7 +3625,7 @@
 		"obsoleteTech": "Cruiser Ⅳ",
 		"uniques" : ["[+15]% Strength <vs [Nagato] units>", "[+15]% Strength <vs [Yamato] units>", "[+15]% Strength <vs [Zuikaku] units>", "[+15]% Strength <vs [Shoukaku] units>", "[+15]% Strength <vs [Fubuki] units>", "[+15]% Strength <vs [Shigure] units>", "Never appears as a Barbarian unit"],
 		"replacementTextForUniques": "[+15]% Strength vs [BB] units\n[+15]% Strength vs [CV] units\n[+15]% Strength vs [DD] units",
-		"attackSound": "nonmetalhit",
+		"attackSound": "shipguns",
         "civilopediaText": [
 			{"text": "The balance of equipment is important too. Don't you think so?"}
 		]
@@ -3285,7 +3644,7 @@
 		"obsoleteTech": "Final Form",
 		"uniques" : ["[+15]% Strength <vs [Nagato] units>", "[+15]% Strength <vs [Yamato] units>", "[+15]% Strength <vs [Zuikaku] units>", "[+15]% Strength <vs [Shoukaku] units>", "[+15]% Strength <vs [Fubuki] units>", "[+15]% Strength <vs [Shigure] units>", "Never appears as a Barbarian unit"],
 		"replacementTextForUniques": "[+15]% Strength vs [BB] units\n[+15]% Strength vs [CV] units\n[+15]% Strength vs [DD] units",
-		"attackSound": "nonmetalhit",
+		"attackSound": "shipguns",
         "civilopediaText": [
 			{"text": "The balance of equipment is important too. Don't you think so?"}
 		]
@@ -3302,7 +3661,7 @@
 		"requiredResource": "14cm Naval Gun",
 		"uniques" : ["[+15]% Strength <vs [Nagato] units>", "[+15]% Strength <vs [Yamato] units>", "[+15]% Strength <vs [Zuikaku] units>", "[+15]% Strength <vs [Shoukaku] units>", "[+15]% Strength <vs [Fubuki] units>", "[+15]% Strength <vs [Shigure] units>", "Never appears as a Barbarian unit"],
 		"replacementTextForUniques": "[+15]% Strength vs [BB] units\n[+15]% Strength vs [CV] units\n[+15]% Strength vs [DD] units",
-		"attackSound": "nonmetalhit",
+		"attackSound": "shipguns",
         "civilopediaText": [
 			{"text": "The balance of equipment is important too. Don't you think so?"}
 		]
@@ -3321,7 +3680,7 @@
 		"obsoleteTech": "Cruiser Ⅱ",
 		"uniques" : ["[+15]% Strength <vs [Nagato] units>", "[+15]% Strength <vs [Yamato] units>", "[+15]% Strength <vs [Zuikaku] units>", "[+15]% Strength <vs [Shoukaku] units>", "[+15]% Strength <vs [Fubuki] units>", "[+15]% Strength <vs [Shigure] units>", "Never appears as a Barbarian unit"],
 		"replacementTextForUniques": "[+15]% Strength vs [BB] units\n[+15]% Strength vs [CV] units\n[+15]% Strength vs [DD] units",
-		"attackSound": "nonmetalhit",
+		"attackSound": "shipguns",
         "civilopediaText": [
 			{"text": "See, didn't I say they'd be over there?"}
 		]
@@ -3340,7 +3699,7 @@
 		"obsoleteTech": "Cruiser Ⅲ",
 		"uniques" : ["[+15]% Strength <vs [Nagato] units>", "[+15]% Strength <vs [Yamato] units>", "[+15]% Strength <vs [Zuikaku] units>", "[+15]% Strength <vs [Shoukaku] units>", "[+15]% Strength <vs [Fubuki] units>", "[+15]% Strength <vs [Shigure] units>", "Never appears as a Barbarian unit"],
 		"replacementTextForUniques": "[+15]% Strength vs [BB] units\n[+15]% Strength vs [CV] units\n[+15]% Strength vs [DD] units",
-		"attackSound": "nonmetalhit",
+		"attackSound": "shipguns",
         "civilopediaText": [
 			{"text": "See, didn't I say they'd be over there?"}
 		]
@@ -3359,7 +3718,7 @@
 		"obsoleteTech": "Cruiser Ⅳ",
 		"uniques" : ["[+15]% Strength <vs [Nagato] units>", "[+15]% Strength <vs [Yamato] units>", "[+15]% Strength <vs [Zuikaku] units>", "[+15]% Strength <vs [Shoukaku] units>", "[+15]% Strength <vs [Fubuki] units>", "[+15]% Strength <vs [Shigure] units>", "Never appears as a Barbarian unit"],
 		"replacementTextForUniques": "[+15]% Strength vs [BB] units\n[+15]% Strength vs [CV] units\n[+15]% Strength vs [DD] units",
-		"attackSound": "nonmetalhit",
+		"attackSound": "shipguns",
         "civilopediaText": [
 			{"text": "See, didn't I say they'd be over there?"}
 		]
@@ -3378,7 +3737,7 @@
 		"obsoleteTech": "Final Form",
 		"uniques" : ["[+15]% Strength <vs [Nagato] units>", "[+15]% Strength <vs [Yamato] units>", "[+15]% Strength <vs [Zuikaku] units>", "[+15]% Strength <vs [Shoukaku] units>", "[+15]% Strength <vs [Fubuki] units>", "[+15]% Strength <vs [Shigure] units>", "Never appears as a Barbarian unit"],
 		"replacementTextForUniques": "[+15]% Strength vs [BB] units\n[+15]% Strength vs [CV] units\n[+15]% Strength vs [DD] units",
-		"attackSound": "nonmetalhit",
+		"attackSound": "shipguns",
         "civilopediaText": [
 			{"text": "See, didn't I say they'd be over there?"}
 		]
@@ -3395,7 +3754,7 @@
 		"requiredResource": "12.7cm High-angle Gun",
 		"uniques" : ["[+15]% Strength <vs [Nagato] units>", "[+15]% Strength <vs [Yamato] units>", "[+15]% Strength <vs [Zuikaku] units>", "[+15]% Strength <vs [Shoukaku] units>", "[+15]% Strength <vs [Fubuki] units>", "[+15]% Strength <vs [Shigure] units>", "Never appears as a Barbarian unit"],
 		"replacementTextForUniques": "[+15]% Strength vs [BB] units\n[+15]% Strength vs [CV] units\n[+15]% Strength vs [DD] units",
-		"attackSound": "nonmetalhit",
+		"attackSound": "shipguns",
         "civilopediaText": [
 			{"text": "See, didn't I say they'd be over there?"}
 		]
@@ -3414,7 +3773,7 @@
 		"obsoleteTech": "Final Form",
 		"uniques" : ["[+50]% Strength <vs [Fubuki] units>", "[+50]% Strength <vs [Shigure] units>", "[-50]% Strength <vs [Zuikaku] units>", "[-50]% Strength <vs [Shoukaku] units>", "Never appears as a Barbarian unit"],
 		"replacementTextForUniques": "[+50]% Strength vs [DD] units\n[-50]% Strength vs [CV] units", 
-		"attackSound": "nonmetalhit",
+		"attackSound": "shipguns",
         "civilopediaText": [
 			{"text": "Leave fighting the enemy battleships to me."}
 		]
@@ -3431,7 +3790,7 @@
 		"requiredResource": "41cm Twin Gun",
 		"uniques" : ["[+50]% Strength <vs [Fubuki] units>", "[+50]% Strength <vs [Shigure] units>", "[-50]% Strength <vs [Zuikaku] units>", "[-50]% Strength <vs [Shoukaku] units>", "Never appears as a Barbarian unit"],
 		"replacementTextForUniques": "[+50]% Strength vs [DD] units\n[-50]% Strength vs [CV] units", 
-		"attackSound": "nonmetalhit",
+		"attackSound": "shipguns",
         "civilopediaText": [
 			{"text": "Leave fighting the enemy battleships to me."}
 		]
@@ -3450,7 +3809,7 @@
 		"obsoleteTech": "Final Form",
 		"uniques" : ["[+50]% Strength <vs [Fubuki] units>", "[+50]% Strength <vs [Shigure] units>", "[-50]% Strength <vs [Zuikaku] units>", "[-50]% Strength <vs [Shoukaku] units>", "Never appears as a Barbarian unit"],
 		"replacementTextForUniques": "[+50]% Strength vs [DD] units\n[-50]% Strength vs [CV] units", 
-		"attackSound": "nonmetalhit",
+		"attackSound": "shipguns",
         "civilopediaText": [
 			{"text": "Jeez, you better stop calling me Hotel!"}
 		]
@@ -3467,7 +3826,7 @@
 		"requiredResource": "46cm Triple Gun",
 		"uniques" : ["[+50]% Strength <vs [Fubuki] units>", "[+50]% Strength <vs [Shigure] units>", "[-50]% Strength <vs [Zuikaku] units>", "[-50]% Strength <vs [Shoukaku] units>", "Never appears as a Barbarian unit"],
 		"replacementTextForUniques": "[+50]% Strength vs [DD] units\n[-50]% Strength vs [CV] units", 
-		"attackSound": "nonmetalhit",
+		"attackSound": "shipguns",
         "civilopediaText": [
 			{"text": "Jeez, you better stop calling me Hotel!"}
 		]
@@ -3484,7 +3843,6 @@
 		"obsoleteTech": "Final Form",
 		"uniques" : ["[+50]% Strength <vs [Nagato] units>", "[+50]% Strength <vs [Yamato] units>", "[-50]% Strength <vs [Fubuki] units>", "[-50]% Strength <vs [Shigure] units>", "Cannot attack", "Can carry [3] [Aircraft] units", "Never appears as a Barbarian unit"],
 		"replacementTextForUniques": "[+50]% Strength vs [BB] units\n[-50]% Strength vs [DD] units", 
-		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Well, even I get injured sometimes."}
 		]
@@ -3499,7 +3857,6 @@
 		"requiredResource": "Type21 Zero Fighter",
 		"uniques" : ["[+50]% Strength <vs [Nagato] units>", "[+50]% Strength <vs [Yamato] units>", "[-50]% Strength <vs [Fubuki] units>", "[-50]% Strength <vs [Shigure] units>", "Cannot attack", "Can carry [3] [Aircraft] units", "Never appears as a Barbarian unit"],
 		"replacementTextForUniques": "[+50]% Strength vs [BB] units\n[-50]% Strength vs [DD] units", 
-		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Well, even I get injured sometimes."}
 		]
@@ -3516,7 +3873,6 @@
 		"obsoleteTech": "Final Form",
 		"uniques" : ["[+50]% Strength <vs [Nagato] units>", "[+50]% Strength <vs [Yamato] units>", "[-50]% Strength <vs [Fubuki] units>", "[-50]% Strength <vs [Shigure] units>", "Cannot attack", "Can carry [3] [Aircraft] units", "Never appears as a Barbarian unit"],
 		"replacementTextForUniques": "[+50]% Strength vs [BB] units\n[-50]% Strength vs [DD] units", 
-		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Don't trouble the other ships so much, alright, Zuikaku? ...Zuikaku? Zuikaku!?"}
 		]
@@ -3531,7 +3887,6 @@
 		"requiredResource": "Type99 Dive Bomber",
 		"uniques" : ["[+50]% Strength <vs [Nagato] units>", "[+50]% Strength <vs [Yamato] units>", "[-50]% Strength <vs [Fubuki] units>", "[-50]% Strength <vs [Shigure] units>", "Cannot attack", "Can carry [3] [Aircraft] units", "Never appears as a Barbarian unit"],
 		"replacementTextForUniques": "[+50]% Strength vs [BB] units\n[-50]% Strength vs [DD] units", 
-		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Don't trouble the other ships so much, alright, Zuikaku? ...Zuikaku? Zuikaku!?"}
 		]

@@ -295,14 +295,103 @@
 		//"shortcutKey": "F"
 	},
 	{
+		"name": "Godmother Shop",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Great Improvement",
+"Tile provides yield without assigned population",
+"Cannot be built on [Mountain] tiles",
+"Removes removable features when built",
+"Pillaging this improvement yields approximately [+50 Gold]"],
+		//"shortcutKey": "F"
+	},
+	{
+		"name": "Westalis",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Great Improvement",
+"Tile provides yield without assigned population",
+"Cannot be built on [Mountain] tiles",
+"Removes removable features when built",
+"Pillaging this improvement yields approximately [+50 Gold]"],
+		//"shortcutKey": "F"
+	},
+	{
 		"name": "District 86",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Great Improvement",
 "Tile provides yield without assigned population",
 "Cannot be built on [Mountain] tiles",
 "Removes removable features when built",
-"Pillaging this improvement yields approximately [+50 Gold]",
-"Gives a defensive bonus of [100]%"],
+"Pillaging this improvement yields approximately [+50 Gold]"],
+		//"shortcutKey": "F"
+	},
+	{
+		"name": "Sans of Magnolia",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Great Improvement",
+"Tile provides yield without assigned population",
+"Cannot be built on [Mountain] tiles",
+"Removes removable features when built",
+"Pillaging this improvement yields approximately [+50 Gold]"],
+		//"shortcutKey": "F"
+	},
+	{
+		"name": "Elite Seven Hideout",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Great Improvement",
+"Tile provides yield without assigned population",
+"Cannot be built on [Mountain] tiles",
+"Removes removable features when built",
+"Pillaging this improvement yields approximately [+50 Gold]"],
+		//"shortcutKey": "F"
+	},
+	{
+		"name": "Wall Rose",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Great Improvement",
+"Tile provides yield without assigned population",
+"Cannot be built on [Mountain] tiles",
+"Removes removable features when built",
+"Pillaging this improvement yields approximately [+50 Gold]"],
+		//"shortcutKey": "F"
+	},
+	{
+		"name": "Adventurer's Guild",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Great Improvement",
+"Tile provides yield without assigned population",
+"Cannot be built on [Mountain] tiles",
+"Removes removable features when built",
+"Pillaging this improvement yields approximately [+50 Gold]"],
+		//"shortcutKey": "F"
+	},
+	{
+		"name": "I&S",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Great Improvement",
+"Tile provides yield without assigned population",
+"Cannot be built on [Mountain] tiles",
+"Removes removable features when built",
+"Pillaging this improvement yields approximately [+50 Gold]"],
+		//"shortcutKey": "F"
+	},
+	{
+		"name": "Spirit Hideout",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Great Improvement",
+"Tile provides yield without assigned population",
+"Cannot be built on [Mountain] tiles",
+"Removes removable features when built",
+"Pillaging this improvement yields approximately [+50 Gold]"],
+		//"shortcutKey": "F"
+	},
+	{
+		"name": "Gun Gale Online",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Great Improvement",
+"Tile provides yield without assigned population",
+"Cannot be built on [Mountain] tiles",
+"Removes removable features when built",
+"Pillaging this improvement yields approximately [+50 Gold]"],
 		//"shortcutKey": "F"
 	},
 	{
@@ -312,8 +401,37 @@
 "Tile provides yield without assigned population",
 "Cannot be built on [Mountain] tiles",
 "Removes removable features when built",
-"Pillaging this improvement yields approximately [+50 Gold]",
-"Adjacent enemy units ending their turn take [30] damage"],
+"Pillaging this improvement yields approximately [+50 Gold]"],
+		//"shortcutKey": "F"
+	},
+	{
+		"name": "DA",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Great Improvement",
+"Tile provides yield without assigned population",
+"Cannot be built on [Mountain] tiles",
+"Removes removable features when built",
+"Pillaging this improvement yields approximately [+50 Gold]"],
+		//"shortcutKey": "F"
+	},
+	{
+		"name": "Shiranui Fortress",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Great Improvement",
+"Tile provides yield without assigned population",
+"Cannot be built on [Mountain] tiles",
+"Removes removable features when built",
+"Pillaging this improvement yields approximately [+50 Gold]"],
+		//"shortcutKey": "F"
+	},
+	{
+		"name": "Asura Kingdom",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Great Improvement",
+"Tile provides yield without assigned population",
+"Cannot be built on [Mountain] tiles",
+"Removes removable features when built",
+"Pillaging this improvement yields approximately [+50 Gold]"],
 		//"shortcutKey": "F"
 	},
 	{
@@ -323,30 +441,58 @@
 "Tile provides yield without assigned population",
 "Cannot be built on [Mountain] tiles",
 "Removes removable features when built",
-"Pillaging this improvement yields approximately [+50 Gold]",
-"[+1 Science] for each adjacent [Mountain]"],
+"Pillaging this improvement yields approximately [+50 Gold]"],
 		//"shortcutKey": "F"
 	},
 	{
-		"name": "Amagi Brilliant Park",
+		"name": "Goddess Aqua Monument",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Great Improvement",
 "Tile provides yield without assigned population",
 "Cannot be built on [Mountain] tiles",
 "Removes removable features when built",
-"Pillaging this improvement yields approximately [+50 Gold]",
-"[+1 Happiness] for each adjacent [Lakes]"],
+"Pillaging this improvement yields approximately [+50 Gold]"],
 		//"shortcutKey": "F"
 	},
 	{
-		"name": "CIRCLE Live House",
+		"name": "Britannia Empire",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Great Improvement",
 "Tile provides yield without assigned population",
 "Cannot be built on [Mountain] tiles",
 "Removes removable features when built",
-"Pillaging this improvement yields approximately [+50 Gold]",
-"[+1 Happiness] for each adjacent [City center]"],
+"Pillaging this improvement yields approximately [+50 Gold]"],
 		//"shortcutKey": "F"
 	},
+	{
+		"name": "Coastal Refinery Zone",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Great Improvement",
+"Tile provides yield without assigned population",
+"Cannot be built on [Mountain] tiles",
+"Removes removable features when built",
+"Pillaging this improvement yields approximately [+50 Gold]"],
+		//"shortcutKey": "F"
+	},
+	{
+		"name": "Bashi Channel",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Great Improvement",
+"Tile provides yield without assigned population",
+"Cannot be built on [Mountain] tiles",
+"Removes removable features when built",
+"Pillaging this improvement yields approximately [+50 Gold]"],
+		//"shortcutKey": "F"
+	},
+	{
+		"name": "Eastern Orel Bay",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Great Improvement",
+"Tile provides yield without assigned population",
+"Cannot be built on [Mountain] tiles",
+"Removes removable features when built",
+"Pillaging this improvement yields approximately [+50 Gold]"],
+		//"shortcutKey": "F"
+	},
+	
 ]

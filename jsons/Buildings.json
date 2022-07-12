@@ -1179,54 +1179,150 @@
 	},
 	//Anime Building
 	{
+		"name": "Godmother Shop",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Provides [1] [Talisman]", "Destroyed when the city is captured", "Creates a [Godmother Shop] improvement on a specific tile"],
+		"requiredTech": "Informer"
+	},
+	{
+		"name": "Westalis",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Provides [1] [Spy Gear]", "Destroyed when the city is captured", "Creates a [Westalis] improvement on a specific tile"],
+		"requiredTech": "Informer"
+	},
+	{
 		"name": "District 86",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"uniques": ["Free [Lena] appears", "Destroyed when the city is captured", "All newly-trained [Shin] units [in this city] receive the [Undertaker] promotion", "Creates a [District 86] improvement on a specific tile"],
+		"uniques": ["Provides [1] [Juggernaut]", "Destroyed when the city is captured", "Creates a [District 86] improvement on a specific tile"],
 		"requiredTech": "Artillery"
+	},
+	{
+		"name": "Sans of Magnolia",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Provides [1] [Para Raid]", "Destroyed when the city is captured", "Creates a [Sans of Magnolia] improvement on a specific tile"],
+		"requiredTech": "Artillery"
+	},
+	{
+		"name": "Elite Seven Hideout",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Provides [1] [Murasame]", "Destroyed when the city is captured", "Creates a [Elite Seven Hideout] improvement on a specific tile"],
+		"requiredTech": "Attacker"
+	},
+	{
+		"name": "Wall Rose",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Provides [1] [Maneuver Gear]", "Destroyed when the city is captured", "Creates a [Wall Rose] improvement on a specific tile"],
+		"requiredTech": "Attacker"
+	},
+	{
+		"name": "Adventurer's Guild",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Provides [1] [Chunchunmaru]", "Destroyed when the city is captured", "Creates a [Adventurer's Guild] improvement on a specific tile"],
+		"requiredTech": "Attacker"
+	},
+	{
+		"name": "I&S",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Provides [1] [Demon Sword]", "Destroyed when the city is captured", "Creates a [I&S] improvement on a specific tile"],
+		"uniqueTo": "Engage Kiss",
+		"replaces": "Elite Seven Hideout",
+		"requiredTech": "Attacker"
+	},
+	{
+		"name": "Spirit Hideout",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Provides [1] [Zafkiel]", "Destroyed when the city is captured", "Creates a [Spirit Hideout] improvement on a specific tile"],
+		"requiredTech": "Sniper"
+	},
+	{
+		"name": "Gun Gale Online",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Provides [1] [Hecate Ⅱ]", "Destroyed when the city is captured", "Creates a [Gun Gale Online] improvement on a specific tile"],
+		"requiredTech": "Sniper"
 	},
 	{
 		"name": "Night Raid Hideout",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"uniques": ["Free [Mine] appears", "Destroyed when the city is captured", "All newly-trained [Akame] units [in this city] receive the [One-Cut Killer] promotion", "Creates a [Night Raid Hideout] improvement on a specific tile"],
+		"uniques": ["Provides [1] [Pumpkin]", "Destroyed when the city is captured", "Creates a [Night Raid Hideout] improvement on a specific tile"],
 		"requiredTech": "Sniper"
+	},
+	{
+		"name": "DA",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Provides [1] [Lycoris Gun]", "Destroyed when the city is captured", "Creates a [DA] improvement on a specific tile"],
+		"uniqueTo": "Lycoris Recoil",
+		"replaces": "Night Raid Hideout",
+		"requiredTech": "Sniper"
+	},
+	{
+		"name": "Shiranui Fortress",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Provides [1] [Isonade]", "Destroyed when the city is captured", "Creates a [Shiranui Fortress] improvement on a specific tile"],
+		"requiredTech": "Tanker"
+	},
+	{
+		"name": "Asura Kingdom",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Provides [1] [Sword King]", "Destroyed when the city is captured", "Creates a [Asura Kingdom] improvement on a specific tile"],
+		"requiredTech": "Tanker"
 	},
 	{
 		"name": "Ranoa Academy",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"percentStatBonus": {"science": 20},
-		"uniques": ["Free [Eris] appears", "Destroyed when the city is captured", "[+2 Science] from [Snow] tiles [in this city]", "All newly-trained [Rudeus] units [in this city] receive the [Quagmire] promotion", "Creates a [Ranoa Academy] improvement on a specific tile"],
-		"requiredTech": "Tanker"
+		"uniques": ["Provides [1] [Magic Wand]", "Destroyed when the city is captured", "Creates a [Ranoa Academy] improvement on a specific tile"],
+		"requiredTech": "Magic"
 	},
 	{
-		"name": "Amagi Brilliant Park",
+		"name": "Goddess Aqua Monument",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"happiness": 4,
-		"uniques": ["Destroyed when the city is captured", "Creates a [Amagi Brilliant Park] improvement on a specific tile"],
-		"requiredTech": "Sniper Ⅱ"
+		"uniques": ["Provides [1] [Magic Staff]", "Destroyed when the city is captured", "Creates a [Goddess Aqua Monument] improvement on a specific tile"],
+		"requiredTech": "Magic"
 	},
 	{
-		"name": "CIRCLE Live House",
+		"name": "Britannia Empire",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"happiness": 2,
-		"uniques": ["Destroyed when the city is captured", "Creates a [CIRCLE Live House] improvement on a specific tile"],
-		"requiredTech": "Informer"
+		"uniques": ["Provides [1] [Geass]", "Destroyed when the city is captured", "Creates a [Britannia Empire] improvement on a specific tile"],
+		"requiredTech": "Magic"
 	},
-	/*
 	{
-		"name": "Ostania",
-		"cost": 1,
-		//"hurryCostModifier": 25,
+		"name": "Coastal Refinery Zone",
+		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"culture": 2,
-		"uniques": ["Free [Yor] appears", "Destroyed when the city is captured"],
-		"requiredTech": "Attacker"
+		"uniques": ["Provides [1] [12.7cm Twin Gun]", "Provides [1] [61cm Triple Torpedo]", "Destroyed when the city is captured", "Creates a [Coastal Refinery Zone] improvement on a specific tile"],
+		"requiredTech": "Destroyer"
 	},
-	*/
+	{
+		"name": "Bashi Channel",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Provides [1] [14cm Naval Gun]", "Provides [1] [12.7cm High-angle Gun]", "Destroyed when the city is captured", "Creates a [Bashi Channel] improvement on a specific tile"],
+		"requiredTech": "Cruiser"
+	},
+	{
+		"name": "Eastern Orel Bay",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Provides [1] [41cm Twin Gun]", "Provides [1] [46cm Triple Gun]", "Provides [1] [Type21 Zero Fighter]", "Provides [1] [Type99 Dive Bomber]", "Destroyed when the city is captured", "Creates a [Eastern Orel Bay] improvement on a specific tile"],
+		"requiredTech": "Battleship & Carrier"
+	},
+	
 	/*
 	Building Work in Progress
 	/ Assassination Classroom - Ansatsu Kyoushitsu <Science+>

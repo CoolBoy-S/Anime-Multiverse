@@ -142,6 +142,10 @@
         "movementType": "Land",
     },
     {
+        "name": "Kisara",
+        "movementType": "Land",
+    },
+    {
         "name": "Mikasa",
         "movementType": "Land",
     },
@@ -159,6 +163,14 @@
     },
     {
         "name": "Mine",
+        "movementType": "Land",
+    },
+    {
+        "name": "Chisato",
+        "movementType": "Land",
+    },
+    {
+        "name": "Takina",
         "movementType": "Land",
     },
     {

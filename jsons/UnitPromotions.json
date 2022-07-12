@@ -628,6 +628,11 @@
 		"unitTypes": ["Akame"]
 	},
 	{
+		"name": "Let's Kiss!",
+		"uniques": ["[+100]% Strength <when below [50] HP>"],
+		"unitTypes": ["Kisara"]
+	},
+	{
 		"name": "Ackerman",
 		"uniques": ["[+100]% Strength <when attacking> <in [Rough terrain] tiles>"],
 		"unitTypes": ["Mikasa"]
@@ -651,6 +656,16 @@
 		"name": "Roman Artillery: Pumpkin",
 		"uniques": ["[+2] Range <in [Hill] tiles>"],
 		"unitTypes": ["Mine"]
+	},
+	{
+		"name": "No.1 Lycoris",
+		"uniques": ["[3] additional attacks per turn <when adjacent to a [Takina] unit>"],
+		"unitTypes": ["Chisato"]
+	},
+	{
+		"name": "Support Lycoris",
+		"uniques": ["[+2] Range <when adjacent to a [Chisato] unit>"],
+		"unitTypes": ["Takina"]
 	},
 	{
 		"name": "Quagmire",
