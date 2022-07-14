@@ -2147,7 +2147,7 @@
 		"requiredResource": "Maneuver Gear",
 		"upgradesTo": "Mikasa Ⅱ",
 		"obsoleteTech": "Attacker Ⅱ",
-		"uniques" : ["Can pass through impassable tiles", "Never appears as a Barbarian unit"],
+		"uniques" : ["[+2] Movement <within [2] tiles of a [Forest]>", "Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Don't think you can escape when you meet me..."}
@@ -2163,7 +2163,7 @@
 		"requiredResource": "Maneuver Gear",
 		"upgradesTo": "Mikasa Ⅲ",
 		"obsoleteTech": "Attacker Ⅲ",
-		"uniques" : ["Can pass through impassable tiles", "Never appears as a Barbarian unit"],
+		"uniques" : ["[+2] Movement <within [2] tiles of a [Forest]>", "Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Eliminate!"}
@@ -2179,7 +2179,7 @@
 		"requiredResource": "Maneuver Gear",
 		"upgradesTo": "Mikasa Ⅳ",
 		"obsoleteTech": "Attacker Ⅳ",
-		"uniques" : ["Can pass through impassable tiles", "Never appears as a Barbarian unit"],
+		"uniques" : ["[+2] Movement <within [2] tiles of a [Forest]>", "Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Eliminate!"}
@@ -2195,7 +2195,7 @@
 		"requiredResource": "Maneuver Gear",
 		"upgradesTo": "Mikasa Ⅴ",
 		"obsoleteTech": "Attacker Ⅴ",
-		"uniques" : ["Can pass through impassable tiles", "Never appears as a Barbarian unit"],
+		"uniques" : ["[+2] Movement <within [2] tiles of a [Forest]>", "Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Eliminate!"}
@@ -2211,7 +2211,7 @@
 		"requiredResource": "Maneuver Gear",
 		"upgradesTo": "Mikasa Final Form",
 		"obsoleteTech": "Final Form",
-		"uniques" : ["Can pass through impassable tiles", "Never appears as a Barbarian unit"],
+		"uniques" : ["[+2] Movement <within [2] tiles of a [Forest]>", "Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Eliminate!"}
@@ -2225,7 +2225,7 @@
 		"cost": 425,
 		"requiredTech": "Final Form",
 		"requiredResource": "Maneuver Gear",
-		"uniques" : ["Can pass through impassable tiles", "Never appears as a Barbarian unit"],
+		"uniques" : ["[+2] Movement <within [2] tiles of a [Forest]>", "Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Eliminate!"}
@@ -2241,7 +2241,7 @@
 		"requiredResource": "Chunchunmaru",
 		"upgradesTo": "Kazuma Ⅱ",
 		"obsoleteTech": "Attacker Ⅱ",
-		"uniques" : ["[-50]% Strength <when adjacent to a [Aqua] unit>", "Invisible to others <when adjacent to a [Aqua] unit>", "Never appears as a Barbarian unit"],
+		"uniques" : ["Invisible to others <when adjacent to a [Aqua] unit>", "Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "I will use that useless god to run away..."}
@@ -2257,7 +2257,7 @@
 		"requiredResource": "Chunchunmaru",
 		"upgradesTo": "Kazuma Ⅲ",
 		"obsoleteTech": "Attacker Ⅲ",
-		"uniques" : ["[-50]% Strength <when adjacent to a [Aqua] unit>", "Invisible to others <when adjacent to a [Aqua] unit>", "Never appears as a Barbarian unit"],
+		"uniques" : ["Invisible to others <when adjacent to a [Aqua] unit>", "Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "I will use that useless god to run away..."}
@@ -2273,7 +2273,7 @@
 		"requiredResource": "Chunchunmaru",
 		"upgradesTo": "Kazuma Ⅳ",
 		"obsoleteTech": "Attacker Ⅳ",
-		"uniques" : ["[-50]% Strength <when adjacent to a [Aqua] unit>", "Invisible to others <when adjacent to a [Aqua] unit>", "Never appears as a Barbarian unit"],
+		"uniques" : ["Invisible to others <when adjacent to a [Aqua] unit>", "Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "I will use that useless god to run away..."}
@@ -2289,7 +2289,7 @@
 		"requiredResource": "Chunchunmaru",
 		"upgradesTo": "Kazuma Ⅴ",
 		"obsoleteTech": "Attacker Ⅴ",
-		"uniques" : ["[-50]% Strength <when adjacent to a [Aqua] unit>", "Invisible to others <when adjacent to a [Aqua] unit>", "Never appears as a Barbarian unit"],
+		"uniques" : ["Invisible to others <when adjacent to a [Aqua] unit>", "Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "I will use that useless god to run away..."}
@@ -2305,7 +2305,7 @@
 		"requiredResource": "Chunchunmaru",
 		"upgradesTo": "Kazuma Final Form",
 		"obsoleteTech": "Final Form",
-		"uniques" : ["[-50]% Strength <when adjacent to a [Aqua] unit>", "Invisible to others <when adjacent to a [Aqua] unit>", "Never appears as a Barbarian unit"],
+		"uniques" : ["Invisible to others <when adjacent to a [Aqua] unit>", "Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "I will use that useless god to run away..."}
@@ -2319,7 +2319,7 @@
 		"cost": 425,
 		"requiredTech": "Final Form",
 		"requiredResource": "Chunchunmaru",
-		"uniques" : ["[-50]% Strength <when adjacent to a [Aqua] unit>", "Invisible to others <when adjacent to a [Aqua] unit>", "Never appears as a Barbarian unit"],
+		"uniques" : ["Invisible to others <when adjacent to a [Aqua] unit>", "Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "I will use that useless god to run away..."}
@@ -2336,7 +2336,7 @@
 		"requiredResource": "Zafkiel",
 		"upgradesTo": "Kurumi Ⅱ",
 		"obsoleteTech": "Sniper Ⅱ",
-		"uniques" : ["[+2] Movement <in [Foreign Land] tiles>", "Never appears as a Barbarian unit"],
+		"uniques" : ["[1] additional attacks per turn <when below [50] HP>", "Never appears as a Barbarian unit"],
 		"attackSound": "shot",
         "civilopediaText": [
 			{"text": "Can you kill me with your useless power?"}
@@ -2353,7 +2353,7 @@
 		"requiredResource": "Zafkiel",
 		"upgradesTo": "Kurumi Ⅲ",
 		"obsoleteTech": "Sniper Ⅲ",
-		"uniques" : ["[+2] Movement <in [Foreign Land] tiles>", "Never appears as a Barbarian unit"],
+		"uniques" : ["[1] additional attacks per turn <when below [50] HP>", "Never appears as a Barbarian unit"],
 		"attackSound": "shot",
         "civilopediaText": [
 			{"text": "Can you kill me with your useless power?"}
@@ -2370,7 +2370,7 @@
 		"requiredResource": "Zafkiel",
 		"upgradesTo": "Kurumi Ⅳ",
 		"obsoleteTech": "Sniper Ⅳ",
-		"uniques" : ["[+2] Movement <in [Foreign Land] tiles>", "Never appears as a Barbarian unit"],
+		"uniques" : ["[1] additional attacks per turn <when below [50] HP>", "Never appears as a Barbarian unit"],
 		"attackSound": "shot",
         "civilopediaText": [
 			{"text": "Can you kill me with your useless power?"}
@@ -2387,7 +2387,7 @@
 		"requiredResource": "Zafkiel",
 		"upgradesTo": "Kurumi Ⅴ",
 		"obsoleteTech": "Sniper Ⅴ",
-		"uniques" : ["[+2] Movement <in [Foreign Land] tiles>", "Never appears as a Barbarian unit"],
+		"uniques" : ["[1] additional attacks per turn <when below [50] HP>", "Never appears as a Barbarian unit"],
 		"attackSound": "shot",
         "civilopediaText": [
 			{"text": "Can you kill me with your useless power?"}
@@ -2404,7 +2404,7 @@
 		"requiredResource": "Zafkiel",
 		"upgradesTo": "Kurumi Final Form",
 		"obsoleteTech": "Final Form",
-		"uniques" : ["[+2] Movement <in [Foreign Land] tiles>", "Never appears as a Barbarian unit"],
+		"uniques" : ["[1] additional attacks per turn <when below [50] HP>", "Never appears as a Barbarian unit"],
 		"attackSound": "shot",
         "civilopediaText": [
 			{"text": "Can you kill me with your useless power?"}
@@ -2419,7 +2419,7 @@
 		"cost": 425,
 		"requiredTech": "Final Form",
 		"requiredResource": "Zafkiel",
-		"uniques" : ["[+2] Movement <in [Foreign Land] tiles>", "Never appears as a Barbarian unit"],
+		"uniques" : ["[1] additional attacks per turn <when below [50] HP>", "Never appears as a Barbarian unit"],
 		"attackSound": "shot",
         "civilopediaText": [
 			{"text": "Can you kill me with your useless power?"}
@@ -2954,7 +2954,7 @@
 		"requiredResource": "Magic Staff",
 		"upgradesTo": "Aqua Ⅱ",
 		"obsoleteTech": "Magic Ⅱ",
-		"uniques" : ["All adjacent units heal [+10] HP when healing", "Never appears as a Barbarian unit"],
+		"uniques" : ["[-50]% Strength bonus for [Kazuma] units within [1] tiles", "All adjacent units heal [+10] HP when healing", "Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "I'm a god of water, of course my power is near the River!"}
@@ -2971,7 +2971,7 @@
 		"requiredResource": "Magic Staff",
 		"upgradesTo": "Aqua Ⅲ",
 		"obsoleteTech": "Magic Ⅲ",
-		"uniques" : ["All adjacent units heal [+10] HP when healing", "Never appears as a Barbarian unit"],
+		"uniques" : ["[-50]% Strength bonus for [Kazuma] units within [1] tiles", "All adjacent units heal [+10] HP when healing", "Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "I'm a god of water, of course my power is near the River!"}
@@ -2988,7 +2988,7 @@
 		"requiredResource": "Magic Staff",
 		"upgradesTo": "Aqua Ⅳ",
 		"obsoleteTech": "Magic Ⅳ",
-		"uniques" : ["All adjacent units heal [+10] HP when healing", "Never appears as a Barbarian unit"],
+		"uniques" : ["[-50]% Strength bonus for [Kazuma] units within [1] tiles", "All adjacent units heal [+10] HP when healing", "Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "I'm a god of water, of course my power is near the River!"}
@@ -3005,7 +3005,7 @@
 		"requiredResource": "Magic Staff",
 		"upgradesTo": "Aqua Ⅴ",
 		"obsoleteTech": "Magic Ⅴ",
-		"uniques" : ["All adjacent units heal [+10] HP when healing", "Never appears as a Barbarian unit"],
+		"uniques" : ["[-50]% Strength bonus for [Kazuma] units within [1] tiles", "All adjacent units heal [+10] HP when healing", "Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "I'm a god of water, of course my power is near the River!"}
@@ -3022,7 +3022,7 @@
 		"requiredResource": "Magic Staff",
 		"upgradesTo": "Aqua Final Form",
 		"obsoleteTech": "Final Form",
-		"uniques" : ["All adjacent units heal [+10] HP when healing", "Never appears as a Barbarian unit"],
+		"uniques" : ["[-50]% Strength bonus for [Kazuma] units within [1] tiles", "All adjacent units heal [+10] HP when healing", "Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "I'm a god of water, of course my power is near the River!"}
@@ -3037,7 +3037,7 @@
 		"cost": 425,
 		"requiredTech": "Final Form",
 		"requiredResource": "Magic Staff",
-		"uniques" : ["All adjacent units heal [+10] HP when healing", "Never appears as a Barbarian unit"],
+		"uniques" : ["[-50]% Strength bonus for [Kazuma] units within [1] tiles", "All adjacent units heal [+10] HP when healing", "Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "I'm a god of water, of course my power is near the River!"}
@@ -3155,7 +3155,7 @@
 		"upgradesTo": "Shin Ⅱ",
 		"obsoleteTech": "Artillery Ⅱ",
 		"uniques" : ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
-			"Must set up to ranged attack", "[+50]% Strength <when attacking> <within [2] tiles of a [Mountain]>"],
+			"Must set up to ranged attack", "[+1] Range <when at war>"],
 		"hurryCostModifier": 20,
 		"attackSound": "artillery",
         "civilopediaText": [
@@ -3174,7 +3174,7 @@
 		"upgradesTo": "Shin Ⅲ",
 		"obsoleteTech": "Artillery Ⅲ",
 		"uniques" : ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
-			"Must set up to ranged attack", "[+50]% Strength <when attacking> <within [2] tiles of a [Mountain]>"],
+			"Must set up to ranged attack", "[+1] Range <when at war>"],
 		"hurryCostModifier": 20,
 		"attackSound": "artillery",
         "civilopediaText": [
@@ -3193,7 +3193,7 @@
 		"upgradesTo": "Shin Ⅳ",
 		"obsoleteTech": "Artillery Ⅳ",
 		"uniques" : ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
-			"Must set up to ranged attack", "[+50]% Strength <when attacking> <within [2] tiles of a [Mountain]>"],
+			"Must set up to ranged attack", "[+1] Range <when at war>"],
 		"hurryCostModifier": 20,
 		"attackSound": "artillery",
         "civilopediaText": [
@@ -3212,7 +3212,7 @@
 		"upgradesTo": "Shin Ⅴ",
 		"obsoleteTech": "Artillery Ⅴ",
 		"uniques" : ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
-			"Must set up to ranged attack", "[+50]% Strength <when attacking> <within [2] tiles of a [Mountain]>"],
+			"Must set up to ranged attack", "[+1] Range <when at war>"],
 		"hurryCostModifier": 20,
 		"attackSound": "artillery",
         "civilopediaText": [
@@ -3231,7 +3231,7 @@
 		"upgradesTo": "Shin Final Form",
 		"obsoleteTech": "Final Form",
 		"uniques" : ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
-			"Must set up to ranged attack", "[+50]% Strength <when attacking> <within [2] tiles of a [Mountain]>"],
+			"Must set up to ranged attack", "[+1] Range <when at war>"],
 		"hurryCostModifier": 20,
 		"attackSound": "artillery",
         "civilopediaText": [
@@ -3248,7 +3248,7 @@
 		"requiredTech": "Final Form",
 		"requiredResource": "Juggernaut",
 		"uniques" : ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
-			"Must set up to ranged attack", "[+50]% Strength <when attacking> <within [2] tiles of a [Mountain]>"],
+			"Must set up to ranged attack", "[+1] Range <when at war>"],
 		"hurryCostModifier": 20,
 		"attackSound": "artillery",
         "civilopediaText": [
