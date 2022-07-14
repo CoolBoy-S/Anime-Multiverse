@@ -286,22 +286,16 @@
 	},
 	// in game improvements
 	{
-		"name": "Weapon",
-		"terrainsCanBeBuiltOn": ["Plains", "Tundra", "Grassland", "Desert", "Snow", "Forest", "Hill", "Jungle", "Marsh", "Flood plains", "Lakes", "Coast", "Ocean"],
-		"production": 1,
-		"gold": 1,
-		"turnsToBuild": 7,
-		"uniques": ["Can only be built to improve a resource", "Pillaging this improvement yields approximately [+18 Gold]"],
-		//"shortcutKey": "F"
-	},
-	{
 		"name": "Godmother Shop",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Great Improvement",
 "Tile provides yield without assigned population",
 "Cannot be built on [Mountain] tiles",
 "Removes removable features when built",
-"Pillaging this improvement yields approximately [+50 Gold]"],
+"Pillaging this improvement yields approximately [+50 Gold]",
+"[+1 Production] <with [2] to [3] neighboring [Great Improvement] tiles>",
+"[+2 Production] <with [4] to [5] neighboring [Great Improvement] tiles>",
+"[+3 Production] <with [6] to [6] neighboring [Great Improvement] tiles>",],
 		//"shortcutKey": "F"
 	},
 	{
@@ -311,7 +305,10 @@
 "Tile provides yield without assigned population",
 "Cannot be built on [Mountain] tiles",
 "Removes removable features when built",
-"Pillaging this improvement yields approximately [+50 Gold]"],
+"Pillaging this improvement yields approximately [+50 Gold]",
+"[+1 Production] <with [2] to [3] neighboring [Great Improvement] tiles>",
+"[+2 Production] <with [4] to [5] neighboring [Great Improvement] tiles>",
+"[+3 Production] <with [6] to [6] neighboring [Great Improvement] tiles>",],
 		//"shortcutKey": "F"
 	},
 	{
@@ -321,7 +318,10 @@
 "Tile provides yield without assigned population",
 "Cannot be built on [Mountain] tiles",
 "Removes removable features when built",
-"Pillaging this improvement yields approximately [+50 Gold]"],
+"Pillaging this improvement yields approximately [+50 Gold]",
+"[+1 Production] <with [2] to [3] neighboring [Great Improvement] tiles>",
+"[+2 Production] <with [4] to [5] neighboring [Great Improvement] tiles>",
+"[+3 Production] <with [6] to [6] neighboring [Great Improvement] tiles>",],
 		//"shortcutKey": "F"
 	},
 	{
@@ -331,7 +331,10 @@
 "Tile provides yield without assigned population",
 "Cannot be built on [Mountain] tiles",
 "Removes removable features when built",
-"Pillaging this improvement yields approximately [+50 Gold]"],
+"Pillaging this improvement yields approximately [+50 Gold]",
+"[+1 Production] <with [2] to [3] neighboring [Great Improvement] tiles>",
+"[+2 Production] <with [4] to [5] neighboring [Great Improvement] tiles>",
+"[+3 Production] <with [6] to [6] neighboring [Great Improvement] tiles>",],
 		//"shortcutKey": "F"
 	},
 	{
@@ -341,7 +344,10 @@
 "Tile provides yield without assigned population",
 "Cannot be built on [Mountain] tiles",
 "Removes removable features when built",
-"Pillaging this improvement yields approximately [+50 Gold]"],
+"Pillaging this improvement yields approximately [+50 Gold]",
+"[+1 Production] <with [2] to [3] neighboring [Great Improvement] tiles>",
+"[+2 Production] <with [4] to [5] neighboring [Great Improvement] tiles>",
+"[+3 Production] <with [6] to [6] neighboring [Great Improvement] tiles>",],
 		//"shortcutKey": "F"
 	},
 	{
@@ -351,7 +357,10 @@
 "Tile provides yield without assigned population",
 "Cannot be built on [Mountain] tiles",
 "Removes removable features when built",
-"Pillaging this improvement yields approximately [+50 Gold]"],
+"Pillaging this improvement yields approximately [+50 Gold]",
+"[+1 Production] <with [2] to [3] neighboring [Great Improvement] tiles>",
+"[+2 Production] <with [4] to [5] neighboring [Great Improvement] tiles>",
+"[+3 Production] <with [6] to [6] neighboring [Great Improvement] tiles>",],
 		//"shortcutKey": "F"
 	},
 	{
@@ -361,7 +370,10 @@
 "Tile provides yield without assigned population",
 "Cannot be built on [Mountain] tiles",
 "Removes removable features when built",
-"Pillaging this improvement yields approximately [+50 Gold]"],
+"Pillaging this improvement yields approximately [+50 Gold]",
+"[+1 Production] <with [2] to [3] neighboring [Great Improvement] tiles>",
+"[+2 Production] <with [4] to [5] neighboring [Great Improvement] tiles>",
+"[+3 Production] <with [6] to [6] neighboring [Great Improvement] tiles>",],
 		//"shortcutKey": "F"
 	},
 	{
@@ -371,7 +383,10 @@
 "Tile provides yield without assigned population",
 "Cannot be built on [Mountain] tiles",
 "Removes removable features when built",
-"Pillaging this improvement yields approximately [+50 Gold]"],
+"Pillaging this improvement yields approximately [+50 Gold]",
+"[+1 Production] <with [2] to [3] neighboring [Great Improvement] tiles>",
+"[+2 Production] <with [4] to [5] neighboring [Great Improvement] tiles>",
+"[+3 Production] <with [6] to [6] neighboring [Great Improvement] tiles>",],
 		//"shortcutKey": "F"
 	},
 	{
@@ -381,7 +396,10 @@
 "Tile provides yield without assigned population",
 "Cannot be built on [Mountain] tiles",
 "Removes removable features when built",
-"Pillaging this improvement yields approximately [+50 Gold]"],
+"Pillaging this improvement yields approximately [+50 Gold]",
+"[+1 Production] <with [2] to [3] neighboring [Great Improvement] tiles>",
+"[+2 Production] <with [4] to [5] neighboring [Great Improvement] tiles>",
+"[+3 Production] <with [6] to [6] neighboring [Great Improvement] tiles>",],
 		//"shortcutKey": "F"
 	},
 	{
@@ -391,7 +409,10 @@
 "Tile provides yield without assigned population",
 "Cannot be built on [Mountain] tiles",
 "Removes removable features when built",
-"Pillaging this improvement yields approximately [+50 Gold]"],
+"Pillaging this improvement yields approximately [+50 Gold]",
+"[+1 Production] <with [2] to [3] neighboring [Great Improvement] tiles>",
+"[+2 Production] <with [4] to [5] neighboring [Great Improvement] tiles>",
+"[+3 Production] <with [6] to [6] neighboring [Great Improvement] tiles>",],
 		//"shortcutKey": "F"
 	},
 	{
@@ -401,7 +422,10 @@
 "Tile provides yield without assigned population",
 "Cannot be built on [Mountain] tiles",
 "Removes removable features when built",
-"Pillaging this improvement yields approximately [+50 Gold]"],
+"Pillaging this improvement yields approximately [+50 Gold]",
+"[+1 Production] <with [2] to [3] neighboring [Great Improvement] tiles>",
+"[+2 Production] <with [4] to [5] neighboring [Great Improvement] tiles>",
+"[+3 Production] <with [6] to [6] neighboring [Great Improvement] tiles>",],
 		//"shortcutKey": "F"
 	},
 	{
@@ -411,7 +435,10 @@
 "Tile provides yield without assigned population",
 "Cannot be built on [Mountain] tiles",
 "Removes removable features when built",
-"Pillaging this improvement yields approximately [+50 Gold]"],
+"Pillaging this improvement yields approximately [+50 Gold]",
+"[+1 Production] <with [2] to [3] neighboring [Great Improvement] tiles>",
+"[+2 Production] <with [4] to [5] neighboring [Great Improvement] tiles>",
+"[+3 Production] <with [6] to [6] neighboring [Great Improvement] tiles>",],
 		//"shortcutKey": "F"
 	},
 	{
@@ -421,7 +448,10 @@
 "Tile provides yield without assigned population",
 "Cannot be built on [Mountain] tiles",
 "Removes removable features when built",
-"Pillaging this improvement yields approximately [+50 Gold]"],
+"Pillaging this improvement yields approximately [+50 Gold]",
+"[+1 Production] <with [2] to [3] neighboring [Great Improvement] tiles>",
+"[+2 Production] <with [4] to [5] neighboring [Great Improvement] tiles>",
+"[+3 Production] <with [6] to [6] neighboring [Great Improvement] tiles>",],
 		//"shortcutKey": "F"
 	},
 	{
@@ -431,7 +461,10 @@
 "Tile provides yield without assigned population",
 "Cannot be built on [Mountain] tiles",
 "Removes removable features when built",
-"Pillaging this improvement yields approximately [+50 Gold]"],
+"Pillaging this improvement yields approximately [+50 Gold]",
+"[+1 Production] <with [2] to [3] neighboring [Great Improvement] tiles>",
+"[+2 Production] <with [4] to [5] neighboring [Great Improvement] tiles>",
+"[+3 Production] <with [6] to [6] neighboring [Great Improvement] tiles>",],
 		//"shortcutKey": "F"
 	},
 	{
@@ -441,7 +474,10 @@
 "Tile provides yield without assigned population",
 "Cannot be built on [Mountain] tiles",
 "Removes removable features when built",
-"Pillaging this improvement yields approximately [+50 Gold]"],
+"Pillaging this improvement yields approximately [+50 Gold]",
+"[+1 Production] <with [2] to [3] neighboring [Great Improvement] tiles>",
+"[+2 Production] <with [4] to [5] neighboring [Great Improvement] tiles>",
+"[+3 Production] <with [6] to [6] neighboring [Great Improvement] tiles>",],
 		//"shortcutKey": "F"
 	},
 	{
@@ -451,7 +487,10 @@
 "Tile provides yield without assigned population",
 "Cannot be built on [Mountain] tiles",
 "Removes removable features when built",
-"Pillaging this improvement yields approximately [+50 Gold]"],
+"Pillaging this improvement yields approximately [+50 Gold]",
+"[+1 Production] <with [2] to [3] neighboring [Great Improvement] tiles>",
+"[+2 Production] <with [4] to [5] neighboring [Great Improvement] tiles>",
+"[+3 Production] <with [6] to [6] neighboring [Great Improvement] tiles>",],
 		//"shortcutKey": "F"
 	},
 	{
@@ -461,7 +500,10 @@
 "Tile provides yield without assigned population",
 "Cannot be built on [Mountain] tiles",
 "Removes removable features when built",
-"Pillaging this improvement yields approximately [+50 Gold]"],
+"Pillaging this improvement yields approximately [+50 Gold]",
+"[+1 Production] <with [2] to [3] neighboring [Great Improvement] tiles>",
+"[+2 Production] <with [4] to [5] neighboring [Great Improvement] tiles>",
+"[+3 Production] <with [6] to [6] neighboring [Great Improvement] tiles>",],
 		//"shortcutKey": "F"
 	},
 	{
@@ -471,7 +513,10 @@
 "Tile provides yield without assigned population",
 "Cannot be built on [Mountain] tiles",
 "Removes removable features when built",
-"Pillaging this improvement yields approximately [+50 Gold]"],
+"Pillaging this improvement yields approximately [+50 Gold]",
+"[+1 Production] <with [2] to [3] neighboring [Great Improvement] tiles>",
+"[+2 Production] <with [4] to [5] neighboring [Great Improvement] tiles>",
+"[+3 Production] <with [6] to [6] neighboring [Great Improvement] tiles>",],
 		//"shortcutKey": "F"
 	},
 	{
@@ -481,7 +526,10 @@
 "Tile provides yield without assigned population",
 "Cannot be built on [Mountain] tiles",
 "Removes removable features when built",
-"Pillaging this improvement yields approximately [+50 Gold]"],
+"Pillaging this improvement yields approximately [+50 Gold]",
+"[+1 Production] <with [2] to [3] neighboring [Great Improvement] tiles>",
+"[+2 Production] <with [4] to [5] neighboring [Great Improvement] tiles>",
+"[+3 Production] <with [6] to [6] neighboring [Great Improvement] tiles>",],
 		//"shortcutKey": "F"
 	},
 	{
@@ -491,7 +539,10 @@
 "Tile provides yield without assigned population",
 "Cannot be built on [Mountain] tiles",
 "Removes removable features when built",
-"Pillaging this improvement yields approximately [+50 Gold]"],
+"Pillaging this improvement yields approximately [+50 Gold]",
+"[+1 Production] <with [2] to [3] neighboring [Great Improvement] tiles>",
+"[+2 Production] <with [4] to [5] neighboring [Great Improvement] tiles>",
+"[+3 Production] <with [6] to [6] neighboring [Great Improvement] tiles>",],
 		//"shortcutKey": "F"
 	},
 	
