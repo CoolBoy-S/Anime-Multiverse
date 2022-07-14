@@ -2,6 +2,7 @@
 Newest Update :
 
 **Adjustment Characters (＋ means new ability, ー means old ability)**
+
 Mikasa unit : 
 
 ＋ "+2 Movement within 2 tiles of a Forest"
