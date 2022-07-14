@@ -614,7 +614,7 @@
 	},
 	{
 		"name": "Protect Comrades",
-		"uniques": ["[+100]% Strength <when defending> <when adjacent to a [Military] unit> <in [Enemy Land] tiles>"],
+		"uniques": ["[+100]% Strength <when defending> <when adjacent to a [Military] unit> <in [Friendly Land] tiles>"],
 		"unitTypes": ["Hinowa"]
 	},
 	{
@@ -649,12 +649,12 @@
 	},
 	{
 		"name": "Hawk Eye",
-		"uniques": ["[+2] Range <in [Mountain] tiles>"],
+		"uniques": ["[+1] Range <in [Mountain] tiles>"],
 		"unitTypes": ["Shinon"]
 	},
 	{
 		"name": "Roman Artillery: Pumpkin",
-		"uniques": ["[+2] Range <in [Hill] tiles>"],
+		"uniques": ["[+1] Range <in [Hill] tiles>"],
 		"unitTypes": ["Mine"]
 	},
 	{
@@ -664,7 +664,7 @@
 	},
 	{
 		"name": "Support Lycoris",
-		"uniques": ["[+2] Range <when adjacent to a [Chisato] unit>"],
+		"uniques": ["[+1] Range <when adjacent to a [Chisato] unit>"],
 		"unitTypes": ["Takina"]
 	},
 	{
@@ -699,7 +699,7 @@
 	},
 	{
 		"name": "Drizzling Rain",
-		"uniques": ["[+20]% Strength bonus for [Military] units within [2] tiles"],
+		"uniques": ["[+50]% Strength bonus for [Military] units within [2] tiles"],
 		"unitTypes": ["Shigure"]
 	},
 	{
