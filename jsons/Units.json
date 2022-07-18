@@ -2537,6 +2537,7 @@
 		"upgradesTo": "Pain Ⅱ",
 		"obsoleteTech": "Sniper Ⅱ",
 		"replaces": "Kurumi",
+		"uniqueTo": "Akatsuki",
 		"uniques" : ["Never appears as a Barbarian unit"],
 		"attackSound": "shot",
         "civilopediaText": [
@@ -2555,6 +2556,7 @@
 		"upgradesTo": "Pain Ⅲ",
 		"obsoleteTech": "Sniper Ⅲ",
 		"replaces": "Kurumi Ⅱ",
+		"uniqueTo": "Akatsuki",
 		"uniques" : ["Never appears as a Barbarian unit"],
 		"attackSound": "shot",
         "civilopediaText": [
@@ -2573,6 +2575,7 @@
 		"upgradesTo": "Pain Ⅳ",
 		"obsoleteTech": "Sniper Ⅳ",
 		"replaces": "Kurumi Ⅲ",
+		"uniqueTo": "Akatsuki",
 		"uniques" : ["Never appears as a Barbarian unit"],
 		"attackSound": "shot",
         "civilopediaText": [
@@ -2591,6 +2594,7 @@
 		"upgradesTo": "Pain Ⅴ",
 		"obsoleteTech": "Sniper Ⅴ",
 		"replaces": "Kurumi Ⅳ",
+		"uniqueTo": "Akatsuki",
 		"uniques" : ["Never appears as a Barbarian unit"],
 		"attackSound": "shot",
         "civilopediaText": [
@@ -2609,6 +2613,7 @@
 		"upgradesTo": "Pain Final Form",
 		"obsoleteTech": "Final Form",
 		"replaces": "Kurumi Ⅴ",
+		"uniqueTo": "Akatsuki",
 		"uniques" : ["Never appears as a Barbarian unit"],
 		"attackSound": "shot",
         "civilopediaText": [
@@ -2625,6 +2630,7 @@
 		"requiredTech": "Final Form",
 		"requiredResource": "Rinnegan",
 		"replaces": "Kurumi Final Form",
+		"uniqueTo": "Akatsuki",
 		"uniques" : ["Never appears as a Barbarian unit"],
 		"attackSound": "shot",
         "civilopediaText": [
