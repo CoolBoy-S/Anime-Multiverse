@@ -2232,6 +2232,106 @@
 		]
 	},
 	{
+		"name": "Nagato Pain",
+		"unitType": "Nagato Pain",
+		"movement": 2,
+		"strength":11,
+		"cost": 56,
+		"requiredTech": "Attacker",
+		"requiredResource": "Rinnegan",
+		"upgradesTo": "Nagato Pain Ⅱ",
+		"obsoleteTech": "Attacker Ⅱ",
+		"uniqueTo": "Akatsuki",
+		"replaces": "Mikasa",
+		"uniques" : ["Never appears as a Barbarian unit"],
+        "civilopediaText": [
+			{"text": ""}
+		]
+	},
+	{
+		"name": "Nagato Pain Ⅱ",
+		"unitType": "Nagato Pain",
+		"movement": 2,
+		"strength":20,
+		"cost": 120,
+		"requiredTech": "Attacker Ⅱ",
+		"requiredResource": "Rinnegan",
+		"upgradesTo": "Nagato Pain Ⅲ",
+		"obsoleteTech": "Attacker Ⅲ",
+		"uniqueTo": "Akatsuki",
+		"replaces": "Mikasa Ⅱ",
+		"uniques" : ["Never appears as a Barbarian unit"],
+        "civilopediaText": [
+			{"text": ""}
+		]
+	},
+	{
+		"name": "Nagato Pain Ⅲ",
+		"unitType": "Nagato Pain",
+		"movement": 2,
+		"strength":34,
+		"cost": 225,
+		"requiredTech": "Attacker Ⅲ",
+		"requiredResource": "Rinnegan",
+		"upgradesTo": "Nagato Pain Ⅳ",
+		"obsoleteTech": "Attacker Ⅳ",
+		"uniqueTo": "Akatsuki",
+		"replaces": "Mikasa Ⅲ",
+		"uniques" : ["Never appears as a Barbarian unit"],
+        "civilopediaText": [
+			{"text": ""}
+		]
+	},
+	{
+		"name": "Nagato Pain Ⅳ",
+		"unitType": "Nagato Pain",
+		"movement": 2,
+		"strength":60,
+		"cost": 350,
+		"requiredTech": "Attacker Ⅳ",
+		"requiredResource": "Rinnegan",
+		"upgradesTo": "Nagato Pain Ⅴ",
+		"obsoleteTech": "Attacker Ⅴ",
+		"uniqueTo": "Akatsuki",
+		"replaces": "Mikasa Ⅳ",
+		"uniques" : ["Never appears as a Barbarian unit"],
+        "civilopediaText": [
+			{"text": ""}
+		]
+	},
+	{
+		"name": "Nagato Pain Ⅴ",
+		"unitType": "Nagato Pain",
+		"movement": 2,
+		"strength":70,
+		"cost": 425,
+		"requiredTech": "Attacker Ⅴ",
+		"requiredResource": "Rinnegan",
+		"upgradesTo": "Nagato Pain Final Form",
+		"obsoleteTech": "Final Form",
+		"uniqueTo": "Akatsuki",
+		"replaces": "Mikasa Ⅴ",
+		"uniques" : ["Never appears as a Barbarian unit"],
+        "civilopediaText": [
+			{"text": ""}
+		]
+	},
+	{
+		"name": "Nagato Pain Final Form",
+		"unitType": "Nagato Pain",
+		"movement": 2,
+		"strength":100,
+		"cost": 425,
+		"requiredTech": "Final Form",
+		"requiredResource": "Rinnegan",
+		"uniqueTo": "Akatsuki",
+		"replaces": "Mikasa Final Form",
+		"uniques" : ["Never appears as a Barbarian unit"],
+        "civilopediaText": [
+			{"text": ""}
+		]
+	},
+	{
 		"name": "Kazuma", //counter Barbarian
 		"unitType": "Kazuma",
 		"movement": 2,
@@ -2426,6 +2526,112 @@
 		]
 	},
 	{
+		"name": "Pain",
+		"unitType": "Pain",
+		"movement": 2,
+		"strength": 7,
+		"rangedStrength": 11,
+		"cost": 75,
+		"requiredTech": "Sniper",
+		"requiredResource": "Rinnegan",
+		"upgradesTo": "Pain Ⅱ",
+		"obsoleteTech": "Sniper Ⅱ",
+		"replaces": "Kurumi",
+		"uniques" : ["Never appears as a Barbarian unit"],
+		"attackSound": "shot",
+        "civilopediaText": [
+			{"text": "This world shall know Pain!"}
+		]
+	},
+	{
+		"name": "Pain Ⅱ",
+		"unitType": "Pain",
+		"movement": 2,
+		"strength": 16,
+		"rangedStrength": 22,
+		"cost": 185,
+		"requiredTech": "Sniper Ⅱ",
+		"requiredResource": "Rinnegan",
+		"upgradesTo": "Pain Ⅲ",
+		"obsoleteTech": "Sniper Ⅲ",
+		"replaces": "Kurumi Ⅱ",
+		"uniques" : ["Never appears as a Barbarian unit"],
+		"attackSound": "shot",
+        "civilopediaText": [
+			{"text": "This world shall know Pain!"}
+		]
+	},
+	{
+		"name": "Pain Ⅲ",
+		"unitType": "Pain",
+		"movement": 2,
+		"strength": 30,
+		"rangedStrength": 30,
+		"cost": 320,
+		"requiredTech": "Sniper Ⅲ",
+		"requiredResource": "Rinnegan",
+		"upgradesTo": "Pain Ⅳ",
+		"obsoleteTech": "Sniper Ⅳ",
+		"replaces": "Kurumi Ⅲ",
+		"uniques" : ["Never appears as a Barbarian unit"],
+		"attackSound": "shot",
+        "civilopediaText": [
+			{"text": "This world shall know Pain!"}
+		]
+	},
+	{
+		"name": "Pain Ⅳ",
+		"unitType": "Pain",
+		"movement": 2,
+		"strength": 60,
+		"rangedStrength": 60,
+		"cost": 350,
+		"requiredTech": "Sniper Ⅳ",
+		"requiredResource": "Rinnegan",
+		"upgradesTo": "Pain Ⅴ",
+		"obsoleteTech": "Sniper Ⅴ",
+		"replaces": "Kurumi Ⅳ",
+		"uniques" : ["Never appears as a Barbarian unit"],
+		"attackSound": "shot",
+        "civilopediaText": [
+			{"text": "This world shall know Pain!"}
+		]
+	},
+	{
+		"name": "Pain Ⅴ",
+		"unitType": "Pain",
+		"movement": 2,
+		"strength": 60,
+		"rangedStrength": 70,
+		"cost": 425,
+		"requiredTech": "Sniper Ⅴ",
+		"requiredResource": "Rinnegan",
+		"upgradesTo": "Pain Final Form",
+		"obsoleteTech": "Final Form",
+		"replaces": "Kurumi Ⅴ",
+		"uniques" : ["Never appears as a Barbarian unit"],
+		"attackSound": "shot",
+        "civilopediaText": [
+			{"text": "This world shall know Pain!"}
+		]
+	},
+	{
+		"name": "Pain Final Form",
+		"unitType": "Pain",
+		"movement": 2,
+		"strength": 80,
+		"rangedStrength": 100,
+		"cost": 425,
+		"requiredTech": "Final Form",
+		"requiredResource": "Rinnegan",
+		"replaces": "Kurumi Final Form",
+		"uniques" : ["Never appears as a Barbarian unit"],
+		"attackSound": "shot",
+        "civilopediaText": [
+			{"text": "This world shall know Pain!"}
+		]
+	},
+	{
 		"name": "Shinon", //counter Mikasa
 		"unitType": "Shinon",
 		"movement": 2,
@@ -2523,6 +2729,118 @@
 		"attackSound": "shot",
         "civilopediaText": [
 			{"text": "Target still far away but no problem..."}
+		]
+	},
+	{
+		"name": "Takina", //counter
+		"unitType": "Takina",
+		"movement": 2,
+		"strength": 7,
+		"rangedStrength": 11,
+		"cost": 75,
+		"replaces": "Shinon",
+		"uniqueTo": "Lycoris Recoil",
+		"requiredTech": "Sniper",
+		"requiredResource": "Lycoris Gun",
+		"upgradesTo": "Takina Ⅱ",
+		"obsoleteTech": "Sniper Ⅱ",
+		"uniques" : ["[-50]% Strength bonus for [Chisato] units within [1] tiles", "Never appears as a Barbarian unit"],
+		"attackSound": "shot",
+        "civilopediaText": [
+			{"text": "What does this mission mean?"}
+		]
+	},
+	{
+		"name": "Takina Ⅱ", //counter
+		"unitType": "Takina",
+		"movement": 2,
+		"strength": 16,
+		"rangedStrength": 22,
+		"cost": 185,
+		"replaces": "Shinon Ⅱ",
+		"uniqueTo": "Lycoris Recoil",
+		"requiredTech": "Sniper Ⅱ",
+		"requiredResource": "Lycoris Gun",
+		"upgradesTo": "Takina Ⅲ",
+		"obsoleteTech": "Sniper Ⅲ",
+		"uniques" : ["[-50]% Strength bonus for [Chisato] units within [1] tiles", "Never appears as a Barbarian unit"],
+		"attackSound": "shot",
+        "civilopediaText": [
+			{"text": "What does this mission mean?"}
+		]
+	},
+	{
+		"name": "Takina Ⅲ", //counter
+		"unitType": "Takina",
+		"movement": 2,
+		"strength": 30,
+		"rangedStrength": 30,
+		"cost": 320,
+		"replaces": "Shinon Ⅲ",
+		"uniqueTo": "Lycoris Recoil",
+		"requiredTech": "Sniper Ⅲ",
+		"requiredResource": "Lycoris Gun",
+		"upgradesTo": "Takina Ⅳ",
+		"obsoleteTech": "Sniper Ⅳ",
+		"uniques" : ["[-50]% Strength bonus for [Chisato] units within [1] tiles", "Never appears as a Barbarian unit"],
+		"attackSound": "shot",
+        "civilopediaText": [
+			{"text": "What does this mission mean?"}
+		]
+	},
+	{
+		"name": "Takina Ⅳ", //counter
+		"unitType": "Takina",
+		"movement": 2,
+		"strength": 60,
+		"rangedStrength": 60,
+		"cost": 350,
+		"replaces": "Shinon Ⅳ",
+		"uniqueTo": "Lycoris Recoil",
+		"requiredTech": "Sniper Ⅳ",
+		"requiredResource": "Lycoris Gun",
+		"upgradesTo": "Takina Ⅴ",
+		"obsoleteTech": "Sniper Ⅴ",
+		"uniques" : ["[-50]% Strength bonus for [Chisato] units within [1] tiles", "Never appears as a Barbarian unit"],
+		"attackSound": "shot",
+        "civilopediaText": [
+			{"text": "What does this mission mean?"}
+		]
+	},
+	{
+		"name": "Takina Ⅴ", //counter
+		"unitType": "Takina",
+		"movement": 2,
+		"strength": 60,
+		"rangedStrength": 70,
+		"cost": 425,
+		"replaces": "Shinon Ⅴ",
+		"uniqueTo": "Lycoris Recoil",
+		"requiredTech": "Sniper Ⅴ",
+		"requiredResource": "Lycoris Gun",
+		"upgradesTo": "Takina Final Form",
+		"obsoleteTech": "Final Form",
+		"uniques" : ["[-50]% Strength bonus for [Chisato] units within [1] tiles", "Never appears as a Barbarian unit"],
+		"attackSound": "shot",
+        "civilopediaText": [
+			{"text": "What does this mission mean?"}
+		]
+	},
+	{
+		"name": "Takina Final Form", //counter
+		"unitType": "Takina",
+		"movement": 2,
+		"strength": 80,
+		"rangedStrength": 100,
+		"cost": 425,
+		"replaces": "Shinon Final Form",
+		"uniqueTo": "Lycoris Recoil",
+		"requiredTech": "Final Form",
+		"requiredResource": "Lycoris Gun",
+		"uniques" : ["[-50]% Strength bonus for [Chisato] units within [1] tiles", "Never appears as a Barbarian unit"],
+		"attackSound": "shot",
+        "civilopediaText": [
+			{"text": "What does this mission mean?"}
 		]
 	},
 	{
@@ -2735,112 +3053,6 @@
 		"attackSound": "shot",
         "civilopediaText": [
 			{"text": "Work well today!"}
-		]
-	},
-	{
-		"name": "Takina", //counter
-		"unitType": "Takina",
-		"movement": 2,
-		"strength": 7,
-		"rangedStrength": 11,
-		"cost": 75,
-		"uniqueTo": "Lycoris Recoil",
-		"requiredTech": "Sniper",
-		"requiredResource": "Lycoris Gun",
-		"upgradesTo": "Takina Ⅱ",
-		"obsoleteTech": "Sniper Ⅱ",
-		"uniques" : ["[-50]% Strength bonus for [Chisato] units within [1] tiles", "Never appears as a Barbarian unit"],
-		"attackSound": "shot",
-        "civilopediaText": [
-			{"text": "What does this mission mean?"}
-		]
-	},
-	{
-		"name": "Takina Ⅱ", //counter
-		"unitType": "Takina",
-		"movement": 2,
-		"strength": 16,
-		"rangedStrength": 22,
-		"cost": 185,
-		"uniqueTo": "Lycoris Recoil",
-		"requiredTech": "Sniper Ⅱ",
-		"requiredResource": "Lycoris Gun",
-		"upgradesTo": "Takina Ⅲ",
-		"obsoleteTech": "Sniper Ⅲ",
-		"uniques" : ["[-50]% Strength bonus for [Chisato] units within [1] tiles", "Never appears as a Barbarian unit"],
-		"attackSound": "shot",
-        "civilopediaText": [
-			{"text": "What does this mission mean?"}
-		]
-	},
-	{
-		"name": "Takina Ⅲ", //counter
-		"unitType": "Takina",
-		"movement": 2,
-		"strength": 30,
-		"rangedStrength": 30,
-		"cost": 320,
-		"uniqueTo": "Lycoris Recoil",
-		"requiredTech": "Sniper Ⅲ",
-		"requiredResource": "Lycoris Gun",
-		"upgradesTo": "Takina Ⅳ",
-		"obsoleteTech": "Sniper Ⅳ",
-		"uniques" : ["[-50]% Strength bonus for [Chisato] units within [1] tiles", "Never appears as a Barbarian unit"],
-		"attackSound": "shot",
-        "civilopediaText": [
-			{"text": "What does this mission mean?"}
-		]
-	},
-	{
-		"name": "Takina Ⅳ", //counter
-		"unitType": "Takina",
-		"movement": 2,
-		"strength": 60,
-		"rangedStrength": 60,
-		"cost": 350,
-		"uniqueTo": "Lycoris Recoil",
-		"requiredTech": "Sniper Ⅳ",
-		"requiredResource": "Lycoris Gun",
-		"upgradesTo": "Takina Ⅴ",
-		"obsoleteTech": "Sniper Ⅴ",
-		"uniques" : ["[-50]% Strength bonus for [Chisato] units within [1] tiles", "Never appears as a Barbarian unit"],
-		"attackSound": "shot",
-        "civilopediaText": [
-			{"text": "What does this mission mean?"}
-		]
-	},
-	{
-		"name": "Takina Ⅴ", //counter
-		"unitType": "Takina",
-		"movement": 2,
-		"strength": 60,
-		"rangedStrength": 70,
-		"cost": 425,
-		"uniqueTo": "Lycoris Recoil",
-		"requiredTech": "Sniper Ⅴ",
-		"requiredResource": "Lycoris Gun",
-		"upgradesTo": "Takina Final Form",
-		"obsoleteTech": "Final Form",
-		"uniques" : ["[-50]% Strength bonus for [Chisato] units within [1] tiles", "Never appears as a Barbarian unit"],
-		"attackSound": "shot",
-        "civilopediaText": [
-			{"text": "What does this mission mean?"}
-		]
-	},
-	{
-		"name": "Takina Final Form", //counter
-		"unitType": "Takina",
-		"movement": 2,
-		"strength": 80,
-		"rangedStrength": 100,
-		"cost": 425,
-		"uniqueTo": "Lycoris Recoil",
-		"requiredTech": "Final Form",
-		"requiredResource": "Lycoris Gun",
-		"uniques" : ["[-50]% Strength bonus for [Chisato] units within [1] tiles", "Never appears as a Barbarian unit"],
-		"attackSound": "shot",
-        "civilopediaText": [
-			{"text": "What does this mission mean?"}
 		]
 	},
 	{

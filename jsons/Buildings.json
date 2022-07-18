@@ -1193,80 +1193,6 @@
 		"requiredTech": "Informer"
 	},
 	{
-		"name": "District 86",
-		"hurryCostModifier": 25,
-		"maintenance": 1,
-		"uniques": ["Provides [1] [Juggernaut]", "Destroyed when the city is captured", "Creates a [District 86] improvement on a specific tile"],
-		"requiredTech": "Artillery"
-	},
-	{
-		"name": "Sans of Magnolia",
-		"hurryCostModifier": 25,
-		"maintenance": 1,
-		"uniques": ["Provides [1] [Para Raid]", "Destroyed when the city is captured", "Creates a [Sans of Magnolia] improvement on a specific tile"],
-		"requiredTech": "Artillery"
-	},
-	{
-		"name": "Elite Seven Hideout",
-		"hurryCostModifier": 25,
-		"maintenance": 1,
-		"uniques": ["Provides [1] [Murasame]", "Destroyed when the city is captured", "Creates a [Elite Seven Hideout] improvement on a specific tile"],
-		"requiredTech": "Attacker"
-	},
-	{
-		"name": "Wall Rose",
-		"hurryCostModifier": 25,
-		"maintenance": 1,
-		"uniques": ["Provides [1] [Maneuver Gear]", "Destroyed when the city is captured", "Creates a [Wall Rose] improvement on a specific tile"],
-		"requiredTech": "Attacker"
-	},
-	{
-		"name": "Adventurer's Guild",
-		"hurryCostModifier": 25,
-		"maintenance": 1,
-		"uniques": ["Provides [1] [Chunchunmaru]", "Destroyed when the city is captured", "Creates a [Adventurer's Guild] improvement on a specific tile"],
-		"requiredTech": "Attacker"
-	},
-	{
-		"name": "I&S",
-		"hurryCostModifier": 25,
-		"maintenance": 1,
-		"uniques": ["Provides [1] [Demon Sword]", "Destroyed when the city is captured", "Creates a [I&S] improvement on a specific tile"],
-		"uniqueTo": "Engage Kiss",
-		"replaces": "Elite Seven Hideout",
-		"requiredTech": "Attacker"
-	},
-	{
-		"name": "Spirit Hideout",
-		"hurryCostModifier": 25,
-		"maintenance": 1,
-		"uniques": ["Provides [1] [Zafkiel]", "Destroyed when the city is captured", "Creates a [Spirit Hideout] improvement on a specific tile"],
-		"requiredTech": "Sniper"
-	},
-	{
-		"name": "Gun Gale Online",
-		"hurryCostModifier": 25,
-		"maintenance": 1,
-		"uniques": ["Provides [1] [Hecate Ⅱ]", "Destroyed when the city is captured", "Creates a [Gun Gale Online] improvement on a specific tile"],
-		"requiredTech": "Sniper"
-	},
-	{
-		"name": "Night Raid Hideout",
-		"hurryCostModifier": 25,
-		"maintenance": 1,
-		"uniques": ["Provides [1] [Pumpkin]", "Destroyed when the city is captured", "Creates a [Night Raid Hideout] improvement on a specific tile"],
-		"requiredTech": "Sniper"
-	},
-	{
-		"name": "DA",
-		"hurryCostModifier": 25,
-		"maintenance": 1,
-		"uniques": ["Provides [1] [Lycoris Gun]", "Destroyed when the city is captured", "Creates a [DA] improvement on a specific tile"],
-		"uniqueTo": "Lycoris Recoil",
-		"replaces": "Night Raid Hideout",
-		"requiredTech": "Sniper"
-	},
-	{
 		"name": "Shiranui Fortress",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
@@ -1279,6 +1205,93 @@
 		"maintenance": 1,
 		"uniques": ["Provides [1] [Sword King]", "Destroyed when the city is captured", "Creates a [Asura Kingdom] improvement on a specific tile"],
 		"requiredTech": "Tanker"
+	},
+	{
+		"name": "Elite Seven Hideout",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Provides [1] [Murasame]", "Destroyed when the city is captured", "Creates a [Elite Seven Hideout] improvement on a specific tile"],
+		"requiredTech": "Attacker"
+	},
+	{
+		"name": "I&S",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Provides [1] [Demon Sword]", "Destroyed when the city is captured", "Creates a [I&S] improvement on a specific tile"],
+		"uniqueTo": "Engage Kiss",
+		"replaces": "Elite Seven Hideout",
+		"requiredTech": "Attacker"
+	},
+	{
+		"name": "Wall Rose",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Provides [1] [Maneuver Gear]", "Destroyed when the city is captured", "Creates a [Wall Rose] improvement on a specific tile"],
+		"requiredTech": "Attacker"
+	},
+	{
+		"name": "Akatsuki Hideout",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Provides [1] [Rinnegan]", "Destroyed when the city is captured", "Creates a [Akatsuki Hideout] improvement on a specific tile"],
+		"uniqueTo": "Akatsuki",
+		"replaces": "Wall Rose",
+		"requiredTech": "Attacker"
+	},
+	{
+		"name": "Adventurer's Guild",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Provides [1] [Chunchunmaru]", "Destroyed when the city is captured", "Creates a [Adventurer's Guild] improvement on a specific tile"],
+		"requiredTech": "Attacker"
+	},
+	{
+		"name": "Spirit Hideout",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Provides [1] [Zafkiel]", "Destroyed when the city is captured", "Creates a [Spirit Hideout] improvement on a specific tile"],
+		"requiredTech": "Sniper"
+	},
+	{
+		"name": "Gedo Statue",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Provides [1] [Rinnegan]", "Destroyed when the city is captured", "Creates a [Gedo Statue] improvement on a specific tile"],
+		"uniqueTo": "Akatsuki",
+		"replaces": "Spirit Hideout",
+		"requiredTech": "Sniper"
+	},
+	{
+		"name": "Gun Gale Online",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Provides [1] [Hecate Ⅱ]", "Destroyed when the city is captured", "Creates a [Gun Gale Online] improvement on a specific tile"],
+		"requiredTech": "Sniper"
+	},
+	{
+		"name": "DA",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Provides [1] [Lycoris Gun]", "Destroyed when the city is captured", "Creates a [DA] improvement on a specific tile"],
+		"uniqueTo": "Lycoris Recoil",
+		"replaces": "Gun Gale Online",
+		"requiredTech": "Sniper"
+	},
+	{
+		"name": "Night Raid Hideout",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Provides [1] [Pumpkin]", "Destroyed when the city is captured", "Creates a [Night Raid Hideout] improvement on a specific tile"],
+		"requiredTech": "Sniper"
+	},
+	{
+		"name": "Coffee Shop",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Provides [1] [Lycoris Gun]", "Destroyed when the city is captured", "Creates a [Coffee Shop] improvement on a specific tile"],
+		"uniqueTo": "Lycoris Recoil",
+		"replaces": "Night Raid Hideout",
+		"requiredTech": "Sniper"
 	},
 	{
 		"name": "Ranoa Academy",
@@ -1300,6 +1313,20 @@
 		"maintenance": 1,
 		"uniques": ["Provides [1] [Geass]", "Destroyed when the city is captured", "Creates a [Britannia Empire] improvement on a specific tile"],
 		"requiredTech": "Magic"
+	},
+	{
+		"name": "District 86",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Provides [1] [Juggernaut]", "Destroyed when the city is captured", "Creates a [District 86] improvement on a specific tile"],
+		"requiredTech": "Artillery"
+	},
+	{
+		"name": "Sans of Magnolia",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Provides [1] [Para Raid]", "Destroyed when the city is captured", "Creates a [Sans of Magnolia] improvement on a specific tile"],
+		"requiredTech": "Artillery"
 	},
 	{
 		"name": "Coastal Refinery Zone",

@@ -1403,7 +1403,7 @@
 		"name": "Engage Kiss",
 		"leaderName": "Shuu",
 		"adjective": ["Engage Kiss"],
-		"startBias": ["Grassland]"],
+		"startBias": ["Grassland"],
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Baylon City -A mega-float city in the Pacific Ocean that does not belong to any country.  In this city, which has been mining the new energy resource Orgonium and is attracting the most attention in the world, there have been many special incidents caused by devils called D disasters.",
@@ -1429,7 +1429,7 @@
 		"name": "Lycoris Recoil",
 		"leaderName": "Lycoris",
 		"adjective": ["Lycoris Recoil"],
-		"startBias": ["Plains]"],
+		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Inoue Takina, a secret agent who protects the security of Japan, is ordered to transfer to the cafe Lycoris in the wake of a certain incident. She teams up with Chisato, the super-excellent No.1 Lycoris, And is enthusiastic about her return to DA, but her work at Lycoris has a habit and a habit!?",
@@ -1451,5 +1451,30 @@
 		"uniqueName": "Lycoris Girl",
 		"cities": ["Lycoris City"]
 	},
+	{
+		"name": "Akatsuki",
+		"leaderName": "Pain",
+		"adjective": ["Akatsuki"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
 
+		"startIntroPart1": "Akatsuki was a group of shinobi that existed outside the usual system of hidden villages. Over the course of several decades, Akatsuki took different forms and was led by different individuals. Though each iteration is viewed as either subversives or criminals, all seek to make the world a better place through their own means. Each Akatsuki tended to have multiple lairs across the world, inaccessible either due to their remoteness or the various security measures that protected them.",
+		"startIntroPart2": "Akatsuki's desire for an end to war attracted many fellow Ame ninja to their cause and, in time, word of their exploits began to travel beyond Amegakure's borders. Akatsuki's early fame was owed largely to Yahiko's leadership and his natural charisma, which kept the group united and motivated them to persevere despite the difficulties of their goal.",
+
+		"declaringWar": "The demon wants the blood of soldiers!",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "It is over. Perhaps now I shall have peace, at last.",
+		"introduction": "Are you real or a phantom?",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+
+		"outerColor": [47, 48, 59],
+		"innerColor": [151,57,67],
+		"favoredReligion": "Shinto",
+		"uniqueName": "The Sixth Path",
+		"cities": ["Amegakure"]
+	},
 ]

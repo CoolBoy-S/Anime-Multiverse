@@ -614,12 +614,12 @@
 	},
 	{
 		"name": "Protect Comrades",
-		"uniques": ["[+100]% Strength <when defending> <when adjacent to a [Military] unit> <in [Friendly Land] tiles>"],
+		"uniques": ["[+50]% Strength <when defending> <when adjacent to a [Military] unit> <in [Friendly Land] tiles>"],
 		"unitTypes": ["Hinowa"]
 	},
 	{
 		"name": "The Goddess of War",
-		"uniques": ["[+100]% Strength <when defending> <when adjacent to a [Rudeus] unit>"],
+		"uniques": ["[+50]% Strength <when defending> <when adjacent to a [Rudeus] unit>"],
 		"unitTypes": ["Eris"]
 	},
 	{
@@ -638,6 +638,36 @@
 		"unitTypes": ["Mikasa"]
 	},
 	{
+		"name": "Deva Path: Tendou",
+		"uniques": ["[+100]% Strength <when attacking> <when adjacent to a [Nagato Pain] unit> <with [20]% chance>"],
+		"unitTypes": ["Pain"]
+	},
+	{
+		"name": "Asura Path: Shuradou",
+		"uniques": ["[+2] Movement <when adjacent to a [Nagato Pain] unit>"],
+		"unitTypes": ["Pain"]
+	},
+	{
+		"name": "Human Path: Ningendou",
+		"uniques": ["[+1] Sight <when adjacent to a [Nagato Pain] unit>"],
+		"unitTypes": ["Pain"]
+	},
+	{
+		"name": "Animal Path: Chikusudou",
+		"uniques": ["[+200]% Strength <vs cities> <when attacking> <when adjacent to a [Nagato Pain] unit>"],
+		"unitTypes": ["Pain"]
+	},
+	{
+		"name": "Preta Path: Gakidou",
+		"uniques": ["[+50]% Strength <when defending> <when adjacent to a [Nagato Pain] unit>"],
+		"unitTypes": ["Pain"]
+	},
+	{
+		"name": "Naraka Path: Jigokudou",
+		"uniques": ["[10] HP when healing <when adjacent to a [Nagato Pain] unit>"],
+		"unitTypes": ["Pain"]
+	},
+	{
 		"name": "Steal!",
 		"uniques": ["Earn [+20]% of the damage done to [Military] units as [Gold]"],
 		"unitTypes": ["Kazuma"]
@@ -653,6 +683,11 @@
 		"unitTypes": ["Shinon"]
 	},
 	{
+		"name": "Support Lycoris",
+		"uniques": ["[+1] Range <when adjacent to a [Chisato] unit>"],
+		"unitTypes": ["Takina"]
+	},
+	{
 		"name": "Roman Artillery: Pumpkin",
 		"uniques": ["[+1] Range <in [Hill] tiles>"],
 		"unitTypes": ["Mine"]
@@ -661,11 +696,6 @@
 		"name": "No.1 Lycoris",
 		"uniques": ["[3] additional attacks per turn <when adjacent to a [Takina] unit>"],
 		"unitTypes": ["Chisato"]
-	},
-	{
-		"name": "Support Lycoris",
-		"uniques": ["[+1] Range <when adjacent to a [Chisato] unit>"],
-		"unitTypes": ["Takina"]
 	},
 	{
 		"name": "Quagmire",

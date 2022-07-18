@@ -150,6 +150,10 @@
         "movementType": "Land",
     },
     {
+        "name": "Nagato Pain",
+        "movementType": "Land",
+    },
+    {
         "name": "Kazuma",
         "movementType": "Land",
     },
@@ -158,7 +162,15 @@
         "movementType": "Land",
     },
     {
+        "name": "Pain",
+        "movementType": "Land",
+    },
+    {
         "name": "Shinon",
+        "movementType": "Land",
+    },
+    {
+        "name": "Takina",
         "movementType": "Land",
     },
     {
@@ -167,10 +179,6 @@
     },
     {
         "name": "Chisato",
-        "movementType": "Land",
-    },
-    {
-        "name": "Takina",
         "movementType": "Land",
     },
     {
@@ -188,6 +196,10 @@
     {
         "name": "Shin",
         "movementType": "Land",
+    },
+    {
+        "name": "Lena",
+        "movementType": "Air",
     },
     {
         "name": "Fubuki",
@@ -220,9 +232,5 @@
     {
         "name": "Shoukaku",
         "movementType": "Water",
-    },
-    {
-        "name": "Lena",
-        "movementType": "Air",
     },
 ]
