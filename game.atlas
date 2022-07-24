@@ -6541,7 +6541,70 @@ TileSets/FantasyHex/Units/Abukuma
   orig: 120, 105
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Abukuma Ⅱ
+  rotate: false
+  xy: 0, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Abukuma Ⅲ
+  rotate: false
+  xy: 0, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Abukuma Ⅳ
+  rotate: false
+  xy: 0, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Abukuma Final Form
+  rotate: false
+  xy: 0, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Aqua
+  rotate: false
+  xy: 120, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Aqua Ⅱ
+  rotate: false
+  xy: 120, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Aqua Ⅲ
+  rotate: false
+  xy: 120, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Aqua Ⅳ
+  rotate: false
+  xy: 120, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Aqua Ⅴ
+  rotate: false
+  xy: 120, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Aqua Final Form
   rotate: false
   xy: 120, 0
   size: 120, 105
@@ -6555,7 +6618,77 @@ TileSets/FantasyHex/Units/Fubuki
   orig: 120, 105
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Fubuki Ⅱ
+  rotate: false
+  xy: 240, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Fubuki Ⅲ
+  rotate: false
+  xy: 240, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Fubuki Ⅳ
+  rotate: false
+  xy: 240, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Fubuki Ⅴ
+  rotate: false
+  xy: 240, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Fubuki Final Form
+  rotate: false
+  xy: 240, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Kurumi
+  rotate: false
+  xy: 360, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Kurumi Ⅱ
+  rotate: false
+  xy: 360, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Kurumi Ⅲ
+  rotate: false
+  xy: 360, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Kurumi Ⅳ
+  rotate: false
+  xy: 360, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Kurumi Ⅴ
+  rotate: false
+  xy: 360, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Kurumi Final Form
   rotate: false
   xy: 360, 0
   size: 120, 105
@@ -6576,7 +6709,49 @@ TileSets/FantasyHex/Units/Shigure
   orig: 120, 105
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Shigure Ⅱ
+  rotate: false
+  xy: 600, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Shigure Ⅲ
+  rotate: false
+  xy: 600, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Shigure Ⅳ
+  rotate: false
+  xy: 600, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Shigure Ⅴ
+  rotate: false
+  xy: 600, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Shigure Final Form
+  rotate: false
+  xy: 600, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Zuikaku
+  rotate: false
+  xy: 720, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Zuikaku Final Form
   rotate: false
   xy: 720, 0
   size: 120, 105
@@ -6590,7 +6765,77 @@ TileSets/FantasyHex/Units/Akame
   orig: 120, 105
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Akame Ⅱ
+  rotate: false
+  xy: 0, 105
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Akame Ⅲ
+  rotate: false
+  xy: 0, 105
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Akame Ⅳ
+  rotate: false
+  xy: 0, 105
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Akame Ⅴ
+  rotate: false
+  xy: 0, 105
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Akame Final Form
+  rotate: false
+  xy: 0, 105
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Eris
+  rotate: false
+  xy: 120, 105
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Eris Ⅱ
+  rotate: false
+  xy: 120, 105
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Eris Ⅲ
+  rotate: false
+  xy: 120, 105
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Eris Ⅳ
+  rotate: false
+  xy: 120, 105
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Eris Ⅴ
+  rotate: false
+  xy: 120, 105
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Eris Final Form
   rotate: false
   xy: 120, 105
   size: 120, 105
@@ -6604,7 +6849,77 @@ TileSets/FantasyHex/Units/Kisara
   orig: 120, 105
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Kisara Ⅱ
+  rotate: false
+  xy: 240, 105
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Kisara Ⅲ
+  rotate: false
+  xy: 240, 105
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Kisara Ⅳ
+  rotate: false
+  xy: 240, 105
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Kisara Ⅴ
+  rotate: false
+  xy: 240, 105
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Kisara Final Form
+  rotate: false
+  xy: 240, 105
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Mikasa
+  rotate: false
+  xy: 360, 105
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mikasa Ⅱ
+  rotate: false
+  xy: 360, 105
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mikasa Ⅲ
+  rotate: false
+  xy: 360, 105
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mikasa Ⅳ
+  rotate: false
+  xy: 360, 105
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mikasa Ⅴ
+  rotate: false
+  xy: 360, 105
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mikasa Final Form
   rotate: false
   xy: 360, 105
   size: 120, 105
@@ -6618,7 +6933,70 @@ TileSets/FantasyHex/Units/Rudeus
   orig: 120, 105
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Rudeus Ⅱ
+  rotate: false
+  xy: 480, 105
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rudeus Ⅲ
+  rotate: false
+  xy: 480, 105
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rudeus Ⅳ
+  rotate: false
+  xy: 480, 105
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rudeus Ⅴ
+  rotate: false
+  xy: 480, 105
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rudeus Final Form
+  rotate: false
+  xy: 480, 105
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Yuubari
+  rotate: false
+  xy: 600, 105
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Yuubari Ⅱ
+  rotate: false
+  xy: 600, 105
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Yuubari Ⅲ
+  rotate: false
+  xy: 600, 105
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Yuubari Ⅳ
+  rotate: false
+  xy: 600, 105
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Yuubari Final Form
   rotate: false
   xy: 600, 105
   size: 120, 105
@@ -6632,7 +7010,77 @@ TileSets/FantasyHex/Units/Chisato
   orig: 120, 105
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Chisato Ⅱ
+  rotate: false
+  xy: 0, 210
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Chisato Ⅲ
+  rotate: false
+  xy: 0, 210
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Chisato Ⅳ
+  rotate: false
+  xy: 0, 210
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Chisato Ⅴ
+  rotate: false
+  xy: 0, 210
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Chisato Final Form
+  rotate: false
+  xy: 0, 210
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Kazuma
+  rotate: false
+  xy: 120, 210
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Kazuma Ⅱ
+  rotate: false
+  xy: 120, 210
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Kazuma Ⅲ
+  rotate: false
+  xy: 120, 210
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Kazuma Ⅳ
+  rotate: false
+  xy: 120, 210
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Kazuma Ⅴ
+  rotate: false
+  xy: 120, 210
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Kazuma Final Form
   rotate: false
   xy: 120, 210
   size: 120, 105
@@ -6653,7 +7101,49 @@ TileSets/FantasyHex/Units/Pain
   orig: 120, 105
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Pain Ⅱ
+  rotate: false
+  xy: 360, 210
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Pain Ⅲ
+  rotate: false
+  xy: 360, 210
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Pain Ⅳ
+  rotate: false
+  xy: 360, 210
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Pain Ⅴ
+  rotate: false
+  xy: 360, 210
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Pain Final Form
+  rotate: false
+  xy: 360, 210
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Yamato
+  rotate: false
+  xy: 480, 210
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Yamato Final Form
   rotate: false
   xy: 480, 210
   size: 120, 105
@@ -6667,7 +7157,77 @@ TileSets/FantasyHex/Units/Hinowa
   orig: 120, 105
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Hinowa Ⅱ
+  rotate: false
+  xy: 0, 315
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Hinowa Ⅲ
+  rotate: false
+  xy: 0, 315
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Hinowa Ⅳ
+  rotate: false
+  xy: 0, 315
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Hinowa Ⅴ
+  rotate: false
+  xy: 0, 315
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Hinowa Final Form
+  rotate: false
+  xy: 0, 315
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Lena
+  rotate: false
+  xy: 120, 315
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Lena Ⅱ
+  rotate: false
+  xy: 120, 315
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Lena Ⅲ
+  rotate: false
+  xy: 120, 315
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Lena Ⅳ
+  rotate: false
+  xy: 120, 315
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Lena Ⅴ
+  rotate: false
+  xy: 120, 315
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Lena Final Form
   rotate: false
   xy: 120, 315
   size: 120, 105
@@ -6681,7 +7241,49 @@ TileSets/FantasyHex/Units/Nagato
   orig: 120, 105
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Nagato Final Form
+  rotate: false
+  xy: 240, 315
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Takina
+  rotate: false
+  xy: 360, 315
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Takina Ⅱ
+  rotate: false
+  xy: 360, 315
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Takina Ⅲ
+  rotate: false
+  xy: 360, 315
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Takina Ⅳ
+  rotate: false
+  xy: 360, 315
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Takina Ⅴ
+  rotate: false
+  xy: 360, 315
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Takina Final Form
   rotate: false
   xy: 360, 315
   size: 120, 105
@@ -6695,7 +7297,77 @@ TileSets/FantasyHex/Units/Lelouch
   orig: 120, 105
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Lelouch Ⅱ
+  rotate: false
+  xy: 0, 420
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Lelouch Ⅲ
+  rotate: false
+  xy: 0, 420
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Lelouch Ⅳ
+  rotate: false
+  xy: 0, 420
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Lelouch Ⅴ
+  rotate: false
+  xy: 0, 420
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Lelouch Final Form
+  rotate: false
+  xy: 0, 420
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Nagato Pain
+  rotate: false
+  xy: 120, 420
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nagato Pain Ⅱ
+  rotate: false
+  xy: 120, 420
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nagato Pain Ⅲ
+  rotate: false
+  xy: 120, 420
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nagato Pain Ⅳ
+  rotate: false
+  xy: 120, 420
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nagato Pain Ⅴ
+  rotate: false
+  xy: 120, 420
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nagato Pain Final Form
   rotate: false
   xy: 120, 420
   size: 120, 105
@@ -6709,7 +7381,49 @@ TileSets/FantasyHex/Units/Shoukaku
   orig: 120, 105
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Shoukaku Final Form
+  rotate: false
+  xy: 240, 420
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Mine
+  rotate: false
+  xy: 0, 525
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mine Ⅱ
+  rotate: false
+  xy: 0, 525
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mine Ⅲ
+  rotate: false
+  xy: 0, 525
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mine Ⅳ
+  rotate: false
+  xy: 0, 525
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mine Ⅴ
+  rotate: false
+  xy: 0, 525
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mine Final Form
   rotate: false
   xy: 0, 525
   size: 120, 105
@@ -6723,7 +7437,77 @@ TileSets/FantasyHex/Units/Shinon
   orig: 120, 105
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Shinon Ⅱ
+  rotate: false
+  xy: 120, 525
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Shinon Ⅲ
+  rotate: false
+  xy: 120, 525
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Shinon Ⅳ
+  rotate: false
+  xy: 120, 525
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Shinon Ⅴ
+  rotate: false
+  xy: 120, 525
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Shinon Final Form
+  rotate: false
+  xy: 120, 525
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Shin
+  rotate: false
+  xy: 0, 630
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Shin Ⅱ
+  rotate: false
+  xy: 0, 630
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Shin Ⅲ
+  rotate: false
+  xy: 0, 630
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Shin Ⅳ
+  rotate: false
+  xy: 0, 630
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Shin Ⅴ
+  rotate: false
+  xy: 0, 630
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Shin Final Form
   rotate: false
   xy: 0, 630
   size: 120, 105
