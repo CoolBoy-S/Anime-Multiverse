@@ -1181,43 +1181,49 @@
 	{
 		"name": "Godmother Shop",
 		"hurryCostModifier": 25,
+		"culture": 2,
 		"maintenance": 1,
-		"uniques": ["Provides [1] [Talisman]", "Destroyed when the city is captured", "Creates a [Godmother Shop] improvement on a specific tile"],
+		"uniques": ["Provides [1] [Talisman]", "Destroyed when the city is captured"],
 		"requiredTech": "Informer"
 	},
 	{
 		"name": "Westalis",
 		"hurryCostModifier": 25,
+		"culture": 2,
 		"maintenance": 1,
-		"uniques": ["Provides [1] [Spy Gear]", "Destroyed when the city is captured", "Creates a [Westalis] improvement on a specific tile"],
+		"uniques": ["Provides [1] [Spy Gear]", "Destroyed when the city is captured"],
 		"requiredTech": "Informer"
 	},
 	{
 		"name": "Shiranui Fortress",
 		"hurryCostModifier": 25,
+		"gold": 2,
 		"maintenance": 1,
-		"uniques": ["Provides [1] [Isonade]", "Destroyed when the city is captured", "Creates a [Shiranui Fortress] improvement on a specific tile"],
+		"uniques": ["Provides [1] [Isonade]", "Destroyed when the city is captured"],
 		"requiredTech": "Tanker"
 	},
 	{
 		"name": "Asura Kingdom",
 		"hurryCostModifier": 25,
+		"gold": 2,
 		"maintenance": 1,
-		"uniques": ["Provides [1] [Sword King]", "Destroyed when the city is captured", "Creates a [Asura Kingdom] improvement on a specific tile"],
+		"uniques": ["Provides [1] [Sword King]", "Destroyed when the city is captured"],
 		"requiredTech": "Tanker"
 	},
 	{
 		"name": "Elite Seven Hideout",
 		"hurryCostModifier": 25,
+		"food": 2,
 		"maintenance": 1,
-		"uniques": ["Provides [1] [Murasame]", "Destroyed when the city is captured", "Creates a [Elite Seven Hideout] improvement on a specific tile"],
+		"uniques": ["Provides [1] [Murasame]", "Destroyed when the city is captured"],
 		"requiredTech": "Attacker"
 	},
 	{
 		"name": "I&S",
 		"hurryCostModifier": 25,
+		"food": 2,
 		"maintenance": 1,
-		"uniques": ["Provides [1] [Demon Sword]", "Destroyed when the city is captured", "Creates a [I&S] improvement on a specific tile"],
+		"uniques": ["Provides [1] [Demon Sword]", "Destroyed when the city is captured"],
 		"uniqueTo": "Engage Kiss",
 		"replaces": "Elite Seven Hideout",
 		"requiredTech": "Attacker"
@@ -1225,15 +1231,17 @@
 	{
 		"name": "Wall Rose",
 		"hurryCostModifier": 25,
+		"food": 2,
 		"maintenance": 1,
-		"uniques": ["Provides [1] [Maneuver Gear]", "Destroyed when the city is captured", "Creates a [Wall Rose] improvement on a specific tile"],
+		"uniques": ["Provides [1] [Maneuver Gear]", "Destroyed when the city is captured"],
 		"requiredTech": "Attacker"
 	},
 	{
 		"name": "Akatsuki Hideout",
 		"hurryCostModifier": 25,
+		"food": 2,
 		"maintenance": 1,
-		"uniques": ["Provides [1] [Rinnegan]", "Destroyed when the city is captured", "Creates a [Akatsuki Hideout] improvement on a specific tile"],
+		"uniques": ["Provides [1] [Rinnegan]", "Destroyed when the city is captured"],
 		"uniqueTo": "Akatsuki",
 		"replaces": "Wall Rose",
 		"requiredTech": "Attacker"
@@ -1241,22 +1249,25 @@
 	{
 		"name": "Adventurer's Guild",
 		"hurryCostModifier": 25,
+		"food": 2,
 		"maintenance": 1,
-		"uniques": ["Provides [1] [Chunchunmaru]", "Destroyed when the city is captured", "Creates a [Adventurer's Guild] improvement on a specific tile"],
+		"uniques": ["Provides [1] [Chunchunmaru]", "Destroyed when the city is captured"],
 		"requiredTech": "Attacker"
 	},
 	{
 		"name": "Spirit Hideout",
 		"hurryCostModifier": 25,
+		"production": 2,
 		"maintenance": 1,
-		"uniques": ["Provides [1] [Zafkiel]", "Destroyed when the city is captured", "Creates a [Spirit Hideout] improvement on a specific tile"],
+		"uniques": ["Provides [1] [Zafkiel]", "Destroyed when the city is captured"],
 		"requiredTech": "Sniper"
 	},
 	{
 		"name": "Gedo Statue",
 		"hurryCostModifier": 25,
+		"production": 2,
 		"maintenance": 1,
-		"uniques": ["Provides [1] [Rinnegan]", "Destroyed when the city is captured", "Creates a [Gedo Statue] improvement on a specific tile"],
+		"uniques": ["Provides [1] [Rinnegan]", "Destroyed when the city is captured"],
 		"uniqueTo": "Akatsuki",
 		"replaces": "Spirit Hideout",
 		"requiredTech": "Sniper"
@@ -1264,15 +1275,17 @@
 	{
 		"name": "Gun Gale Online",
 		"hurryCostModifier": 25,
+		"production": 2,
 		"maintenance": 1,
-		"uniques": ["Provides [1] [Hecate Ⅱ]", "Destroyed when the city is captured", "Creates a [Gun Gale Online] improvement on a specific tile"],
+		"uniques": ["Provides [1] [Hecate Ⅱ]", "Destroyed when the city is captured"],
 		"requiredTech": "Sniper"
 	},
 	{
 		"name": "DA",
 		"hurryCostModifier": 25,
+		"production": 2,
 		"maintenance": 1,
-		"uniques": ["Provides [1] [Lycoris Gun]", "Destroyed when the city is captured", "Creates a [DA] improvement on a specific tile"],
+		"uniques": ["Provides [1] [Lycoris Gun]", "Destroyed when the city is captured"],
 		"uniqueTo": "Lycoris Recoil",
 		"replaces": "Gun Gale Online",
 		"requiredTech": "Sniper"
@@ -1280,15 +1293,17 @@
 	{
 		"name": "Night Raid Hideout",
 		"hurryCostModifier": 25,
+		"production": 2,
 		"maintenance": 1,
-		"uniques": ["Provides [1] [Pumpkin]", "Destroyed when the city is captured", "Creates a [Night Raid Hideout] improvement on a specific tile"],
+		"uniques": ["Provides [1] [Pumpkin]", "Destroyed when the city is captured"],
 		"requiredTech": "Sniper"
 	},
 	{
 		"name": "Coffee Shop",
 		"hurryCostModifier": 25,
+		"production": 2,
 		"maintenance": 1,
-		"uniques": ["Provides [1] [Lycoris Gun]", "Destroyed when the city is captured", "Creates a [Coffee Shop] improvement on a specific tile"],
+		"uniques": ["Provides [1] [Lycoris Gun]", "Destroyed when the city is captured"],
 		"uniqueTo": "Lycoris Recoil",
 		"replaces": "Night Raid Hideout",
 		"requiredTech": "Sniper"
@@ -1296,69 +1311,74 @@
 	{
 		"name": "Ranoa Academy",
 		"hurryCostModifier": 25,
+		"science": 2,
 		"maintenance": 1,
-		"uniques": ["Provides [1] [Magic Wand]", "Destroyed when the city is captured", "Creates a [Ranoa Academy] improvement on a specific tile"],
+		"uniques": ["Provides [1] [Magic Wand]", "Destroyed when the city is captured"],
 		"requiredTech": "Magic"
 	},
 	{
 		"name": "Goddess Aqua Monument",
 		"hurryCostModifier": 25,
+		"science": 2,
 		"maintenance": 1,
-		"uniques": ["Provides [1] [Magic Staff]", "Destroyed when the city is captured", "Creates a [Goddess Aqua Monument] improvement on a specific tile"],
+		"uniques": ["Provides [1] [Magic Staff]", "Destroyed when the city is captured"],
 		"requiredTech": "Magic"
 	},
 	{
 		"name": "Britannia Empire",
 		"hurryCostModifier": 25,
+		"science": 2,
 		"maintenance": 1,
-		"uniques": ["Provides [1] [Geass]", "Destroyed when the city is captured", "Creates a [Britannia Empire] improvement on a specific tile"],
+		"uniques": ["Provides [1] [Geass]", "Destroyed when the city is captured"],
 		"requiredTech": "Magic"
 	},
 	{
 		"name": "District 86",
 		"hurryCostModifier": 25,
+		"cityStrength": 2,
 		"maintenance": 1,
-		"uniques": ["Provides [1] [Juggernaut]", "Destroyed when the city is captured", "Creates a [District 86] improvement on a specific tile"],
+		"uniques": ["Provides [1] [Juggernaut]", "Destroyed when the city is captured"],
 		"requiredTech": "Artillery"
 	},
 	{
 		"name": "Sans of Magnolia",
 		"hurryCostModifier": 25,
+		"cityStrength": 2,
 		"maintenance": 1,
-		"uniques": ["Provides [1] [Para Raid]", "Destroyed when the city is captured", "Creates a [Sans of Magnolia] improvement on a specific tile"],
+		"uniques": ["Provides [1] [Para Raid]", "Destroyed when the city is captured"],
 		"requiredTech": "Artillery"
 	},
 	{
 		"name": "Coastal Refinery Zone",
 		"hurryCostModifier": 25,
+		"happiness": 2,
 		"maintenance": 1,
-		"uniques": ["Provides [1] [12.7cm Twin Gun]", "Provides [1] [61cm Triple Torpedo]", "Destroyed when the city is captured", "Creates a [Coastal Refinery Zone] improvement on a specific tile"],
+		"uniques": ["Provides [1] [12.7cm Twin Gun]", "Provides [1] [61cm Triple Torpedo]", "Destroyed when the city is captured"],
 		"requiredTech": "Destroyer"
 	},
 	{
 		"name": "Bashi Channel",
 		"hurryCostModifier": 25,
+		"happiness": 2,
 		"maintenance": 1,
-		"uniques": ["Provides [1] [14cm Naval Gun]", "Provides [1] [12.7cm High-angle Gun]", "Destroyed when the city is captured", "Creates a [Bashi Channel] improvement on a specific tile"],
+		"uniques": ["Provides [1] [14cm Naval Gun]", "Provides [1] [12.7cm High-angle Gun]", "Destroyed when the city is captured"],
 		"requiredTech": "Cruiser"
 	},
 	{
 		"name": "Eastern Orel Bay",
 		"hurryCostModifier": 25,
+		"happiness": 2,
 		"maintenance": 1,
-		"uniques": ["Provides [1] [41cm Twin Gun]", "Provides [1] [46cm Triple Gun]", "Provides [1] [Type21 Zero Fighter]", "Provides [1] [Type99 Dive Bomber]", "Destroyed when the city is captured", "Creates a [Eastern Orel Bay] improvement on a specific tile"],
+		"uniques": ["Provides [1] [41cm Twin Gun]", "Provides [1] [46cm Triple Gun]", "Provides [1] [Type21 Zero Fighter]", "Provides [1] [Type99 Dive Bomber]", "Destroyed when the city is captured"],
 		"requiredTech": "Battleship & Carrier"
 	},
-	
 	/*
-	Building Work in Progress
-	/ Assassination Classroom - Ansatsu Kyoushitsu <Science+>
-	/ Kitauji Highschool - Hibike Euphonium <Culture+>
-	/ Hoshimi Production - Idoly Pride <Amenity+>
-	/ School Idol - Love Live <Culture+>
-	/ Elite Classrom - Classroom of The Elite <Science+>
-	/ Lugh - Sekai Saikyou Ansatsusha
-	/ Tohka - Date a Live
-	/ 
+	2 food attacker
+	2 production sniper
+	2 science magic
+	2 gold tanker
+	2 city strength artillery
+	2 culture informer
+	2 happiness destroyer, cruiser, battleship & carrier
 	*/
 ]

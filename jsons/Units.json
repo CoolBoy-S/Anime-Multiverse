@@ -1724,11 +1724,13 @@
 		"unitType": "Miko",
 		"movement": 2,
 		"cost": 185,
+		"strength": 10,
 		"promotions": ["The Girl Who See It"],
 		"requiredTech": "Informer",
 		"requiredResource": "Talisman",
-		"uniques" : ["Can see invisible [Military] units", "Never appears as a Barbarian unit"],
+		"uniques" : ["Cannot attack", "Can see invisible [Military] units", "Never appears as a Barbarian unit"],
 		"hurryCostModifier": 20,
+		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "No one can escape from my Sight"}
 		]
@@ -1948,9 +1950,9 @@
 		"upgradesTo": "Akame Ⅱ",
 		"obsoleteTech": "Attacker Ⅱ",
 		"uniques" : ["[+2] Movement <when at war>","Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "akame",
         "civilopediaText": [
-			{"text": "Eliminate!"}
+			{"text": "I'll always come to save you. After all, we're comrades"}
 		]
 	},
 	{
@@ -1964,9 +1966,9 @@
 		"upgradesTo": "Akame Ⅲ",
 		"obsoleteTech": "Attacker Ⅲ",
 		"uniques" : ["[+2] Movement <when at war>","Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "akame",
         "civilopediaText": [
-			{"text": "Eliminate!"}
+			{"text": "I'll always come to save you. After all, we're comrades"}
 		]
 	},
 	{
@@ -1980,9 +1982,9 @@
 		"upgradesTo": "Akame Ⅳ",
 		"obsoleteTech": "Attacker Ⅳ",
 		"uniques" : ["[+2] Movement <when at war>","Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "akame",
         "civilopediaText": [
-			{"text": "Eliminate!"}
+			{"text": "I'll always come to save you. After all, we're comrades"}
 		]
 	},
 	{
@@ -1996,9 +1998,9 @@
 		"upgradesTo": "Akame Ⅴ",
 		"obsoleteTech": "Attacker Ⅴ",
 		"uniques" : ["[+2] Movement <when at war>","Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "akame",
         "civilopediaText": [
-			{"text": "Eliminate!"}
+			{"text": "I'll always come to save you. After all, we're comrades"}
 		]
 	},
 	{
@@ -2012,9 +2014,9 @@
 		"upgradesTo": "Akame Final Form",
 		"obsoleteTech": "Final Form",
 		"uniques" : ["[+2] Movement <when at war>","Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "akame",
         "civilopediaText": [
-			{"text": "Eliminate!"}
+			{"text": "I'll always come to save you. After all, we're comrades"}
 		]
 	},
 	{
@@ -2026,9 +2028,9 @@
 		"requiredTech": "Final Form",
 		"requiredResource": "Murasame",
 		"uniques" : ["[+2] Movement <when at war>","Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "akame",
         "civilopediaText": [
-			{"text": "Eliminate!"}
+			{"text": "I'll always come to save you. After all, we're comrades"}
 		]
 	},
 	{
@@ -2044,9 +2046,9 @@
 		"replaces": "Akame",
 		"uniqueTo": "Engage Kiss",
 		"uniques" : ["[+2] Movement <when adjacent to a [Military] unit>","Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "kisara",
         "civilopediaText": [
-			{"text": "It means powering up with the power of our love right?"}
+			{"text": "Boost my power through our love power"}
 		]
 	},
 	{
@@ -2062,9 +2064,9 @@
 		"replaces": "Akame Ⅱ",
 		"uniqueTo": "Engage Kiss",
 		"uniques" : ["[+2] Movement <when adjacent to a [Military] unit>","Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "kisara",
         "civilopediaText": [
-			{"text": "It means powering up with the power of our love right?"}
+			{"text": "Boost my power through our love power"}
 		]
 	},
 	{
@@ -2080,9 +2082,9 @@
 		"replaces": "Akame Ⅲ",
 		"uniqueTo": "Engage Kiss",
 		"uniques" : ["[+2] Movement <when adjacent to a [Military] unit>","Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "kisara",
         "civilopediaText": [
-			{"text": "It means powering up with the power of our love right?"}
+			{"text": "Boost my power through our love power"}
 		]
 	},
 	{
@@ -2098,9 +2100,9 @@
 		"replaces": "Akame Ⅳ",
 		"uniqueTo": "Engage Kiss",
 		"uniques" : ["[+2] Movement <when adjacent to a [Military] unit>","Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "kisara",
         "civilopediaText": [
-			{"text": "It means powering up with the power of our love right?"}
+			{"text": "Boost my power through our love power"}
 		]
 	},
 	{
@@ -2116,9 +2118,9 @@
 		"replaces": "Akame Ⅴ",
 		"uniqueTo": "Engage Kiss",
 		"uniques" : ["[+2] Movement <when adjacent to a [Military] unit>","Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "kisara",
         "civilopediaText": [
-			{"text": "It means powering up with the power of our love right?"}
+			{"text": "Boost my power through our love power"}
 		]
 	},
 	{
@@ -2132,9 +2134,9 @@
 		"replaces": "Akame Final Form",
 		"uniqueTo": "Engage Kiss",
 		"uniques" : ["[+2] Movement <when adjacent to a [Military] unit>", "Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "kisara",
         "civilopediaText": [
-			{"text": "It means powering up with the power of our love right?"}
+			{"text": "Boost my power through our love power"}
 		]
 	},
 	{
@@ -2148,9 +2150,9 @@
 		"upgradesTo": "Mikasa Ⅱ",
 		"obsoleteTech": "Attacker Ⅱ",
 		"uniques" : ["[+2] Movement <within [2] tiles of a [Forest]>", "Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "mikasa",
         "civilopediaText": [
-			{"text": "Don't think you can escape when you meet me..."}
+			{"text": "This world is cruel..."}
 		]
 	},
 	{
@@ -2164,9 +2166,9 @@
 		"upgradesTo": "Mikasa Ⅲ",
 		"obsoleteTech": "Attacker Ⅲ",
 		"uniques" : ["[+2] Movement <within [2] tiles of a [Forest]>", "Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "mikasa",
         "civilopediaText": [
-			{"text": "Eliminate!"}
+			{"text": "This world is cruel..."}
 		]
 	},
 	{
@@ -2180,9 +2182,9 @@
 		"upgradesTo": "Mikasa Ⅳ",
 		"obsoleteTech": "Attacker Ⅳ",
 		"uniques" : ["[+2] Movement <within [2] tiles of a [Forest]>", "Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "mikasa",
         "civilopediaText": [
-			{"text": "Eliminate!"}
+			{"text": "This world is cruel..."}
 		]
 	},
 	{
@@ -2196,9 +2198,9 @@
 		"upgradesTo": "Mikasa Ⅴ",
 		"obsoleteTech": "Attacker Ⅴ",
 		"uniques" : ["[+2] Movement <within [2] tiles of a [Forest]>", "Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "mikasa",
         "civilopediaText": [
-			{"text": "Eliminate!"}
+			{"text": "This world is cruel..."}
 		]
 	},
 	{
@@ -2212,9 +2214,9 @@
 		"upgradesTo": "Mikasa Final Form",
 		"obsoleteTech": "Final Form",
 		"uniques" : ["[+2] Movement <within [2] tiles of a [Forest]>", "Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "mikasa",
         "civilopediaText": [
-			{"text": "Eliminate!"}
+			{"text": "This world is cruel..."}
 		]
 	},
 	{
@@ -2226,9 +2228,9 @@
 		"requiredTech": "Final Form",
 		"requiredResource": "Maneuver Gear",
 		"uniques" : ["[+2] Movement <within [2] tiles of a [Forest]>", "Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "mikasa",
         "civilopediaText": [
-			{"text": "Eliminate!"}
+			{"text": "This world is cruel..."}
 		]
 	},
 	{
@@ -2244,8 +2246,9 @@
 		"uniqueTo": "Akatsuki",
 		"replaces": "Mikasa",
 		"uniques" : ["Never appears as a Barbarian unit"],
+		"attackSound": "nagato pain",
         "civilopediaText": [
-			{"text": ""}
+			{"text": "You're a mysterious guy..."}
 		]
 	},
 	{
@@ -2261,8 +2264,9 @@
 		"uniqueTo": "Akatsuki",
 		"replaces": "Mikasa Ⅱ",
 		"uniques" : ["Never appears as a Barbarian unit"],
+        "attackSound": "nagato pain",
         "civilopediaText": [
-			{"text": ""}
+			{"text": "You're a mysterious guy..."}
 		]
 	},
 	{
@@ -2278,8 +2282,9 @@
 		"uniqueTo": "Akatsuki",
 		"replaces": "Mikasa Ⅲ",
 		"uniques" : ["Never appears as a Barbarian unit"],
+        "attackSound": "nagato pain",
         "civilopediaText": [
-			{"text": ""}
+			{"text": "You're a mysterious guy..."}
 		]
 	},
 	{
@@ -2295,8 +2300,9 @@
 		"uniqueTo": "Akatsuki",
 		"replaces": "Mikasa Ⅳ",
 		"uniques" : ["Never appears as a Barbarian unit"],
+        "attackSound": "nagato pain",
         "civilopediaText": [
-			{"text": ""}
+			{"text": "You're a mysterious guy..."}
 		]
 	},
 	{
@@ -2312,8 +2318,9 @@
 		"uniqueTo": "Akatsuki",
 		"replaces": "Mikasa Ⅴ",
 		"uniques" : ["Never appears as a Barbarian unit"],
+        "attackSound": "nagato pain",
         "civilopediaText": [
-			{"text": ""}
+			{"text": "You're a mysterious guy..."}
 		]
 	},
 	{
@@ -2327,8 +2334,9 @@
 		"uniqueTo": "Akatsuki",
 		"replaces": "Mikasa Final Form",
 		"uniques" : ["Never appears as a Barbarian unit"],
+        "attackSound": "nagato pain",
         "civilopediaText": [
-			{"text": ""}
+			{"text": "You're a mysterious guy..."}
 		]
 	},
 	{
@@ -2342,9 +2350,9 @@
 		"upgradesTo": "Kazuma Ⅱ",
 		"obsoleteTech": "Attacker Ⅱ",
 		"uniques" : ["Invisible to others <when adjacent to a [Aqua] unit>", "Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "kazuma",
         "civilopediaText": [
-			{"text": "I will use that useless god to run away..."}
+			{"text": "What's that?! I'll have her teach me that later!"}
 		]
 	},
 	{
@@ -2359,8 +2367,9 @@
 		"obsoleteTech": "Attacker Ⅲ",
 		"uniques" : ["Invisible to others <when adjacent to a [Aqua] unit>", "Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit",
+        "attackSound": "kazuma",
         "civilopediaText": [
-			{"text": "I will use that useless god to run away..."}
+			{"text": "What's that?! I'll have her teach me that later!"}
 		]
 	},
 	{
@@ -2374,9 +2383,9 @@
 		"upgradesTo": "Kazuma Ⅳ",
 		"obsoleteTech": "Attacker Ⅳ",
 		"uniques" : ["Invisible to others <when adjacent to a [Aqua] unit>", "Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "kazuma",
         "civilopediaText": [
-			{"text": "I will use that useless god to run away..."}
+			{"text": "What's that?! I'll have her teach me that later!"}
 		]
 	},
 	{
@@ -2390,9 +2399,9 @@
 		"upgradesTo": "Kazuma Ⅴ",
 		"obsoleteTech": "Attacker Ⅴ",
 		"uniques" : ["Invisible to others <when adjacent to a [Aqua] unit>", "Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "kazuma",
         "civilopediaText": [
-			{"text": "I will use that useless god to run away..."}
+			{"text": "What's that?! I'll have her teach me that later!"}
 		]
 	},
 	{
@@ -2406,9 +2415,9 @@
 		"upgradesTo": "Kazuma Final Form",
 		"obsoleteTech": "Final Form",
 		"uniques" : ["Invisible to others <when adjacent to a [Aqua] unit>", "Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "kazuma",
         "civilopediaText": [
-			{"text": "I will use that useless god to run away..."}
+			{"text": "What's that?! I'll have her teach me that later!"}
 		]
 	},
 	{
@@ -2420,9 +2429,9 @@
 		"requiredTech": "Final Form",
 		"requiredResource": "Chunchunmaru",
 		"uniques" : ["Invisible to others <when adjacent to a [Aqua] unit>", "Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "kazuma",
         "civilopediaText": [
-			{"text": "I will use that useless god to run away..."}
+			{"text": "What's that?! I'll have her teach me that later!"}
 		]
 	},
 	{
@@ -2750,7 +2759,7 @@
 		"requiredResource": "Lycoris Gun",
 		"upgradesTo": "Takina Ⅱ",
 		"obsoleteTech": "Sniper Ⅱ",
-		"uniques" : ["[-50]% Strength bonus for [Chisato] units within [1] tiles", "Never appears as a Barbarian unit"],
+		"uniques" : ["[+1] Range <when adjacent to a [Chisato] unit>", "Never appears as a Barbarian unit"],
 		"attackSound": "shot",
         "civilopediaText": [
 			{"text": "What does this mission mean?"}
@@ -2769,7 +2778,7 @@
 		"requiredResource": "Lycoris Gun",
 		"upgradesTo": "Takina Ⅲ",
 		"obsoleteTech": "Sniper Ⅲ",
-		"uniques" : ["[-50]% Strength bonus for [Chisato] units within [1] tiles", "Never appears as a Barbarian unit"],
+		"uniques" : ["[+1] Range <when adjacent to a [Chisato] unit>", "Never appears as a Barbarian unit"],
 		"attackSound": "shot",
         "civilopediaText": [
 			{"text": "What does this mission mean?"}
@@ -2788,7 +2797,7 @@
 		"requiredResource": "Lycoris Gun",
 		"upgradesTo": "Takina Ⅳ",
 		"obsoleteTech": "Sniper Ⅳ",
-		"uniques" : ["[-50]% Strength bonus for [Chisato] units within [1] tiles", "Never appears as a Barbarian unit"],
+		"uniques" : ["[+1] Range <when adjacent to a [Chisato] unit>", "Never appears as a Barbarian unit"],
 		"attackSound": "shot",
         "civilopediaText": [
 			{"text": "What does this mission mean?"}
@@ -2807,7 +2816,7 @@
 		"requiredResource": "Lycoris Gun",
 		"upgradesTo": "Takina Ⅴ",
 		"obsoleteTech": "Sniper Ⅴ",
-		"uniques" : ["[-50]% Strength bonus for [Chisato] units within [1] tiles", "Never appears as a Barbarian unit"],
+		"uniques" : ["[+1] Range <when adjacent to a [Chisato] unit>", "Never appears as a Barbarian unit"],
 		"attackSound": "shot",
         "civilopediaText": [
 			{"text": "What does this mission mean?"}
@@ -2826,7 +2835,7 @@
 		"requiredResource": "Lycoris Gun",
 		"upgradesTo": "Takina Final Form",
 		"obsoleteTech": "Final Form",
-		"uniques" : ["[-50]% Strength bonus for [Chisato] units within [1] tiles", "Never appears as a Barbarian unit"],
+		"uniques" : ["[+1] Range <when adjacent to a [Chisato] unit>", "Never appears as a Barbarian unit"],
 		"attackSound": "shot",
         "civilopediaText": [
 			{"text": "What does this mission mean?"}
@@ -2843,7 +2852,7 @@
 		"uniqueTo": "Lycoris Recoil",
 		"requiredTech": "Final Form",
 		"requiredResource": "Lycoris Gun",
-		"uniques" : ["[-50]% Strength bonus for [Chisato] units within [1] tiles", "Never appears as a Barbarian unit"],
+		"uniques" : ["[+1] Range <when adjacent to a [Chisato] unit>", "Never appears as a Barbarian unit"],
 		"attackSound": "shot",
         "civilopediaText": [
 			{"text": "What does this mission mean?"}

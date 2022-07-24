@@ -684,7 +684,7 @@
 	},
 	{
 		"name": "Support Lycoris",
-		"uniques": ["[+1] Range <when adjacent to a [Chisato] unit>"],
+		"uniques": ["[+100]% Strength <vs [Ranged] units> <when attacking> <when adjacent to a [Chisato] unit>"],
 		"unitTypes": ["Takina"]
 	},
 	{
@@ -694,7 +694,7 @@
 	},
 	{
 		"name": "No.1 Lycoris",
-		"uniques": ["[3] additional attacks per turn <when adjacent to a [Takina] unit>"],
+		"uniques": ["[+50]% Strength <vs [Ranged] units> <when defending> <when adjacent to a [Takina] unit>"],
 		"unitTypes": ["Chisato"]
 	},
 	{
