@@ -18,6 +18,10 @@ Newest Update :
 
 - "Takina unit (Promotions) : +100% Strength vs Ranged units when attacking when adjacent to a Chisato unit"
 
+**Other**
+
+- "Added anime attack sounds for Attacker unit"
+
 NOTE : This mod is still WIP, there will be new characters and buildings and there may be slight changes to the character's abilities to make the game more balanced.
 
 If you have any requests or suggestions, feel free to contact me! 🙏
