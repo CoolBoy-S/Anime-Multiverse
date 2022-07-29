@@ -1720,7 +1720,7 @@
 	},
 		// Anime Characters
 	{
-		"name": "Miko", //counter Invisible units
+		"name": "Miko",
 		"unitType": "Miko",
 		"movement": 2,
 		"cost": 185,
@@ -1736,7 +1736,7 @@
 		]
 	},
 	{
-		"name": "Loid", //counter Kurumi
+		"name": "Loid", 
 		"unitType": "Loid",
 		"movement": 4,
 		"cost": 185,
@@ -1752,7 +1752,7 @@
 		]
 	},
 	{
-		"name": "Hinowa", //counter Akame
+		"name": "Hinowa", 
 		"unitType": "Hinowa",
 		"movement": 2,
 		"strength": 14,
@@ -1768,7 +1768,7 @@
 		]
 	},
 	{
-		"name": "Hinowa Ⅱ", //counter Akame
+		"name": "Hinowa Ⅱ", 
 		"unitType": "Hinowa",
 		"movement": 2,
 		"strength": 24,
@@ -1784,7 +1784,7 @@
 		]
 	},
 	{
-		"name": "Hinowa Ⅲ", //counter Akame
+		"name": "Hinowa Ⅲ", 
 		"unitType": "Hinowa",
 		"movement": 2,
 		"strength": 34,
@@ -1800,7 +1800,7 @@
 		]
 	},
 	{
-		"name": "Hinowa Ⅳ", //counter Akame
+		"name": "Hinowa Ⅳ", 
 		"unitType": "Hinowa",
 		"movement": 2,
 		"strength": 50,
@@ -1816,7 +1816,7 @@
 		]
 	},
 	{
-		"name": "Hinowa Ⅴ", //counter Akame
+		"name": "Hinowa Ⅴ", 
 		"unitType": "Hinowa",
 		"movement": 2,
 		"strength": 70,
@@ -1832,7 +1832,7 @@
 		]
 	},
 	{
-		"name": "Hinowa Final Form", //counter Akame
+		"name": "Hinowa Final Form", 
 		"unitType": "Hinowa",
 		"movement": 2,
 		"strength": 100,
@@ -1846,7 +1846,7 @@
 		]
 	},
 	{
-		"name": "Eris", //counter
+		"name": "Eris", 
 		"unitType": "Eris",
 		"movement": 2,
 		"strength": 14,
@@ -1862,7 +1862,7 @@
 		]
 	},
 	{
-		"name": "Eris Ⅱ", //counter
+		"name": "Eris Ⅱ", 
 		"unitType": "Eris",
 		"movement": 2,
 		"strength": 24,
@@ -1878,7 +1878,7 @@
 		]
 	},
 	{
-		"name": "Eris Ⅲ", //counter
+		"name": "Eris Ⅲ", 
 		"unitType": "Eris",
 		"movement": 2,
 		"strength": 34,
@@ -1894,7 +1894,7 @@
 		]
 	},
 	{
-		"name": "Eris Ⅳ", //counter
+		"name": "Eris Ⅳ", 
 		"unitType": "Eris",
 		"movement": 2,
 		"strength": 50,
@@ -1910,7 +1910,7 @@
 		]
 	},
 	{
-		"name": "Eris Ⅴ", //counter
+		"name": "Eris Ⅴ", 
 		"unitType": "Eris",
 		"movement": 2,
 		"strength": 70,
@@ -1926,7 +1926,7 @@
 		]
 	},
 	{
-		"name": "Eris Final Form", //counter
+		"name": "Eris Final Form", 
 		"unitType": "Eris",
 		"movement": 2,
 		"strength": 100,
@@ -1940,7 +1940,7 @@
 		]
 	},
 	{
-		"name": "Akame", //counter Rudeus
+		"name": "Akame", 
 		"unitType": "Akame",
 		"movement": 2,
 		"strength": 11,
@@ -1956,7 +1956,7 @@
 		]
 	},
 	{
-		"name": "Akame Ⅱ", //counter Rudeus
+		"name": "Akame Ⅱ", 
 		"unitType": "Akame",
 		"movement": 2,
 		"strength": 20,
@@ -1972,7 +1972,7 @@
 		]
 	},
 	{
-		"name": "Akame Ⅲ", //counter Rudeus
+		"name": "Akame Ⅲ", 
 		"unitType": "Akame",
 		"movement": 2,
 		"strength": 34,
@@ -1988,7 +1988,7 @@
 		]
 	},
 	{
-		"name": "Akame Ⅳ", //counter Rudeus
+		"name": "Akame Ⅳ", 
 		"unitType": "Akame",
 		"movement": 2,
 		"strength": 60,
@@ -2004,7 +2004,7 @@
 		]
 	},
 	{
-		"name": "Akame Ⅴ", //counter Rudeus
+		"name": "Akame Ⅴ", 
 		"unitType": "Akame",
 		"movement": 2,
 		"strength": 70,
@@ -2020,7 +2020,7 @@
 		]
 	},
 	{
-		"name": "Akame Final Form", //counter Rudeus
+		"name": "Akame Final Form", 
 		"unitType": "Akame",
 		"movement": 2,
 		"strength": 100,
@@ -2140,7 +2140,7 @@
 		]
 	},
 	{
-		"name": "Mikasa", //counter Shin
+		"name": "Mikasa", 
 		"unitType": "Mikasa",
 		"movement": 2,
 		"strength": 11,
@@ -2156,7 +2156,7 @@
 		]
 	},
 	{
-		"name": "Mikasa Ⅱ", //counter Shin
+		"name": "Mikasa Ⅱ", 
 		"unitType": "Mikasa",
 		"movement": 2,
 		"strength": 20,
@@ -2172,7 +2172,7 @@
 		]
 	},
 	{
-		"name": "Mikasa Ⅲ", //counter Shin
+		"name": "Mikasa Ⅲ", 
 		"unitType": "Mikasa",
 		"movement": 2,
 		"strength": 34,
@@ -2188,7 +2188,7 @@
 		]
 	},
 	{
-		"name": "Mikasa Ⅳ", //counter Shin
+		"name": "Mikasa Ⅳ", 
 		"unitType": "Mikasa",
 		"movement": 2,
 		"strength": 60,
@@ -2204,7 +2204,7 @@
 		]
 	},
 	{
-		"name": "Mikasa Ⅴ", //counter Shin
+		"name": "Mikasa Ⅴ", 
 		"unitType": "Mikasa",
 		"movement": 2,
 		"strength": 70,
@@ -2220,7 +2220,7 @@
 		]
 	},
 	{
-		"name": "Mikasa Final Form", //counter Shin
+		"name": "Mikasa Final Form", 
 		"unitType": "Mikasa",
 		"movement": 2,
 		"strength": 100,
@@ -2340,7 +2340,7 @@
 		]
 	},
 	{
-		"name": "Kazuma", //counter Barbarian
+		"name": "Kazuma", 
 		"unitType": "Kazuma",
 		"movement": 2,
 		"strength": 11,
@@ -2356,7 +2356,7 @@
 		]
 	},
 	{
-		"name": "Kazuma Ⅱ", //counter Barbarian
+		"name": "Kazuma Ⅱ", 
 		"unitType": "Kazuma",
 		"movement": 2,
 		"strength": 20,
@@ -2373,7 +2373,7 @@
 		]
 	},
 	{
-		"name": "Kazuma Ⅲ", //counter Barbarian
+		"name": "Kazuma Ⅲ", 
 		"unitType": "Kazuma",
 		"movement": 2,
 		"strength": 34,
@@ -2389,7 +2389,7 @@
 		]
 	},
 	{
-		"name": "Kazuma Ⅳ", //counter Barbarian
+		"name": "Kazuma Ⅳ", 
 		"unitType": "Kazuma",
 		"movement": 2,
 		"strength": 60,
@@ -2405,7 +2405,7 @@
 		]
 	},
 	{
-		"name": "Kazuma Ⅴ", //counter Barbarian
+		"name": "Kazuma Ⅴ", 
 		"unitType": "Kazuma",
 		"movement": 2,
 		"strength": 70,
@@ -2421,7 +2421,7 @@
 		]
 	},
 	{
-		"name": "Kazuma Final Form", //counter Barbarian
+		"name": "Kazuma Final Form", 
 		"unitType": "Kazuma",
 		"movement": 2,
 		"strength": 100,
@@ -2435,7 +2435,7 @@
 		]
 	},
 	{
-		"name": "Kurumi", //counter low HP units
+		"name": "Kurumi", 
 		"unitType": "Kurumi",
 		"movement": 2,
 		"strength": 7,
@@ -2446,13 +2446,13 @@
 		"upgradesTo": "Kurumi Ⅱ",
 		"obsoleteTech": "Sniper Ⅱ",
 		"uniques" : ["[1] additional attacks per turn <when below [50] HP>", "Never appears as a Barbarian unit"],
-		"attackSound": "shot",
+		"attackSound": "kurumi",
         "civilopediaText": [
-			{"text": "Can you kill me with your useless power?"}
+			{"text": "Now, let's begin our date!"}
 		]
 	},
 	{
-		"name": "Kurumi Ⅱ", //counter low HP units
+		"name": "Kurumi Ⅱ", 
 		"unitType": "Kurumi",
 		"movement": 2,
 		"strength": 16,
@@ -2463,13 +2463,13 @@
 		"upgradesTo": "Kurumi Ⅲ",
 		"obsoleteTech": "Sniper Ⅲ",
 		"uniques" : ["[1] additional attacks per turn <when below [50] HP>", "Never appears as a Barbarian unit"],
-		"attackSound": "shot",
+		"attackSound": "kurumi",
         "civilopediaText": [
-			{"text": "Can you kill me with your useless power?"}
+			{"text": "Now, let's begin our date!"}
 		]
 	},
 	{
-		"name": "Kurumi Ⅲ", //counter low HP units
+		"name": "Kurumi Ⅲ", 
 		"unitType": "Kurumi",
 		"movement": 2,
 		"strength": 30,
@@ -2480,13 +2480,13 @@
 		"upgradesTo": "Kurumi Ⅳ",
 		"obsoleteTech": "Sniper Ⅳ",
 		"uniques" : ["[1] additional attacks per turn <when below [50] HP>", "Never appears as a Barbarian unit"],
-		"attackSound": "shot",
+		"attackSound": "kurumi",
         "civilopediaText": [
-			{"text": "Can you kill me with your useless power?"}
+			{"text": "Now, let's begin our date!"}
 		]
 	},
 	{
-		"name": "Kurumi Ⅳ", //counter low HP units
+		"name": "Kurumi Ⅳ", 
 		"unitType": "Kurumi",
 		"movement": 2,
 		"strength": 60,
@@ -2497,13 +2497,13 @@
 		"upgradesTo": "Kurumi Ⅴ",
 		"obsoleteTech": "Sniper Ⅴ",
 		"uniques" : ["[1] additional attacks per turn <when below [50] HP>", "Never appears as a Barbarian unit"],
-		"attackSound": "shot",
+		"attackSound": "kurumi",
         "civilopediaText": [
-			{"text": "Can you kill me with your useless power?"}
+			{"text": "Now, let's begin our date!"}
 		]
 	},
 	{
-		"name": "Kurumi Ⅴ", //counter low HP units
+		"name": "Kurumi Ⅴ", 
 		"unitType": "Kurumi",
 		"movement": 2,
 		"strength": 60,
@@ -2514,13 +2514,13 @@
 		"upgradesTo": "Kurumi Final Form",
 		"obsoleteTech": "Final Form",
 		"uniques" : ["[1] additional attacks per turn <when below [50] HP>", "Never appears as a Barbarian unit"],
-		"attackSound": "shot",
+		"attackSound": "kurumi",
         "civilopediaText": [
-			{"text": "Can you kill me with your useless power?"}
+			{"text": "Now, let's begin our date!"}
 		]
 	},
 	{
-		"name": "Kurumi Final Form", //counter low HP units
+		"name": "Kurumi Final Form", 
 		"unitType": "Kurumi",
 		"movement": 2,
 		"strength": 80,
@@ -2529,9 +2529,9 @@
 		"requiredTech": "Final Form",
 		"requiredResource": "Zafkiel",
 		"uniques" : ["[1] additional attacks per turn <when below [50] HP>", "Never appears as a Barbarian unit"],
-		"attackSound": "shot",
+		"attackSound": "kurumi",
         "civilopediaText": [
-			{"text": "Can you kill me with your useless power?"}
+			{"text": "Now, let's begin our date!"}
 		]
 	},
 	{
@@ -2548,9 +2548,9 @@
 		"replaces": "Kurumi",
 		"uniqueTo": "Akatsuki",
 		"uniques" : ["Never appears as a Barbarian unit"],
-		"attackSound": "shot",
+		"attackSound": "pain",
         "civilopediaText": [
-			{"text": "This world shall know Pain!"}
+			{"text": "Shinra Tensei!"}
 		]
 	},
 	{
@@ -2567,9 +2567,9 @@
 		"replaces": "Kurumi Ⅱ",
 		"uniqueTo": "Akatsuki",
 		"uniques" : ["Never appears as a Barbarian unit"],
-		"attackSound": "shot",
+		"attackSound": "pain",
         "civilopediaText": [
-			{"text": "This world shall know Pain!"}
+			{"text": "Shinra Tensei!"}
 		]
 	},
 	{
@@ -2586,9 +2586,9 @@
 		"replaces": "Kurumi Ⅲ",
 		"uniqueTo": "Akatsuki",
 		"uniques" : ["Never appears as a Barbarian unit"],
-		"attackSound": "shot",
+		"attackSound": "pain",
         "civilopediaText": [
-			{"text": "This world shall know Pain!"}
+			{"text": "Shinra Tensei!"}
 		]
 	},
 	{
@@ -2605,9 +2605,9 @@
 		"replaces": "Kurumi Ⅳ",
 		"uniqueTo": "Akatsuki",
 		"uniques" : ["Never appears as a Barbarian unit"],
-		"attackSound": "shot",
+		"attackSound": "pain",
         "civilopediaText": [
-			{"text": "This world shall know Pain!"}
+			{"text": "Shinra Tensei!"}
 		]
 	},
 	{
@@ -2624,9 +2624,9 @@
 		"replaces": "Kurumi Ⅴ",
 		"uniqueTo": "Akatsuki",
 		"uniques" : ["Never appears as a Barbarian unit"],
-		"attackSound": "shot",
+		"attackSound": "pain",
         "civilopediaText": [
-			{"text": "This world shall know Pain!"}
+			{"text": "Shinra Tensei!"}
 		]
 	},
 	{
@@ -2641,13 +2641,13 @@
 		"replaces": "Kurumi Final Form",
 		"uniqueTo": "Akatsuki",
 		"uniques" : ["Never appears as a Barbarian unit"],
-		"attackSound": "shot",
+		"attackSound": "pain",
         "civilopediaText": [
-			{"text": "This world shall know Pain!"}
+			{"text": "Shinra Tensei!"}
 		]
 	},
 	{
-		"name": "Shinon", //counter Mikasa
+		"name": "Shinon",
 		"unitType": "Shinon",
 		"movement": 2,
 		"strength": 7,
@@ -2658,13 +2658,13 @@
 		"upgradesTo": "Shinon Ⅱ",
 		"obsoleteTech": "Sniper Ⅱ",
 		"uniques" : ["Can pass through impassable tiles", "Never appears as a Barbarian unit"],
-		"attackSound": "shot",
+		"attackSound": "shinon",
         "civilopediaText": [
-			{"text": "Target still far away but no problem..."}
+			{"text": "Next!"}
 		]
 	},
 	{
-		"name": "Shinon Ⅱ", //counter Mikasa
+		"name": "Shinon Ⅱ",
 		"unitType": "Shinon",
 		"movement": 2,
 		"strength": 16,
@@ -2675,13 +2675,13 @@
 		"upgradesTo": "Shinon Ⅲ",
 		"obsoleteTech": "Sniper Ⅲ",
 		"uniques" : ["Can pass through impassable tiles", "Never appears as a Barbarian unit"],
-		"attackSound": "shot",
+		"attackSound": "shinon",
         "civilopediaText": [
-			{"text": "Target still far away but no problem..."}
+			{"text": "Next!"}
 		]
 	},
 	{
-		"name": "Shinon Ⅲ", //counter Mikasa
+		"name": "Shinon Ⅲ",
 		"unitType": "Shinon",
 		"movement": 2,
 		"strength": 30,
@@ -2692,13 +2692,13 @@
 		"upgradesTo": "Shinon Ⅳ",
 		"obsoleteTech": "Sniper Ⅳ",
 		"uniques" : ["Can pass through impassable tiles", "Never appears as a Barbarian unit"],
-		"attackSound": "shot",
+		"attackSound": "shinon",
         "civilopediaText": [
-			{"text": "Target still far away but no problem..."}
+			{"text": "Next!"}
 		]
 	},
 	{
-		"name": "Shinon Ⅳ", //counter Mikasa
+		"name": "Shinon Ⅳ",
 		"unitType": "Shinon",
 		"movement": 2,
 		"strength": 60,
@@ -2709,13 +2709,13 @@
 		"upgradesTo": "Shinon Ⅴ",
 		"obsoleteTech": "Sniper Ⅴ",
 		"uniques" : ["Can pass through impassable tiles", "Never appears as a Barbarian unit"],
-		"attackSound": "shot",
+		"attackSound": "shinon",
         "civilopediaText": [
-			{"text": "Target still far away but no problem..."}
+			{"text": "Next!"}
 		]
 	},
 	{
-		"name": "Shinon Ⅴ", //counter Mikasa
+		"name": "Shinon Ⅴ",
 		"unitType": "Shinon",
 		"movement": 2,
 		"strength": 60,
@@ -2726,13 +2726,13 @@
 		"upgradesTo": "Shinon Final Form",
 		"obsoleteTech": "Final Form",
 		"uniques" : ["Can pass through impassable tiles", "Never appears as a Barbarian unit"],
-		"attackSound": "shot",
+		"attackSound": "shinon",
         "civilopediaText": [
-			{"text": "Target still far away but no problem..."}
+			{"text": "Next!"}
 		]
 	},
 	{
-		"name": "Shinon Final Form", //counter Mikasa
+		"name": "Shinon Final Form",
 		"unitType": "Shinon",
 		"movement": 2,
 		"strength": 80,
@@ -2741,13 +2741,13 @@
 		"requiredTech": "Final Form",
 		"requiredResource": "Hecate Ⅱ",
 		"uniques" : ["Can pass through impassable tiles", "Never appears as a Barbarian unit"],
-		"attackSound": "shot",
+		"attackSound": "shinon",
         "civilopediaText": [
-			{"text": "Target still far away but no problem..."}
+			{"text": "Next!"}
 		]
 	},
 	{
-		"name": "Takina", //counter
+		"name": "Takina",
 		"unitType": "Takina",
 		"movement": 2,
 		"strength": 7,
@@ -2760,13 +2760,13 @@
 		"upgradesTo": "Takina Ⅱ",
 		"obsoleteTech": "Sniper Ⅱ",
 		"uniques" : ["[+1] Range <when adjacent to a [Chisato] unit>", "Never appears as a Barbarian unit"],
-		"attackSound": "shot",
+		"attackSound": "takina",
         "civilopediaText": [
-			{"text": "What does this mission mean?"}
+			{"text": "I have been assigned here as of today. My name is Takina Inoue."}
 		]
 	},
 	{
-		"name": "Takina Ⅱ", //counter
+		"name": "Takina Ⅱ",
 		"unitType": "Takina",
 		"movement": 2,
 		"strength": 16,
@@ -2779,13 +2779,13 @@
 		"upgradesTo": "Takina Ⅲ",
 		"obsoleteTech": "Sniper Ⅲ",
 		"uniques" : ["[+1] Range <when adjacent to a [Chisato] unit>", "Never appears as a Barbarian unit"],
-		"attackSound": "shot",
+		"attackSound": "takina",
         "civilopediaText": [
-			{"text": "What does this mission mean?"}
+			{"text": "I have been assigned here as of today. My name is Takina Inoue."}
 		]
 	},
 	{
-		"name": "Takina Ⅲ", //counter
+		"name": "Takina Ⅲ",
 		"unitType": "Takina",
 		"movement": 2,
 		"strength": 30,
@@ -2798,13 +2798,13 @@
 		"upgradesTo": "Takina Ⅳ",
 		"obsoleteTech": "Sniper Ⅳ",
 		"uniques" : ["[+1] Range <when adjacent to a [Chisato] unit>", "Never appears as a Barbarian unit"],
-		"attackSound": "shot",
+		"attackSound": "takina",
         "civilopediaText": [
-			{"text": "What does this mission mean?"}
+			{"text": "I have been assigned here as of today. My name is Takina Inoue."}
 		]
 	},
 	{
-		"name": "Takina Ⅳ", //counter
+		"name": "Takina Ⅳ",
 		"unitType": "Takina",
 		"movement": 2,
 		"strength": 60,
@@ -2817,13 +2817,13 @@
 		"upgradesTo": "Takina Ⅴ",
 		"obsoleteTech": "Sniper Ⅴ",
 		"uniques" : ["[+1] Range <when adjacent to a [Chisato] unit>", "Never appears as a Barbarian unit"],
-		"attackSound": "shot",
+		"attackSound": "takina",
         "civilopediaText": [
-			{"text": "What does this mission mean?"}
+			{"text": "I have been assigned here as of today. My name is Takina Inoue."}
 		]
 	},
 	{
-		"name": "Takina Ⅴ", //counter
+		"name": "Takina Ⅴ",
 		"unitType": "Takina",
 		"movement": 2,
 		"strength": 60,
@@ -2836,13 +2836,13 @@
 		"upgradesTo": "Takina Final Form",
 		"obsoleteTech": "Final Form",
 		"uniques" : ["[+1] Range <when adjacent to a [Chisato] unit>", "Never appears as a Barbarian unit"],
-		"attackSound": "shot",
+		"attackSound": "takina",
         "civilopediaText": [
-			{"text": "What does this mission mean?"}
+			{"text": "I have been assigned here as of today. My name is Takina Inoue."}
 		]
 	},
 	{
-		"name": "Takina Final Form", //counter
+		"name": "Takina Final Form",
 		"unitType": "Takina",
 		"movement": 2,
 		"strength": 80,
@@ -2853,13 +2853,13 @@
 		"requiredTech": "Final Form",
 		"requiredResource": "Lycoris Gun",
 		"uniques" : ["[+1] Range <when adjacent to a [Chisato] unit>", "Never appears as a Barbarian unit"],
-		"attackSound": "shot",
+		"attackSound": "takina",
         "civilopediaText": [
-			{"text": "What does this mission mean?"}
+			{"text": "I have been assigned here as of today. My name is Takina Inoue."}
 		]
 	},
 	{
-		"name": "Mine", //counter
+		"name": "Mine",
 		"unitType": "Mine",
 		"movement": 2,
 		"strength": 7,
@@ -2870,13 +2870,13 @@
 		"upgradesTo": "Mine Ⅱ",
 		"obsoleteTech": "Sniper Ⅱ",
 		"uniques" : ["[+2] Sight <in [Foreign Land] tiles>", "Never appears as a Barbarian unit"],
-		"attackSound": "shot",
+		"attackSound": "mine",
         "civilopediaText": [
-			{"text": "Wrong or not, I'll follow my own path!"}
+			{"text": "You've got some guts."}
 		]
 	},
 	{
-		"name": "Mine Ⅱ", //counter
+		"name": "Mine Ⅱ",
 		"unitType": "Mine",
 		"movement": 2,
 		"strength": 16,
@@ -2887,13 +2887,13 @@
 		"upgradesTo": "Mine Ⅲ",
 		"obsoleteTech": "Sniper Ⅲ",
 		"uniques" : ["[+2] Sight <in [Foreign Land] tiles>", "Never appears as a Barbarian unit"],
-		"attackSound": "shot",
+		"attackSound": "mine",
         "civilopediaText": [
-			{"text": "Wrong or not, I'll follow my own path!"}
+			{"text": "You've got some guts."}
 		]
 	},
 	{
-		"name": "Mine Ⅲ", //counter
+		"name": "Mine Ⅲ",
 		"unitType": "Mine",
 		"movement": 2,
 		"strength": 30,
@@ -2904,13 +2904,13 @@
 		"upgradesTo": "Mine Ⅳ",
 		"obsoleteTech": "Sniper Ⅳ",
 		"uniques" : ["[+2] Sight <in [Foreign Land] tiles>", "Never appears as a Barbarian unit"],
-		"attackSound": "shot",
+		"attackSound": "mine",
         "civilopediaText": [
-			{"text": "Wrong or not, I'll follow my own path!"}
+			{"text": "You've got some guts."}
 		]
 	},
 	{
-		"name": "Mine Ⅳ", //counter
+		"name": "Mine Ⅳ",
 		"unitType": "Mine",
 		"movement": 2,
 		"strength": 60,
@@ -2921,13 +2921,13 @@
 		"upgradesTo": "Mine Ⅴ",
 		"obsoleteTech": "Sniper Ⅴ",
 		"uniques" : ["[+2] Sight <in [Foreign Land] tiles>", "Never appears as a Barbarian unit"],
-		"attackSound": "shot",
+		"attackSound": "mine",
         "civilopediaText": [
-			{"text": "Wrong or not, I'll follow my own path!"}
+			{"text": "You've got some guts."}
 		]
 	},
 	{
-		"name": "Mine Ⅴ", //counter
+		"name": "Mine Ⅴ",
 		"unitType": "Mine",
 		"movement": 2,
 		"strength": 60,
@@ -2938,13 +2938,13 @@
 		"upgradesTo": "Mine Final Form",
 		"obsoleteTech": "Final Form",
 		"uniques" : ["[+2] Sight <in [Foreign Land] tiles>", "Only available <with [Pumpkin]>", "Never appears as a Barbarian unit"],
-		"attackSound": "shot",
+		"attackSound": "mine",
         "civilopediaText": [
-			{"text": "Wrong or not, I'll follow my own path!"}
+			{"text": "You've got some guts."}
 		]
 	},
 	{
-		"name": "Mine Final Form", //counter
+		"name": "Mine Final Form",
 		"unitType": "Mine",
 		"movement": 2,
 		"strength": 80,
@@ -2953,13 +2953,13 @@
 		"requiredTech": "Final Form",
 		"requiredResource": "Pumpkin",
 		"uniques" : ["[+2] Sight <in [Foreign Land] tiles>", "Never appears as a Barbarian unit"],
-		"attackSound": "shot",
+		"attackSound": "mine",
         "civilopediaText": [
-			{"text": "Wrong or not, I'll follow my own path!"}
+			{"text": "You've got some guts."}
 		]
 	},
 	{
-		"name": "Chisato", //counter
+		"name": "Chisato",
 		"unitType": "Chisato",
 		"movement": 2,
 		"strength": 7,
@@ -2972,13 +2972,13 @@
 		"upgradesTo": "Chisato Ⅱ",
 		"obsoleteTech": "Sniper Ⅱ",
 		"uniques" : ["[+2] Movement <when adjacent to a [Takina] unit>", "Never appears as a Barbarian unit"],
-		"attackSound": "shot",
+		"attackSound": "chisato",
         "civilopediaText": [
-			{"text": "Work well today!"}
+			{"text": "Welcome to LycoReco~!"}
 		]
 	},
 	{
-		"name": "Chisato Ⅱ", //counter
+		"name": "Chisato Ⅱ",
 		"unitType": "Chisato",
 		"movement": 2,
 		"strength": 16,
@@ -2991,13 +2991,13 @@
 		"upgradesTo": "Chisato Ⅲ",
 		"obsoleteTech": "Sniper Ⅲ",
 		"uniques" : ["[+2] Movement <when adjacent to a [Takina] unit>", "Never appears as a Barbarian unit"],
-		"attackSound": "shot",
+		"attackSound": "chisato",
         "civilopediaText": [
-			{"text": "Work well today!"}
+			{"text": "Welcome to LycoReco~!"}
 		]
 	},
 	{
-		"name": "Chisato Ⅲ", //counter
+		"name": "Chisato Ⅲ",
 		"unitType": "Chisato",
 		"movement": 2,
 		"strength": 30,
@@ -3010,13 +3010,13 @@
 		"upgradesTo": "Chisato Ⅳ",
 		"obsoleteTech": "Sniper Ⅳ",
 		"uniques" : ["[+2] Movement <when adjacent to a [Takina] unit>", "Never appears as a Barbarian unit"],
-		"attackSound": "shot",
+		"attackSound": "chisato",
         "civilopediaText": [
-			{"text": "Work well today!"}
+			{"text": "Welcome to LycoReco~!"}
 		]
 	},
 	{
-		"name": "Chisato Ⅳ", //counter
+		"name": "Chisato Ⅳ",
 		"unitType": "Chisato",
 		"movement": 2,
 		"strength": 60,
@@ -3029,13 +3029,13 @@
 		"upgradesTo": "Chisato Ⅴ",
 		"obsoleteTech": "Sniper Ⅴ",
 		"uniques" : ["[+2] Movement <when adjacent to a [Takina] unit>", "Never appears as a Barbarian unit"],
-		"attackSound": "shot",
+		"attackSound": "chisato",
         "civilopediaText": [
-			{"text": "Work well today!"}
+			{"text": "Welcome to LycoReco~!"}
 		]
 	},
 	{
-		"name": "Chisato Ⅴ", //counter
+		"name": "Chisato Ⅴ",
 		"unitType": "Chisato",
 		"movement": 2,
 		"strength": 60,
@@ -3048,13 +3048,13 @@
 		"upgradesTo": "Chisato Final Form",
 		"obsoleteTech": "Final Form",
 		"uniques" : ["[+2] Movement <when adjacent to a [Takina] unit>", "Never appears as a Barbarian unit"],
-		"attackSound": "shot",
+		"attackSound": "chisato",
         "civilopediaText": [
-			{"text": "Work well today!"}
+			{"text": "Welcome to LycoReco~!"}
 		]
 	},
 	{
-		"name": "Chisato Final Form", //counter
+		"name": "Chisato Final Form",
 		"unitType": "Chisato",
 		"movement": 2,
 		"strength": 80,
@@ -3065,13 +3065,13 @@
 		"requiredTech": "Final Form",
 		"requiredResource": "Lycoris Gun",
 		"uniques" : ["[+2] Movement <when adjacent to a [Takina] unit>", "Never appears as a Barbarian unit"],
-		"attackSound": "shot",
+		"attackSound": "chisato",
         "civilopediaText": [
-			{"text": "Work well today!"}
+			{"text": "Welcome to LycoReco~!"}
 		]
 	},
 	{
-		"name": "Rudeus", //counter Lelouch
+		"name": "Rudeus",
 		"unitType": "Rudeus",
 		"movement": 2,
 		"strength": 7,
@@ -3088,7 +3088,7 @@
 		]
 	},
 	{
-		"name": "Rudeus Ⅱ", //counter Lelouch
+		"name": "Rudeus Ⅱ",
 		"unitType": "Rudeus",
 		"movement": 2,
 		"strength": 16,
@@ -3105,7 +3105,7 @@
 		]
 	},
 	{
-		"name": "Rudeus Ⅲ", //counter Lelouch
+		"name": "Rudeus Ⅲ",
 		"unitType": "Rudeus",
 		"movement": 2,
 		"strength": 30,
@@ -3122,7 +3122,7 @@
 		]
 	},
 	{
-		"name": "Rudeus Ⅳ", //counter Lelouch
+		"name": "Rudeus Ⅳ",
 		"unitType": "Rudeus",
 		"movement": 2,
 		"strength": 60,
@@ -3139,7 +3139,7 @@
 		]
 	},
 	{
-		"name": "Rudeus Ⅴ", //counter Lelouch
+		"name": "Rudeus Ⅴ",
 		"unitType": "Rudeus",
 		"movement": 2,
 		"strength": 60,
@@ -3156,7 +3156,7 @@
 		]
 	},
 	{
-		"name": "Rudeus Final Form", //counter Lelouch
+		"name": "Rudeus Final Form",
 		"unitType": "Rudeus",
 		"movement": 2,
 		"strength": 80,
@@ -3171,7 +3171,135 @@
 		]
 	},
 	{
-		"name": "Aqua", //counter Loid
+		"name": "Lugh", 
+		"unitType": "Lugh",
+		"movement": 2,
+		"strength": 7,
+		"rangedStrength": 11,
+		"cost": 75,
+		"replaces": "Rudeus",
+		"uniqueTo": "Sekai Saikou no Ansatsusha",
+		"requiredTech": "Magic",
+		"requiredResource": "Fahr Stones",
+		"upgradesTo": "Lugh Ⅱ",
+		"obsoleteTech": "Magic Ⅱ",
+		"uniques" : ["Earn [+20]% of the damage done to [Military] units as [Gold]", "Never appears as a Barbarian unit"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Don't you dare to close to me!"}
+		]
+	},
+	{
+		"name": "Lugh Ⅱ", 
+		"unitType": "Lugh",
+		"movement": 2,
+		"strength": 16,
+		"rangedStrength": 22,
+		"cost": 150,
+		"replaces": "Rudeus Ⅱ",
+		"uniqueTo": "Sekai Saikou no Ansatsusha",
+		"requiredTech": "Magic Ⅱ",
+		"requiredResource": "Fahr Stones",
+		"upgradesTo": "Lugh Ⅲ",
+		"obsoleteTech": "Magic Ⅲ",
+		"uniques" : ["Earn [+20]% of the damage done to [Military] units as [Gold]", "Never appears as a Barbarian unit"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Don't you dare to close to me!"}
+		]
+	},
+	{
+		"name": "Lugh Ⅲ", 
+		"unitType": "Lugh",
+		"movement": 2,
+		"strength": 30,
+		"rangedStrength": 30,
+		"cost": 320,
+		"replaces": "Rudeus Ⅲ",
+		"uniqueTo": "Sekai Saikou no Ansatsusha",
+		"requiredTech": "Magic Ⅲ",
+		"requiredResource": "Fahr Stones",
+		"upgradesTo": "Lugh Ⅳ",
+		"obsoleteTech": "Magic Ⅳ",
+		"uniques" : ["Earn [+20]% of the damage done to [Military] units as [Gold]", "Never appears as a Barbarian unit"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Don't you dare to close to me!"}
+		]
+	},
+	{
+		"name": "Lugh Ⅳ", 
+		"unitType": "Lugh",
+		"movement": 2,
+		"strength": 60,
+		"rangedStrength": 60,
+		"cost": 350,
+		"replaces": "Rudeus Ⅳ",
+		"uniqueTo": "Sekai Saikou no Ansatsusha",
+		"requiredTech": "Magic Ⅳ",
+		"requiredResource": "Fahr Stones",
+		"upgradesTo": "Lugh Ⅴ",
+		"obsoleteTech": "Magic Ⅴ",
+		"uniques" : ["Earn [+20]% of the damage done to [Military] units as [Gold]", "Never appears as a Barbarian unit"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Don't you dare to close to me!"}
+		]
+	},
+	{
+		"name": "Lugh Ⅴ", 
+		"unitType": "Lugh",
+		"movement": 2,
+		"strength": 60,
+		"rangedStrength": 70,
+		"cost": 425,
+		"replaces": "Rudeus Ⅴ",
+		"uniqueTo": "Sekai Saikou no Ansatsusha",
+		"requiredTech": "Magic Ⅴ",
+		"requiredResource": "Fahr Stones",
+		"upgradesTo": "Lugh Final Form",
+		"obsoleteTech": "Final Form",
+		"uniques" : ["Earn [+20]% of the damage done to [Military] units as [Gold]", "Never appears as a Barbarian unit"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Don't you dare to close to me!"}
+		]
+	},
+	{
+		"name": "Lugh Final Form", 
+		"unitType": "Lugh",
+		"movement": 2,
+		"strength": 80,
+		"rangedStrength": 100,
+		"cost": 425,
+		"replaces": "Rudeus Final Form",
+		"uniqueTo": "Sekai Saikou no Ansatsusha",
+		"requiredTech": "Final Form",
+		"requiredResource": "Fahr Stones",
+		"uniques" : ["Earn [+20]% of the damage done to [Military] units as [Gold]", "Never appears as a Barbarian unit"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Don't you dare to close to me!"}
+		]
+	},
+	{
+		"name": "Gungnir", 
+		"unitType": "Gungnir",
+		"movement": 1,
+		"strength": 100,
+		"rangedStrength": 100,
+		"cost": 425,
+		"uniqueTo": "Sekai Saikou no Ansatsusha",
+		"requiredTech": "Magic",
+		"requiredResource": "Fahr Stones",
+		"uniques" : ["Nuclear weapon of Strength [1]", "Self-destructs when attacking", "Blast radius [2]"],
+		"attackSound": "nuke",
+        "civilopediaText": [
+			{"text": ""}
+		]
+	},
+	{
+		"name": "Aqua", 
 		"unitType": "Aqua",
 		"movement": 2,
 		"strength": 7,
@@ -3188,7 +3316,7 @@
 		]
 	},
 	{
-		"name": "Aqua Ⅱ", //counter Loid
+		"name": "Aqua Ⅱ", 
 		"unitType": "Aqua",
 		"movement": 2,
 		"strength": 16,
@@ -3205,7 +3333,7 @@
 		]
 	},
 	{
-		"name": "Aqua Ⅲ", //counter Loid
+		"name": "Aqua Ⅲ", 
 		"unitType": "Aqua",
 		"movement": 2,
 		"strength": 30,
@@ -3222,7 +3350,7 @@
 		]
 	},
 	{
-		"name": "Aqua Ⅳ", //counter Loid
+		"name": "Aqua Ⅳ", 
 		"unitType": "Aqua",
 		"movement": 2,
 		"strength": 60,
@@ -3239,7 +3367,7 @@
 		]
 	},
 	{
-		"name": "Aqua Ⅴ", //counter Loid
+		"name": "Aqua Ⅴ", 
 		"unitType": "Aqua",
 		"movement": 2,
 		"strength": 60,
@@ -3256,7 +3384,7 @@
 		]
 	},
 	{
-		"name": "Aqua Final Form", //counter Loid
+		"name": "Aqua Final Form", 
 		"unitType": "Aqua",
 		"movement": 2,
 		"strength": 80,
@@ -3271,7 +3399,113 @@
 		]
 	},
 	{
-		"name": "Lelouch", //counter Aqua
+		"name": "Keyaru", 
+		"unitType": "Keyaru",
+		"movement": 2,
+		"strength": 11,
+		"cost": 75,
+		"replaces": "Aqua",
+		"uniqueTo": "Kaifuku Jutsushi no Yarinaoshi",
+		"requiredTech": "Magic",
+		"requiredResource": "Divine Armor Georugius",
+		"upgradesTo": "Keyaru Ⅱ",
+		"obsoleteTech": "Magic Ⅱ",
+		"uniques" : ["All adjacent units heal [+10] HP when healing", "Never appears as a Barbarian unit"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Don't you dare to close to me!"}
+		]
+	},
+	{
+		"name": "Keyaru Ⅱ", 
+		"unitType": "Keyaru",
+		"movement": 2,
+		"strength": 20,
+		"cost": 150,
+		"replaces": "Aqua Ⅱ",
+		"uniqueTo": "Kaifuku Jutsushi no Yarinaoshi",
+		"requiredTech": "Magic Ⅱ",
+		"requiredResource": "Divine Armor Georugius",
+		"upgradesTo": "Keyaru Ⅲ",
+		"obsoleteTech": "Magic Ⅲ",
+		"uniques" : ["All adjacent units heal [+10] HP when healing", "Never appears as a Barbarian unit"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Don't you dare to close to me!"}
+		]
+	},
+	{
+		"name": "Keyaru Ⅲ", 
+		"unitType": "Keyaru",
+		"movement": 2,
+		"strength": 34,
+		"cost": 320,
+		"replaces": "Aqua Ⅲ",
+		"uniqueTo": "Kaifuku Jutsushi no Yarinaoshi",
+		"requiredTech": "Magic Ⅲ",
+		"requiredResource": "Divine Armor Georugius",
+		"upgradesTo": "Keyaru Ⅳ",
+		"obsoleteTech": "Magic Ⅳ",
+		"uniques" : ["All adjacent units heal [+10] HP when healing", "Never appears as a Barbarian unit"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Don't you dare to close to me!"}
+		]
+	},
+	{
+		"name": "Keyaru Ⅳ", 
+		"unitType": "Keyaru",
+		"movement": 2,
+		"strength": 60,
+		"cost": 350,
+		"replaces": "Aqua Ⅳ",
+		"uniqueTo": "Kaifuku Jutsushi no Yarinaoshi",
+		"requiredTech": "Magic Ⅳ",
+		"requiredResource": "Divine Armor Georugius",
+		"upgradesTo": "Keyaru Ⅴ",
+		"obsoleteTech": "Magic Ⅴ",
+		"uniques" : ["All adjacent units heal [+10] HP when healing", "Never appears as a Barbarian unit"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Don't you dare to close to me!"}
+		]
+	},
+	{
+		"name": "Keyaru Ⅴ", 
+		"unitType": "Keyaru",
+		"movement": 2,
+		"strength": 70,
+		"cost": 425,
+		"replaces": "Aqua Ⅴ",
+		"uniqueTo": "Kaifuku Jutsushi no Yarinaoshi",
+		"requiredTech": "Magic Ⅴ",
+		"requiredResource": "Divine Armor Georugius",
+		"upgradesTo": "Keyaru Final Form",
+		"obsoleteTech": "Final Form",
+		"uniques" : ["All adjacent units heal [+10] HP when healing", "Never appears as a Barbarian unit"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Don't you dare to close to me!"}
+		]
+	},
+	{
+		"name": "Keyaru Final Form", 
+		"unitType": "Keyaru",
+		"movement": 2,
+		"strength": 100,
+		"cost": 425,
+		"replaces": "Aqua Final Form",
+		"uniqueTo": "Kaifuku Jutsushi no Yarinaoshi",
+		"requiredTech": "Final Form",
+		"requiredResource": "Divine Armor Georugius",
+		"uniques" : ["All adjacent units heal [+10] HP when healing", "Never appears as a Barbarian unit"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "I'm a god of water, of course my power is near the River!"}
+		]
+	},
+	{
+		"name": "Lelouch", 
 		"unitType": "Lelouch",
 		"movement": 2,
 		"strength": 7,
@@ -3288,7 +3522,7 @@
 		]
 	},
 	{
-		"name": "Lelouch Ⅱ", //counter Aqua
+		"name": "Lelouch Ⅱ", 
 		"unitType": "Lelouch",
 		"movement": 2,
 		"strength": 16,
@@ -3305,7 +3539,7 @@
 		]
 	},
 	{
-		"name": "Lelouch Ⅲ", //counter Aqua
+		"name": "Lelouch Ⅲ", 
 		"unitType": "Lelouch",
 		"movement": 2,
 		"strength": 30,
@@ -3322,7 +3556,7 @@
 		]
 	},
 	{
-		"name": "Lelouch Ⅳ", //counter Aqua
+		"name": "Lelouch Ⅳ", 
 		"unitType": "Lelouch",
 		"movement": 2,
 		"strength": 60,
@@ -3339,7 +3573,7 @@
 		]
 	},
 	{
-		"name": "Lelouch Ⅴ", //counter Aqua
+		"name": "Lelouch Ⅴ", 
 		"unitType": "Lelouch",
 		"movement": 2,
 		"strength": 60,
@@ -3356,7 +3590,7 @@
 		]
 	},
 	{
-		"name": "Lelouch Final Form", //counter Aqua
+		"name": "Lelouch Final Form", 
 		"unitType": "Lelouch",
 		"movement": 2,
 		"strength": 80,
@@ -3371,7 +3605,7 @@
 		]
 	},
 	{
-		"name": "Shin", //counter Shinon
+		"name": "Shin", 
 		"unitType": "Shin",
 		"movement": 2,
 		"strength": 12,
@@ -3390,7 +3624,7 @@
 		]
 	},
 	{
-		"name": "Shin Ⅱ", //counter Shinon
+		"name": "Shin Ⅱ", 
 		"unitType": "Shin",
 		"movement": 2,
 		"strength": 14,
@@ -3409,7 +3643,7 @@
 		]
 	},
 	{
-		"name": "Shin Ⅲ", //counter Shinon
+		"name": "Shin Ⅲ", 
 		"unitType": "Shin",
 		"movement": 2,
 		"strength": 21,
@@ -3428,7 +3662,7 @@
 		]
 	},
 	{
-		"name": "Shin Ⅳ", //counter Shinon
+		"name": "Shin Ⅳ", 
 		"unitType": "Shin",
 		"movement": 2,
 		"strength": 35,
@@ -3447,7 +3681,7 @@
 		]
 	},
 	{
-		"name": "Shin Ⅴ", //counter Shinon
+		"name": "Shin Ⅴ", 
 		"unitType": "Shin",
 		"movement": 2,
 		"strength": 45,
@@ -3466,7 +3700,7 @@
 		]
 	},
 	{
-		"name": "Shin Final Form", //counter Shinon
+		"name": "Shin Final Form", 
 		"unitType": "Shin",
 		"movement": 2,
 		"strength": 60,
@@ -3483,7 +3717,7 @@
 		]
 	},
 	{
-		"name": "Lena", //counter
+		"name": "Lena", 
 		"unitType": "Lena",
 		"movement": 1,
 		"strength": 12,
@@ -3501,7 +3735,7 @@
 		]
 	},
 	{
-		"name": "Lena Ⅱ", //counter
+		"name": "Lena Ⅱ", 
 		"unitType": "Lena",
 		"movement": 1,
 		"strength": 14,
@@ -3519,7 +3753,7 @@
 		]
 	},
 	{
-		"name": "Lena Ⅲ", //counter
+		"name": "Lena Ⅲ", 
 		"unitType": "Lena",
 		"movement": 1,
 		"strength": 21,
@@ -3537,7 +3771,7 @@
 		]
 	},
 	{
-		"name": "Lena Ⅳ", //counter
+		"name": "Lena Ⅳ", 
 		"unitType": "Lena",
 		"movement": 1,
 		"strength": 35,
@@ -3555,7 +3789,7 @@
 		]
 	},
 	{
-		"name": "Lena Ⅴ", //counter
+		"name": "Lena Ⅴ", 
 		"unitType": "Lena",
 		"movement": 1,
 		"strength": 45,
@@ -3573,7 +3807,7 @@
 		]
 	},
 	{
-		"name": "Lena Final Form", //counter
+		"name": "Lena Final Form", 
 		"unitType": "Lena",
 		"movement": 1,
 		"strength": 60,
