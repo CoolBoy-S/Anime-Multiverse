@@ -1299,7 +1299,7 @@
 		"requiredTech": "Sniper"
 	},
 	{
-		"name": "Coffee Shop",
+		"name": "LycoReco",
 		"hurryCostModifier": 25,
 		"production": 2,
 		"maintenance": 1,
@@ -1317,11 +1317,31 @@
 		"requiredTech": "Magic"
 	},
 	{
+		"name": "House Tuatha Dé",
+		"hurryCostModifier": 25,
+		"science": 2,
+		"maintenance": 1,
+		"uniques": ["Provides [1] [Fahr Stones]", "Destroyed when the city is captured"],
+		"uniqueTo": "Sekai Saikou no Ansatsusha",
+		"replaces": "Ranoa Academy",
+		"requiredTech": "Magic"
+	},
+	{
 		"name": "Goddess Aqua Monument",
 		"hurryCostModifier": 25,
 		"science": 2,
 		"maintenance": 1,
 		"uniques": ["Provides [1] [Magic Staff]", "Destroyed when the city is captured"],
+		"requiredTech": "Magic"
+	},
+	{
+		"name": "Alban Village",
+		"hurryCostModifier": 25,
+		"science": 2,
+		"maintenance": 1,
+		"uniques": ["Provides [1] [Divine Armor Georugius]", "Destroyed when the city is captured"],
+		"uniqueTo": "Kaifuku Jutsushi no Yarinaoshi",
+		"replaces": "Goddess Aqua Monument",
 		"requiredTech": "Magic"
 	},
 	{
