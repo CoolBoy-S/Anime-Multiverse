@@ -2,26 +2,39 @@
 
 Newest Update :
 
-**Adjustment**
+**New Anime Nations**
 
-- "Changes unit type Miko from Civillian to Military"
+- "Kaifuku Jutsushi no Yarinaoshi"
 
-- "Remove tile improvements for anime building but receive additional bonus for each type of buildings (i'm really apologize if there maybe have some force close problem when loaded files from previous mods version)"
+- "Sekai Saikou no Ansatsusha"
 
-**Nerf Characters**
+**New Characters**
 
-- "Chisato unit (Promotions) : Remove additional attack bonus when adjacent to a Takina unit"
+**Lugh (Unique to Sekai Saikou no Ansatsusha)**
 
-**Buff Characters**
+- Uniques : Earn +20% of the damage done to Military units as Gold
 
-- "Chisato unit (Promotions) : +50% Strength vs Ranged units when defending when adjacent to a Takina unit"
+- Promotions (Rapid Recovery) : Unit will heal every turn, even if it performs an action
 
-- "Takina unit (Promotions) : +100% Strength vs Ranged units when attacking when adjacent to a Chisato unit"
+- Promotions (Summon Gungnir) : Can carry 1 Gungnir units
+
+**Gungnir (Unique to Sekai Saikou no Ansatsusha)**
+
+- Uniques : Nuclear weapon of Strength 1, Blast radius 2
+
+**Keyaru (Unique to Kaifuku Jutsushi no Yarinaoshi)**
+
+- Uniques : All adjacent units heal +10 HP when healing
+
+- Promotions (Memory Manipulation) : May capture killed Military units
 
 **Other**
 
-- "Added anime attack sounds for Attacker unit"
+- "Changes building "Coffee Shop" to "LycoReco""
+
+- "Added anime attack sounds for Sniper unit"
 
 NOTE : This mod is still WIP, there will be new characters and buildings and there may be slight changes to the character's abilities to make the game more balanced.
 
 If you have any requests or suggestions, feel free to contact me! 🙏
+
