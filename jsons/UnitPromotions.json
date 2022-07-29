@@ -703,9 +703,24 @@
 		"unitTypes": ["Rudeus"]
 	},
 	{
+		"name": "Rapid Recovery",
+		"uniques": ["Unit will heal every turn, even if it performs an action"],
+		"unitTypes": ["Lugh"]
+	},
+	{
+		"name": "Summon Gungnir",
+		"uniques": ["Can carry [1] [Gungnir] units"],
+		"unitTypes": ["Lugh"]
+	},
+	{
 		"name": "Blessing!",
 		"uniques": ["Unit will heal every turn, even if it performs an action"],
 		"unitTypes": ["Aqua"]
+	},
+	{
+		"name": "Memory Manipulation",
+		"uniques": ["May capture killed [Military] units"],
+		"unitTypes": ["Keyaru"]
 	},
 	{
 		"name": "All Hail Lelouch!",
