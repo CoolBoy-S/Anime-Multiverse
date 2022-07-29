@@ -6569,195 +6569,6 @@ TileSets/FantasyHex/Units/Abukuma Final Form
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Aqua
-  rotate: false
-  xy: 120, 0
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Aqua Ⅱ
-  rotate: false
-  xy: 120, 0
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Aqua Ⅲ
-  rotate: false
-  xy: 120, 0
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Aqua Ⅳ
-  rotate: false
-  xy: 120, 0
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Aqua Ⅴ
-  rotate: false
-  xy: 120, 0
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Aqua Final Form
-  rotate: false
-  xy: 120, 0
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Fubuki
-  rotate: false
-  xy: 240, 0
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Fubuki Ⅱ
-  rotate: false
-  xy: 240, 0
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Fubuki Ⅲ
-  rotate: false
-  xy: 240, 0
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Fubuki Ⅳ
-  rotate: false
-  xy: 240, 0
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Fubuki Ⅴ
-  rotate: false
-  xy: 240, 0
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Fubuki Final Form
-  rotate: false
-  xy: 240, 0
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Kurumi
-  rotate: false
-  xy: 360, 0
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Kurumi Ⅱ
-  rotate: false
-  xy: 360, 0
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Kurumi Ⅲ
-  rotate: false
-  xy: 360, 0
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Kurumi Ⅳ
-  rotate: false
-  xy: 360, 0
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Kurumi Ⅴ
-  rotate: false
-  xy: 360, 0
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Kurumi Final Form
-  rotate: false
-  xy: 360, 0
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Miko
-  rotate: false
-  xy: 480, 0
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Shigure
-  rotate: false
-  xy: 600, 0
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Shigure Ⅱ
-  rotate: false
-  xy: 600, 0
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Shigure Ⅲ
-  rotate: false
-  xy: 600, 0
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Shigure Ⅳ
-  rotate: false
-  xy: 600, 0
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Shigure Ⅴ
-  rotate: false
-  xy: 600, 0
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Shigure Final Form
-  rotate: false
-  xy: 600, 0
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Zuikaku
-  rotate: false
-  xy: 720, 0
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Zuikaku Final Form
-  rotate: false
-  xy: 720, 0
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
 TileSets/FantasyHex/Units/Akame
   rotate: false
   xy: 0, 105
@@ -6800,205 +6611,44 @@ TileSets/FantasyHex/Units/Akame Final Form
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Eris
+TileSets/FantasyHex/Units/Aqua
   rotate: false
-  xy: 120, 105
+  xy: 120, 0
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Eris Ⅱ
+TileSets/FantasyHex/Units/Aqua Ⅱ
   rotate: false
-  xy: 120, 105
+  xy: 120, 0
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Eris Ⅲ
+TileSets/FantasyHex/Units/Aqua Ⅲ
   rotate: false
-  xy: 120, 105
+  xy: 120, 0
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Eris Ⅳ
+TileSets/FantasyHex/Units/Aqua Ⅳ
   rotate: false
-  xy: 120, 105
+  xy: 120, 0
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Eris Ⅴ
+TileSets/FantasyHex/Units/Aqua Ⅴ
   rotate: false
-  xy: 120, 105
+  xy: 120, 0
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Eris Final Form
+TileSets/FantasyHex/Units/Aqua Final Form
   rotate: false
-  xy: 120, 105
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Kisara
-  rotate: false
-  xy: 240, 105
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Kisara Ⅱ
-  rotate: false
-  xy: 240, 105
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Kisara Ⅲ
-  rotate: false
-  xy: 240, 105
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Kisara Ⅳ
-  rotate: false
-  xy: 240, 105
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Kisara Ⅴ
-  rotate: false
-  xy: 240, 105
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Kisara Final Form
-  rotate: false
-  xy: 240, 105
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Mikasa
-  rotate: false
-  xy: 360, 105
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Mikasa Ⅱ
-  rotate: false
-  xy: 360, 105
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Mikasa Ⅲ
-  rotate: false
-  xy: 360, 105
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Mikasa Ⅳ
-  rotate: false
-  xy: 360, 105
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Mikasa Ⅴ
-  rotate: false
-  xy: 360, 105
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Mikasa Final Form
-  rotate: false
-  xy: 360, 105
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Rudeus
-  rotate: false
-  xy: 480, 105
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Rudeus Ⅱ
-  rotate: false
-  xy: 480, 105
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Rudeus Ⅲ
-  rotate: false
-  xy: 480, 105
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Rudeus Ⅳ
-  rotate: false
-  xy: 480, 105
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Rudeus Ⅴ
-  rotate: false
-  xy: 480, 105
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Rudeus Final Form
-  rotate: false
-  xy: 480, 105
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Yuubari
-  rotate: false
-  xy: 600, 105
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Yuubari Ⅱ
-  rotate: false
-  xy: 600, 105
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Yuubari Ⅲ
-  rotate: false
-  xy: 600, 105
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Yuubari Ⅳ
-  rotate: false
-  xy: 600, 105
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Yuubari Final Form
-  rotate: false
-  xy: 600, 105
+  xy: 120, 0
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
@@ -7045,107 +6695,86 @@ TileSets/FantasyHex/Units/Chisato Final Form
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Kazuma
+TileSets/FantasyHex/Units/Eris
   rotate: false
-  xy: 120, 210
+  xy: 120, 105
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Kazuma Ⅱ
+TileSets/FantasyHex/Units/Eris Ⅱ
   rotate: false
-  xy: 120, 210
+  xy: 120, 105
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Kazuma Ⅲ
+TileSets/FantasyHex/Units/Eris Ⅲ
   rotate: false
-  xy: 120, 210
+  xy: 120, 105
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Kazuma Ⅳ
+TileSets/FantasyHex/Units/Eris Ⅳ
   rotate: false
-  xy: 120, 210
+  xy: 120, 105
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Kazuma Ⅴ
+TileSets/FantasyHex/Units/Eris Ⅴ
   rotate: false
-  xy: 120, 210
+  xy: 120, 105
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Kazuma Final Form
+TileSets/FantasyHex/Units/Eris Final Form
   rotate: false
-  xy: 120, 210
+  xy: 120, 105
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Loid
+TileSets/FantasyHex/Units/Fubuki
   rotate: false
-  xy: 240, 210
+  xy: 240, 0
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Pain
+TileSets/FantasyHex/Units/Fubuki Ⅱ
   rotate: false
-  xy: 360, 210
+  xy: 240, 0
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Pain Ⅱ
+TileSets/FantasyHex/Units/Fubuki Ⅲ
   rotate: false
-  xy: 360, 210
+  xy: 240, 0
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Pain Ⅲ
+TileSets/FantasyHex/Units/Fubuki Ⅳ
   rotate: false
-  xy: 360, 210
+  xy: 240, 0
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Pain Ⅳ
+TileSets/FantasyHex/Units/Fubuki Ⅴ
   rotate: false
-  xy: 360, 210
+  xy: 240, 0
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Pain Ⅴ
+TileSets/FantasyHex/Units/Fubuki Final Form
   rotate: false
-  xy: 360, 210
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Pain Final Form
-  rotate: false
-  xy: 360, 210
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Yamato
-  rotate: false
-  xy: 480, 210
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Yamato Final Form
-  rotate: false
-  xy: 480, 210
+  xy: 240, 0
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
@@ -7192,280 +6821,574 @@ TileSets/FantasyHex/Units/Hinowa Final Form
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Lena
+TileSets/FantasyHex/Units/Kazuma
   rotate: false
-  xy: 120, 315
+  xy: 120, 210
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Lena Ⅱ
+TileSets/FantasyHex/Units/Kazuma Ⅱ
   rotate: false
-  xy: 120, 315
+  xy: 120, 210
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Lena Ⅲ
+TileSets/FantasyHex/Units/Kazuma Ⅲ
   rotate: false
-  xy: 120, 315
+  xy: 120, 210
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Lena Ⅳ
+TileSets/FantasyHex/Units/Kazuma Ⅳ
   rotate: false
-  xy: 120, 315
+  xy: 120, 210
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Lena Ⅴ
+TileSets/FantasyHex/Units/Kazuma Ⅴ
   rotate: false
-  xy: 120, 315
+  xy: 120, 210
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Lena Final Form
+TileSets/FantasyHex/Units/Kazuma Final Form
   rotate: false
-  xy: 120, 315
+  xy: 120, 210
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Nagato
+TileSets/FantasyHex/Units/Keyaru
   rotate: false
-  xy: 240, 315
+  xy: 240, 105
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Nagato Final Form
+TileSets/FantasyHex/Units/Keyaru Ⅱ
   rotate: false
-  xy: 240, 315
+  xy: 240, 105
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Takina
+TileSets/FantasyHex/Units/Keyaru Ⅲ
   rotate: false
-  xy: 360, 315
+  xy: 240, 105
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Takina Ⅱ
+TileSets/FantasyHex/Units/Keyaru Ⅳ
   rotate: false
-  xy: 360, 315
+  xy: 240, 105
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Takina Ⅲ
+TileSets/FantasyHex/Units/Keyaru Ⅴ
   rotate: false
-  xy: 360, 315
+  xy: 240, 105
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Takina Ⅳ
+TileSets/FantasyHex/Units/Keyaru Final Form
   rotate: false
-  xy: 360, 315
+  xy: 240, 105
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Takina Ⅴ
+TileSets/FantasyHex/Units/Kisara
   rotate: false
-  xy: 360, 315
+  xy: 360, 0
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Takina Final Form
+TileSets/FantasyHex/Units/Kisara Ⅱ
   rotate: false
-  xy: 360, 315
+  xy: 360, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Kisara Ⅲ
+  rotate: false
+  xy: 360, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Kisara Ⅳ
+  rotate: false
+  xy: 360, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Kisara Ⅴ
+  rotate: false
+  xy: 360, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Kisara Final Form
+  rotate: false
+  xy: 360, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Kurumi
+  rotate: false
+  xy: 0, 420
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Kurumi Ⅱ
+  rotate: false
+  xy: 0, 420
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Kurumi Ⅲ
+  rotate: false
+  xy: 0, 420
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Kurumi Ⅳ
+  rotate: false
+  xy: 0, 420
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Kurumi Ⅴ
+  rotate: false
+  xy: 0, 420
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Kurumi Final Form
+  rotate: false
+  xy: 0, 420
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Lelouch
   rotate: false
-  xy: 0, 420
+  xy: 120, 315
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Lelouch Ⅱ
   rotate: false
-  xy: 0, 420
+  xy: 120, 315
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Lelouch Ⅲ
   rotate: false
-  xy: 0, 420
+  xy: 120, 315
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Lelouch Ⅳ
   rotate: false
-  xy: 0, 420
+  xy: 120, 315
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Lelouch Ⅴ
   rotate: false
-  xy: 0, 420
+  xy: 120, 315
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Lelouch Final Form
   rotate: false
-  xy: 0, 420
+  xy: 120, 315
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Nagato Pain
+TileSets/FantasyHex/Units/Lena
+  rotate: false
+  xy: 240, 210
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Lena Ⅱ
+  rotate: false
+  xy: 240, 210
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Lena Ⅲ
+  rotate: false
+  xy: 240, 210
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Lena Ⅳ
+  rotate: false
+  xy: 240, 210
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Lena Ⅴ
+  rotate: false
+  xy: 240, 210
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Lena Final Form
+  rotate: false
+  xy: 240, 210
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Loid
+  rotate: false
+  xy: 360, 105
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Lugh
+  rotate: false
+  xy: 480, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Lugh Ⅱ
+  rotate: false
+  xy: 480, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Lugh Ⅲ
+  rotate: false
+  xy: 480, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Lugh Ⅳ
+  rotate: false
+  xy: 480, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Lugh Ⅴ
+  rotate: false
+  xy: 480, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Lugh Final Form
+  rotate: false
+  xy: 480, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mikasa
+  rotate: false
+  xy: 0, 525
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mikasa Ⅱ
+  rotate: false
+  xy: 0, 525
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mikasa Ⅲ
+  rotate: false
+  xy: 0, 525
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mikasa Ⅳ
+  rotate: false
+  xy: 0, 525
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mikasa Ⅴ
+  rotate: false
+  xy: 0, 525
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mikasa Final Form
+  rotate: false
+  xy: 0, 525
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Miko
   rotate: false
   xy: 120, 420
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Nagato Pain Ⅱ
-  rotate: false
-  xy: 120, 420
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Nagato Pain Ⅲ
-  rotate: false
-  xy: 120, 420
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Nagato Pain Ⅳ
-  rotate: false
-  xy: 120, 420
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Nagato Pain Ⅴ
-  rotate: false
-  xy: 120, 420
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Nagato Pain Final Form
-  rotate: false
-  xy: 120, 420
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Shoukaku
-  rotate: false
-  xy: 240, 420
-  size: 120, 105
-  orig: 120, 105
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Shoukaku Final Form
-  rotate: false
-  xy: 240, 420
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mine
   rotate: false
-  xy: 0, 525
+  xy: 240, 315
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mine Ⅱ
   rotate: false
-  xy: 0, 525
+  xy: 240, 315
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mine Ⅲ
   rotate: false
-  xy: 0, 525
+  xy: 240, 315
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mine Ⅳ
   rotate: false
-  xy: 0, 525
+  xy: 240, 315
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mine Ⅴ
   rotate: false
-  xy: 0, 525
+  xy: 240, 315
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mine Final Form
   rotate: false
-  xy: 0, 525
+  xy: 240, 315
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Shinon
+TileSets/FantasyHex/Units/Nagato Pain
+  rotate: false
+  xy: 360, 210
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nagato Pain Ⅱ
+  rotate: false
+  xy: 360, 210
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nagato Pain Ⅲ
+  rotate: false
+  xy: 360, 210
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nagato Pain Ⅳ
+  rotate: false
+  xy: 360, 210
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nagato Pain Ⅴ
+  rotate: false
+  xy: 360, 210
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nagato Pain Final Form
+  rotate: false
+  xy: 360, 210
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nagato
+  rotate: false
+  xy: 480, 105
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nagato Final Form
+  rotate: false
+  xy: 480, 105
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Pain
+  rotate: false
+  xy: 600, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Pain Ⅱ
+  rotate: false
+  xy: 600, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Pain Ⅲ
+  rotate: false
+  xy: 600, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Pain Ⅳ
+  rotate: false
+  xy: 600, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Pain Ⅴ
+  rotate: false
+  xy: 600, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Pain Final Form
+  rotate: false
+  xy: 600, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rudeus
+  rotate: false
+  xy: 0, 630
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rudeus Ⅱ
+  rotate: false
+  xy: 0, 630
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rudeus Ⅲ
+  rotate: false
+  xy: 0, 630
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rudeus Ⅳ
+  rotate: false
+  xy: 0, 630
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rudeus Ⅴ
+  rotate: false
+  xy: 0, 630
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rudeus Final Form
+  rotate: false
+  xy: 0, 630
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Shigure
   rotate: false
   xy: 120, 525
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Shinon Ⅱ
+TileSets/FantasyHex/Units/Shigure Ⅱ
   rotate: false
   xy: 120, 525
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Shinon Ⅲ
+TileSets/FantasyHex/Units/Shigure Ⅲ
   rotate: false
   xy: 120, 525
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Shinon Ⅳ
+TileSets/FantasyHex/Units/Shigure Ⅳ
   rotate: false
   xy: 120, 525
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Shinon Ⅴ
+TileSets/FantasyHex/Units/Shigure Ⅴ
   rotate: false
   xy: 120, 525
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Shinon Final Form
+TileSets/FantasyHex/Units/Shigure Final Form
   rotate: false
   xy: 120, 525
   size: 120, 105
@@ -7474,42 +7397,203 @@ TileSets/FantasyHex/Units/Shinon Final Form
   index: -1
 TileSets/FantasyHex/Units/Shin
   rotate: false
-  xy: 0, 630
+  xy: 240, 420
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Shin Ⅱ
   rotate: false
-  xy: 0, 630
+  xy: 240, 420
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Shin Ⅲ
   rotate: false
-  xy: 0, 630
+  xy: 240, 420
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Shin Ⅳ
   rotate: false
-  xy: 0, 630
+  xy: 240, 420
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Shin Ⅴ
   rotate: false
-  xy: 0, 630
+  xy: 240, 420
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Shin Final Form
   rotate: false
-  xy: 0, 630
+  xy: 240, 420
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Shinon
+  rotate: false
+  xy: 360, 315
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Shinon Ⅱ
+  rotate: false
+  xy: 360, 315
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Shinon Ⅲ
+  rotate: false
+  xy: 360, 315
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Shinon Ⅳ
+  rotate: false
+  xy: 360, 315
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Shinon Ⅴ
+  rotate: false
+  xy: 360, 315
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Shinon Final Form
+  rotate: false
+  xy: 360, 315
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Shoukaku
+  rotate: false
+  xy: 480, 210
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Shoukaku Final Form
+  rotate: false
+  xy: 480, 210
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Takina
+  rotate: false
+  xy: 600, 105
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Takina Ⅱ
+  rotate: false
+  xy: 600, 105
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Takina Ⅲ
+  rotate: false
+  xy: 600, 105
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Takina Ⅳ
+  rotate: false
+  xy: 600, 105
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Takina Ⅴ
+  rotate: false
+  xy: 600, 105
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Takina Final Form
+  rotate: false
+  xy: 600, 105
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Yamato
+  rotate: false
+  xy: 720, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Yamato Final Form
+  rotate: false
+  xy: 720, 0
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Yuubari
+  rotate: false
+  xy: 0, 735
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Yuubari Ⅱ
+  rotate: false
+  xy: 0, 735
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Yuubari Ⅲ
+  rotate: false
+  xy: 0, 735
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Yuubari Ⅳ
+  rotate: false
+  xy: 0, 735
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Yuubari Final Form
+  rotate: false
+  xy: 0, 735
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Zuikaku
+  rotate: false
+  xy: 120, 630
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Zuikaku Final Form
+  rotate: false
+  xy: 120, 630
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
@@ -7527,41 +7611,6 @@ ResourceIcons/12.7cm High-angle Gun
   orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/14cm Naval Gun
-  rotate: false
-  xy: 100, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/61cm Triple Torpedo
-  rotate: false
-  xy: 200, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Geass
-  rotate: false
-  xy: 300, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Magic Staff
-  rotate: false
-  xy: 400, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Rinnegan
-  rotate: false
-  xy: 500, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 ResourceIcons/12.7cm Twin Gun
   rotate: false
   xy: 0, 100
@@ -7569,37 +7618,9 @@ ResourceIcons/12.7cm Twin Gun
   orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/46cm Triple Gun
+ResourceIcons/14cm Naval Gun
   rotate: false
-  xy: 100, 100
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Demon Sword
-  rotate: false
-  xy: 200, 100
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Lycoris Gun
-  rotate: false
-  xy: 300, 100
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Pumpkin
-  rotate: false
-  xy: 400, 100
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Zafkiel
-  rotate: false
-  xy: 500, 100
+  xy: 100, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -7611,6 +7632,20 @@ ResourceIcons/41cm Twin Gun
   orig: 100, 100
   offset: 0, 0
   index: -1
+ResourceIcons/46cm Triple Gun
+  rotate: false
+  xy: 100, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/61cm Triple Torpedo
+  rotate: false
+  xy: 200, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 ResourceIcons/Chunchunmaru
   rotate: false
   xy: 100, 200
@@ -7618,77 +7653,105 @@ ResourceIcons/Chunchunmaru
   orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Juggernaut
+ResourceIcons/Demon Sword
   rotate: false
-  xy: 200, 200
+  xy: 200, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Para Raid
+ResourceIcons/Divine Armor Georugius
   rotate: false
-  xy: 300, 200
+  xy: 300, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Type99 Dive Bomber
-  rotate: false
-  xy: 400, 200
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Isonade
-  rotate: false
-  xy: 100, 300
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Murasame
-  rotate: false
-  xy: 200, 300
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Type21 Zero Fighter
-  rotate: false
-  xy: 300, 300
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Hecate Ⅱ
+ResourceIcons/Fahr Stones
   rotate: false
   xy: 0, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Maneuver Gear
+ResourceIcons/Geass
   rotate: false
-  xy: 100, 400
+  xy: 100, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Talisman
+ResourceIcons/Hecate Ⅱ
   rotate: false
-  xy: 200, 400
+  xy: 200, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Magic Wand
+ResourceIcons/Isonade
+  rotate: false
+  xy: 300, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Juggernaut
+  rotate: false
+  xy: 400, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Lycoris Gun
   rotate: false
   xy: 0, 500
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Sword King
+ResourceIcons/Magic Staff
+  rotate: false
+  xy: 100, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Magic Wand
+  rotate: false
+  xy: 200, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Maneuver Gear
+  rotate: false
+  xy: 300, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Murasame
+  rotate: false
+  xy: 400, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Para Raid
+  rotate: false
+  xy: 500, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Pumpkin
+  rotate: false
+  xy: 0, 600
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Rinnegan
   rotate: false
   xy: 100, 500
   size: 100, 100
@@ -7697,7 +7760,42 @@ ResourceIcons/Sword King
   index: -1
 ResourceIcons/Spy Gear
   rotate: false
-  xy: 0, 600
+  xy: 200, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Sword King
+  rotate: false
+  xy: 300, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Talisman
+  rotate: false
+  xy: 400, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Type21 Zero Fighter
+  rotate: false
+  xy: 500, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Type99 Dive Bomber
+  rotate: false
+  xy: 600, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Zafkiel
+  rotate: false
+  xy: 0, 700
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -7723,21 +7821,14 @@ BuildingIcons/Elite Seven Hideout
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Wall Rose
-  rotate: false
-  xy: 0, 300
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Adventurer's Guild 
-  rotate: false
-  xy: 0, 300
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 BuildingIcons/I&S
+  rotate: false
+  xy: 0, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Wall Rose
   rotate: false
   xy: 0, 300
   size: 100, 100
@@ -7751,7 +7842,21 @@ BuildingIcons/Akatsuki Hideout
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Adventurer's Guild 
+  rotate: false
+  xy: 0, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Spirit Hideout
+  rotate: false
+  xy: 0, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Gedo Statue
   rotate: false
   xy: 0, 300
   size: 100, 100
@@ -7765,20 +7870,6 @@ BuildingIcons/Gun Gale Online
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Night Raid Hideout
-  rotate: false
-  xy: 0, 300
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Coffee Shop
-  rotate: false
-  xy: 0, 300
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 BuildingIcons/DA
   rotate: false
   xy: 0, 300
@@ -7786,7 +7877,14 @@ BuildingIcons/DA
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Gedo Statue
+BuildingIcons/Night Raid Hideout
+  rotate: false
+  xy: 0, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/LycoReco
   rotate: false
   xy: 0, 300
   size: 100, 100
@@ -7807,7 +7905,14 @@ BuildingIcons/Asura Kingdom
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Ranoa Academy 
+BuildingIcons/Ranoa Academy
+  rotate: false
+  xy: 0, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/House Tuatha Dé
   rotate: false
   xy: 0, 300
   size: 100, 100
@@ -7815,6 +7920,13 @@ BuildingIcons/Ranoa Academy
   offset: 0, 0
   index: -1
 BuildingIcons/Goddess Aqua Monument
+  rotate: false
+  xy: 0, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Alban Village
   rotate: false
   xy: 0, 300
   size: 100, 100
@@ -7904,195 +8016,6 @@ UnitIcons/Abukuma Final Form
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Aqua
-  rotate: false
-  xy: 100, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Aqua Ⅱ
-  rotate: false
-  xy: 100, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Aqua Ⅲ
-  rotate: false
-  xy: 100, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Aqua Ⅳ
-  rotate: false
-  xy: 100, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Aqua Ⅴ
-  rotate: false
-  xy: 100, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Aqua Final Form
-  rotate: false
-  xy: 100, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Fubuki
-  rotate: false
-  xy: 200, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Fubuki Ⅱ
-  rotate: false
-  xy: 200, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Fubuki Ⅲ
-  rotate: false
-  xy: 200, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Fubuki Ⅳ
-  rotate: false
-  xy: 200, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Fubuki Ⅴ
-  rotate: false
-  xy: 200, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Fubuki Final Form
-  rotate: false
-  xy: 200, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Kurumi
-  rotate: false
-  xy: 300, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Kurumi Ⅱ
-  rotate: false
-  xy: 300, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Kurumi Ⅲ
-  rotate: false
-  xy: 300, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Kurumi Ⅳ
-  rotate: false
-  xy: 300, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Kurumi Ⅴ
-  rotate: false
-  xy: 300, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Kurumi Final Form
-  rotate: false
-  xy: 300, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Miko
-  rotate: false
-  xy: 400, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Shigure
-  rotate: false
-  xy: 500, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Shigure Ⅱ
-  rotate: false
-  xy: 500, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Shigure Ⅲ
-  rotate: false
-  xy: 500, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Shigure Ⅳ
-  rotate: false
-  xy: 500, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Shigure Ⅴ
-  rotate: false
-  xy: 500, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Shigure Final Form
-  rotate: false
-  xy: 500, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Zuikaku
-  rotate: false
-  xy: 600, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Zuikaku Final Form
-  rotate: false
-  xy: 600, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 UnitIcons/Akame
   rotate: false
   xy: 0, 100
@@ -8135,205 +8058,44 @@ UnitIcons/Akame Final Form
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Eris
+UnitIcons/Aqua
   rotate: false
-  xy: 100, 100
+  xy: 100, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Eris Ⅱ
+UnitIcons/Aqua Ⅱ
   rotate: false
-  xy: 100, 100
+  xy: 100, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Eris Ⅲ
+UnitIcons/Aqua Ⅲ
   rotate: false
-  xy: 100, 100
+  xy: 100, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Eris Ⅳ
+UnitIcons/Aqua Ⅳ
   rotate: false
-  xy: 100, 100
+  xy: 100, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Eris Ⅴ
+UnitIcons/Aqua Ⅴ
   rotate: false
-  xy: 100, 100
+  xy: 100, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Eris Final Form
+UnitIcons/Aqua Final Form
   rotate: false
-  xy: 100, 100
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Kisara
-  rotate: false
-  xy: 200, 100
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Kisara Ⅱ
-  rotate: false
-  xy: 200, 100
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Kisara Ⅲ
-  rotate: false
-  xy: 200, 100
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Kisara Ⅳ
-  rotate: false
-  xy: 200, 100
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Kisara Ⅴ
-  rotate: false
-  xy: 200, 100
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Kisara Final Form
-  rotate: false
-  xy: 200, 100
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Mikasa
-  rotate: false
-  xy: 300, 100
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Mikasa Ⅱ
-  rotate: false
-  xy: 300, 100
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Mikasa Ⅲ
-  rotate: false
-  xy: 300, 100
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Mikasa Ⅳ
-  rotate: false
-  xy: 300, 100
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Mikasa Ⅴ
-  rotate: false
-  xy: 300, 100
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Mikasa Final Form
-  rotate: false
-  xy: 300, 100
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Rudeus
-  rotate: false
-  xy: 400, 100
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Rudeus Ⅱ
-  rotate: false
-  xy: 400, 100
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Rudeus Ⅲ
-  rotate: false
-  xy: 400, 100
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Rudeus Ⅳ
-  rotate: false
-  xy: 400, 100
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Rudeus Ⅴ
-  rotate: false
-  xy: 400, 100
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Rudeus Final Form
-  rotate: false
-  xy: 400, 100
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Yuubari
-  rotate: false
-  xy: 500, 100
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Yuubari Ⅱ
-  rotate: false
-  xy: 500, 100
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Yuubari Ⅲ
-  rotate: false
-  xy: 500, 100
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Yuubari Ⅳ
-  rotate: false
-  xy: 500, 100
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Yuubari Final Form
-  rotate: false
-  xy: 500, 100
+  xy: 100, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -8380,107 +8142,86 @@ UnitIcons/Chisato Final Form
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Kazuma
+UnitIcons/Eris
   rotate: false
-  xy: 100, 200
+  xy: 100, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Kazuma Ⅱ
+UnitIcons/Eris Ⅱ
   rotate: false
-  xy: 100, 200
+  xy: 100, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Kazuma Ⅲ
+UnitIcons/Eris Ⅲ
   rotate: false
-  xy: 100, 200
+  xy: 100, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Kazuma Ⅳ
+UnitIcons/Eris Ⅳ
   rotate: false
-  xy: 100, 200
+  xy: 100, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Kazuma Ⅴ
+UnitIcons/Eris Ⅴ
   rotate: false
-  xy: 100, 200
+  xy: 100, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Kazuma Final Form
+UnitIcons/Eris Final Form
   rotate: false
-  xy: 100, 200
+  xy: 100, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Loid
+UnitIcons/Fubuki
   rotate: false
-  xy: 200, 200
+  xy: 200, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Pain
+UnitIcons/Fubuki Ⅱ
   rotate: false
-  xy: 300, 200
+  xy: 200, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Pain Ⅱ
+UnitIcons/Fubuki Ⅲ
   rotate: false
-  xy: 300, 200
+  xy: 200, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Pain Ⅲ
+UnitIcons/Fubuki Ⅳ
   rotate: false
-  xy: 300, 200
+  xy: 200, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Pain Ⅳ
+UnitIcons/Fubuki Ⅴ
   rotate: false
-  xy: 300, 200
+  xy: 200, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Pain Ⅴ
+UnitIcons/Fubuki Final Form
   rotate: false
-  xy: 300, 200
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Pain Final Form
-  rotate: false
-  xy: 300, 200
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Yamato
-  rotate: false
-  xy: 400, 200
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Yamato Final Form
-  rotate: false
-  xy: 400, 200
+  xy: 200, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -8527,280 +8268,574 @@ UnitIcons/Hinowa Final Form
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Lena
+UnitIcons/Kazuma
   rotate: false
-  xy: 100, 300
+  xy: 100, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Lena Ⅱ
+UnitIcons/Kazuma Ⅱ
   rotate: false
-  xy: 100, 300
+  xy: 100, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Lena Ⅲ
+UnitIcons/Kazuma Ⅲ
   rotate: false
-  xy: 100, 300
+  xy: 100, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Lena Ⅳ
+UnitIcons/Kazuma Ⅳ
   rotate: false
-  xy: 100, 300
+  xy: 100, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Lena Ⅴ
+UnitIcons/Kazuma Ⅴ
   rotate: false
-  xy: 100, 300
+  xy: 100, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Lena Final Form
+UnitIcons/Kazuma Final Form
   rotate: false
-  xy: 100, 300
+  xy: 100, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Nagato
+UnitIcons/Keyaru
   rotate: false
-  xy: 200, 300
+  xy: 200, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Nagato Final Form
+UnitIcons/Keyaru Ⅱ
   rotate: false
-  xy: 200, 300
+  xy: 200, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Takina
+UnitIcons/Keyaru Ⅲ
   rotate: false
-  xy: 300, 300
+  xy: 200, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Takina Ⅱ
+UnitIcons/Keyaru Ⅳ
   rotate: false
-  xy: 300, 300
+  xy: 200, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Takina Ⅲ
+UnitIcons/Keyaru Ⅴ
   rotate: false
-  xy: 300, 300
+  xy: 200, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Takina Ⅳ
+UnitIcons/Keyaru Final Form
   rotate: false
-  xy: 300, 300
+  xy: 200, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Takina Ⅴ
+UnitIcons/Kisara
   rotate: false
-  xy: 300, 300
+  xy: 300, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Takina Final Form
+UnitIcons/Kisara Ⅱ
   rotate: false
-  xy: 300, 300
+  xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Kisara Ⅲ
+  rotate: false
+  xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Kisara Ⅳ
+  rotate: false
+  xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Kisara Ⅴ
+  rotate: false
+  xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Kisara Final Form
+  rotate: false
+  xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Kurumi
+  rotate: false
+  xy: 0, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Kurumi Ⅱ
+  rotate: false
+  xy: 0, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Kurumi Ⅲ
+  rotate: false
+  xy: 0, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Kurumi Ⅳ
+  rotate: false
+  xy: 0, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Kurumi Ⅴ
+  rotate: false
+  xy: 0, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Kurumi Final Form
+  rotate: false
+  xy: 0, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Lelouch
   rotate: false
-  xy: 0, 400
+  xy: 100, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Lelouch Ⅱ
   rotate: false
-  xy: 0, 400
+  xy: 100, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Lelouch Ⅲ
   rotate: false
-  xy: 0, 400
+  xy: 100, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Lelouch Ⅳ
   rotate: false
-  xy: 0, 400
+  xy: 100, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Lelouch Ⅴ
   rotate: false
-  xy: 0, 400
+  xy: 100, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Lelouch Final Form
   rotate: false
-  xy: 0, 400
+  xy: 100, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Nagato Pain
+UnitIcons/Lena
+  rotate: false
+  xy: 200, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Lena Ⅱ
+  rotate: false
+  xy: 200, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Lena Ⅲ
+  rotate: false
+  xy: 200, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Lena Ⅳ
+  rotate: false
+  xy: 200, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Lena Ⅴ
+  rotate: false
+  xy: 200, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Lena Final Form
+  rotate: false
+  xy: 200, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Loid
+  rotate: false
+  xy: 300, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Lugh
+  rotate: false
+  xy: 400, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Lugh Ⅱ
+  rotate: false
+  xy: 400, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Lugh Ⅲ
+  rotate: false
+  xy: 400, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Lugh Ⅳ
+  rotate: false
+  xy: 400, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Lugh Ⅴ
+  rotate: false
+  xy: 400, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Lugh Final Form
+  rotate: false
+  xy: 400, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Mikasa
+  rotate: false
+  xy: 0, 500
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Mikasa Ⅱ
+  rotate: false
+  xy: 0, 500
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Mikasa Ⅲ
+  rotate: false
+  xy: 0, 500
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Mikasa Ⅳ
+  rotate: false
+  xy: 0, 500
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Mikasa Ⅴ
+  rotate: false
+  xy: 0, 500
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Mikasa Final Form
+  rotate: false
+  xy: 0, 500
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Miko
   rotate: false
   xy: 100, 400
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Nagato Pain Ⅱ
-  rotate: false
-  xy: 100, 400
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Nagato Pain Ⅲ
-  rotate: false
-  xy: 100, 400
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Nagato Pain Ⅳ
-  rotate: false
-  xy: 100, 400
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Nagato Pain Ⅴ
-  rotate: false
-  xy: 100, 400
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Nagato Pain Final Form
-  rotate: false
-  xy: 100, 400
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Shoukaku
-  rotate: false
-  xy: 200, 400
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Shoukaku Final Form
-  rotate: false
-  xy: 200, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Mine
   rotate: false
-  xy: 0, 500
+  xy: 200, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Mine Ⅱ
   rotate: false
-  xy: 0, 500
+  xy: 200, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Mine Ⅲ
   rotate: false
-  xy: 0, 500
+  xy: 200, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Mine Ⅳ
   rotate: false
-  xy: 0, 500
+  xy: 200, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Mine Ⅴ
   rotate: false
-  xy: 0, 500
+  xy: 200, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Mine Final Form
   rotate: false
-  xy: 0, 500
+  xy: 200, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Shinon
+UnitIcons/Nagato Pain
+  rotate: false
+  xy: 300, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nagato Pain Ⅱ
+  rotate: false
+  xy: 300, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nagato Pain Ⅲ
+  rotate: false
+  xy: 300, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nagato Pain Ⅳ
+  rotate: false
+  xy: 300, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nagato Pain Ⅴ
+  rotate: false
+  xy: 300, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nagato Pain Final Form
+  rotate: false
+  xy: 300, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nagato
+  rotate: false
+  xy: 400, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nagato Final Form
+  rotate: false
+  xy: 400, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Pain
+  rotate: false
+  xy: 500, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Pain Ⅱ
+  rotate: false
+  xy: 500, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Pain Ⅲ
+  rotate: false
+  xy: 500, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Pain Ⅳ
+  rotate: false
+  xy: 500, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Pain Ⅴ
+  rotate: false
+  xy: 500, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Pain Final Form
+  rotate: false
+  xy: 500, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rudeus
+  rotate: false
+  xy: 0, 600
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rudeus Ⅱ
+  rotate: false
+  xy: 0, 600
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rudeus Ⅲ
+  rotate: false
+  xy: 0, 600
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rudeus Ⅳ
+  rotate: false
+  xy: 0, 600
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rudeus Ⅴ
+  rotate: false
+  xy: 0, 600
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rudeus Final Form
+  rotate: false
+  xy: 0, 600
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Shigure
   rotate: false
   xy: 100, 500
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Shinon Ⅱ
+UnitIcons/Shigure Ⅱ
   rotate: false
   xy: 100, 500
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Shinon Ⅲ
+UnitIcons/Shigure Ⅲ
   rotate: false
   xy: 100, 500
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Shinon Ⅳ
+UnitIcons/Shigure Ⅳ
   rotate: false
   xy: 100, 500
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Shinon Ⅴ
+UnitIcons/Shigure Ⅴ
   rotate: false
   xy: 100, 500
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Shinon Final Form
+UnitIcons/Shigure Final Form
   rotate: false
   xy: 100, 500
   size: 100, 100
@@ -8809,42 +8844,203 @@ UnitIcons/Shinon Final Form
   index: -1
 UnitIcons/Shin
   rotate: false
-  xy: 0, 600
+  xy: 200, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Shin Ⅱ
   rotate: false
-  xy: 0, 600
+  xy: 200, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Shin Ⅲ
   rotate: false
-  xy: 0, 600
+  xy: 200, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Shin Ⅳ
   rotate: false
-  xy: 0, 600
+  xy: 200, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Shin Ⅴ
   rotate: false
-  xy: 0, 600
+  xy: 200, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Shin Final Form
   rotate: false
-  xy: 0, 600
+  xy: 200, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Shinon
+  rotate: false
+  xy: 300, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Shinon Ⅱ
+  rotate: false
+  xy: 300, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Shinon Ⅲ
+  rotate: false
+  xy: 300, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Shinon Ⅳ
+  rotate: false
+  xy: 300, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Shinon Ⅴ
+  rotate: false
+  xy: 300, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Shinon Final Form
+  rotate: false
+  xy: 300, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Shoukaku
+  rotate: false
+  xy: 400, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Shoukaku Final Form
+  rotate: false
+  xy: 400, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Takina
+  rotate: false
+  xy: 500, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Takina Ⅱ
+  rotate: false
+  xy: 500, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Takina Ⅲ
+  rotate: false
+  xy: 500, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Takina Ⅳ
+  rotate: false
+  xy: 500, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Takina Ⅴ
+  rotate: false
+  xy: 500, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Takina Final Form
+  rotate: false
+  xy: 500, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Yamato
+  rotate: false
+  xy: 600, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Yamato Final Form
+  rotate: false
+  xy: 600, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Yuubari
+  rotate: false
+  xy: 0, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Yuubari Ⅱ
+  rotate: false
+  xy: 0, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Yuubari Ⅲ
+  rotate: false
+  xy: 0, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Yuubari Ⅳ
+  rotate: false
+  xy: 0, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Yuubari Final Form
+  rotate: false
+  xy: 0, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Zuikaku
+  rotate: false
+  xy: 100, 600
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Zuikaku Final Form
+  rotate: false
+  xy: 100, 600
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -8862,16 +9058,30 @@ NationIcons/Akatsuki
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Lycoris Recoil
+NationIcons/Engage Kiss
+  rotate: false
+  xy: 0, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Kaifuku Jutsushi no Yarinaoshi
   rotate: false
   xy: 100, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Engage Kiss
+NationIcons/Lycoris Recoil
   rotate: false
-  xy: 0, 100
+  xy: 0, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Sekai Saikou no Ansatsusha
+  rotate: false
+  xy: 100, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
