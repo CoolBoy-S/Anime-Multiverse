@@ -186,7 +186,15 @@
         "movementType": "Land",
     },
     {
+        "name": "Lugh",
+        "movementType": "Land",
+    },
+    {
         "name": "Aqua",
+        "movementType": "Land",
+    },
+    {
+        "name": "Keyaru",
         "movementType": "Land",
     },
     {
@@ -199,6 +207,10 @@
     },
     {
         "name": "Lena",
+        "movementType": "Air",
+    },
+    {
+        "name": "Gungnir",
         "movementType": "Air",
     },
     {
