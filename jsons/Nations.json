@@ -542,7 +542,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Seven Cities of Gold",
 		"uniques": ["100 Gold for discovering a Natural Wonder (bonus enhanced to 500 Gold if first to discover it)",
-			"Double Happiness from Natural Wonders", "Tile yields from Natural Wonders doubled"],
+			"Double Happiness from Natural Wonders", "[+100]% Yield from every [Natural Wonder]"],
 		"cities": ["Madrid","Barcelona","Seville","Cordoba","Toledo","Santiago","Salamanca","Murcia","Valencia","Zaragoza","Pamplona",
 			"Vitoria","Santander","Oviedo","Jaen","Logroño","Valladolid","Palma","Teruel","Almeria","Leon","Zamora","Mida",
 			"Lugo","Alicante","Càdiz","Eiche","Alcorcon","Burgos","Vigo","Badajoz","La Coruña","Guadalquivir","Bilbao",
@@ -1476,5 +1476,59 @@
 		"favoredReligion": "Shinto",
 		"uniqueName": "The Sixth Path",
 		"cities": ["Amegakure"]
+	},
+	{
+		"name": "Sekai Saikou no Ansatsusha",
+		"leaderName": "Tuatha Dé",
+		"adjective": ["The World's Finest Assassin"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "The greatest assassin on Earth knew only how to live as a tool for his employers—until they stopped letting him live. Reborn by the grace of a goddess into a world of swords and sorcery, he's offered a chance to do things differently this time around, but there's a catch...He has to eliminate a super-powerful hero who will bring about the end of the world unless he is stopped.",
+		"startIntroPart2": "Now known as Lugh Tuatha Dé, the master assassin certainly has his hands full, particularly because of all the beautiful girls who constantly surround him. Lugh may have been an incomparable killer, but how will he fare against foes with powerful magic?",
+
+		"declaringWar": "The demon wants the blood of soldiers!",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "It is over. Perhaps now I shall have peace, at last.",
+		"introduction": "Are you real or a phantom?",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+
+		"outerColor": [230, 0, 0],
+		"innerColor": [0, 0, 0],
+		"favoredReligion": "Shinto",
+		"uniqueName": "Eyes of Tuatha Dé",
+		"uniques": ["[1] Sight <for [Lugh] units>"],
+		"cities": ["Alvan Kingdom"]
+	},
+	{
+		"name": "Kaifuku Jutsushi no Yarinaoshi",
+		"leaderName": "Keyaruga",
+		"adjective": ["Redo of Healer"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Healing magicians cannot fight alone. Keyaru, who was bound by this common knowledge, was exploited again and again by others.",
+		"startIntroPart2": "But one day, he noticed what lay beyond healing magic, and was convinced that a healing magician was the strongest class. However, by the time he realized that potential, he was deprived of everything. Thus, he used healing magic on the world itself to go back four years, deciding to redo everything.",
+
+		"declaringWar": "The demon wants the blood of soldiers!",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "It is over. Perhaps now I shall have peace, at last.",
+		"introduction": "Are you real or a phantom?",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+
+		"outerColor": [231, 25, 89],
+		"innerColor": [254, 254, 254],
+		"favoredReligion": "Shinto",
+		"uniqueName": "Out of System Skills",
+		"uniques": ["Damage is ignored when determining unit Strength <for [Keyaru] units>"],
+		"cities": ["Jioral Kingdom"]
 	},
 ]
